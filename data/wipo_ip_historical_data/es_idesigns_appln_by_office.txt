@@ -1,0 +1,3234 @@
+//Solicitudes de registro de diseños industriales por oficina,
+"//por directamente por residentes, directamente por no residentes y sistema de La Haya",
+//Fuente:  Base de datos de estadísticas de la OMPI, diciembre 2011
+//Nota: Es probable que falten datos relativos a algunas oficinas o respecto de ciertos períodos.,
+
+Año,Nombre'Oficina,Código'Oficina,Tipo de solicitante,Número de solicitudes
+1883,"Francia","FR","Directamente_residentes",30718
+1883,"Francia","FR","Directamente_NOresidentes",304
+1883,"Alemania","DE","Directamente total",54257
+1883,"Italia","IT","Directamente_residentes",3
+1883,"Italia","IT","Directamente_NOresidentes",2
+1884,"Bélgica","BE","Directamente_residentes",34
+1884,"Bélgica","BE","Directamente_NOresidentes",11
+1884,"Francia","FR","Directamente_residentes",30597
+1884,"Francia","FR","Directamente_NOresidentes",317
+1884,"Alemania","DE","Directamente total",67889
+1884,"Italia","IT","Directamente_residentes",13
+1884,"Reino Unido","GB","Directamente total",19753
+1884,"Estados Unidos de América","US","Directamente total",1230
+1885,"Bélgica","BE","Directamente total",75
+1885,"Francia","FR","Directamente_residentes",27905
+1885,"Francia","FR","Directamente_NOresidentes",110
+1885,"Alemania","DE","Directamente total",73121
+1885,"Italia","IT","Directamente_residentes",4
+1885,"Italia","IT","Directamente_NOresidentes",1
+1885,"Reino Unido","GB","Directamente total",20725
+1885,"Estados Unidos de América","US","Directamente total",862
+1886,"Bélgica","BE","Directamente total",96
+1886,"Francia","FR","Directamente_residentes",33759
+1886,"Francia","FR","Directamente_NOresidentes",194
+1886,"Alemania","DE","Directamente_residentes",71044
+1886,"Alemania","DE","Directamente_NOresidentes",460
+1886,"Italia","IT","Directamente_residentes",14
+1886,"Italia","IT","Directamente_NOresidentes",22
+1886,"Reino Unido","GB","Directamente total",24041
+1886,"Estados Unidos de América","US","Directamente total",645
+1887,"Bélgica","BE","Directamente total",109
+1887,"Francia","FR","Directamente_residentes",42768
+1887,"Francia","FR","Directamente_NOresidentes",329
+1887,"Alemania","DE","Directamente total",73130
+1887,"Italia","IT","Directamente_residentes",12
+1887,"Italia","IT","Directamente_NOresidentes",2
+1887,"Reino Unido","GB","Directamente total",26043
+1887,"Estados Unidos de América","US","Directamente total",1041
+1888,"Bélgica","BE","Directamente total",148
+1888,"Francia","FR","Directamente_residentes",29858
+1888,"Francia","FR","Directamente_NOresidentes",242
+1888,"Alemania","DE","Directamente_residentes",79900
+1888,"Alemania","DE","Directamente_NOresidentes",805
+1888,"Italia","IT","Directamente_residentes",9
+1888,"Italia","IT","Directamente_NOresidentes",3
+1888,"Reino Unido","GB","Directamente total",26239
+1888,"Estados Unidos de América","US","Directamente total",971
+1889,"Bélgica","BE","Directamente total",229
+1889,"Francia","FR","Directamente_residentes",33355
+1889,"Francia","FR","Directamente_NOresidentes",256
+1889,"Alemania","DE","Directamente total",76322
+1889,"Italia","IT","Directamente_residentes",15
+1889,"Italia","IT","Directamente_NOresidentes",1
+1889,"Japón","JP","Directamente total",176
+1889,"Suiza","CH","Directamente total",1374
+1889,"Reino Unido","GB","Directamente total",24705
+1889,"Estados Unidos de América","US","Directamente total",857
+1890,"Bélgica","BE","Directamente total",89
+1890,"Francia","FR","Directamente_residentes",31424
+1890,"Francia","FR","Directamente_NOresidentes",710
+1890,"Alemania","DE","Directamente total",75496
+1890,"Italia","IT","Directamente_residentes",6
+1890,"Italia","IT","Directamente_NOresidentes",1
+1890,"Japón","JP","Directamente total",497
+1890,"Suiza","CH","Directamente total",1021
+1890,"Reino Unido","GB","Directamente_residentes",22235
+1890,"Reino Unido","GB","Directamente_NOresidentes",318
+1890,"Estados Unidos de América","US","Directamente total",1086
+1891,"Bélgica","BE","Directamente total",96
+1891,"Francia","FR","Directamente_residentes",38210
+1891,"Francia","FR","Directamente_NOresidentes",453
+1891,"Alemania","DE","Directamente total",82405
+1891,"Italia","IT","Directamente_residentes",7
+1891,"Japón","JP","Directamente total",290
+1891,"Suiza","CH","Directamente total",2170
+1891,"Reino Unido","GB","Directamente total",21950
+1891,"Estados Unidos de América","US","Directamente total",1025
+1892,"Bélgica","BE","Directamente total",135
+1892,"Francia","FR","Directamente_residentes",47605
+1892,"Francia","FR","Directamente_NOresidentes",1009
+1892,"Alemania","DE","Directamente total",91891
+1892,"Hungría","HU","Directamente_residentes",345
+1892,"Hungría","HU","Directamente_NOresidentes",325
+1892,"Italia","IT","Directamente_residentes",23
+1892,"Italia","IT","Directamente_NOresidentes",3
+1892,"Japón","JP","Directamente total",262
+1892,"Suiza","CH","Directamente total",2692
+1892,"Reino Unido","GB","Directamente total",19527
+1892,"Estados Unidos de América","US","Directamente total",1130
+1893,"Bélgica","BE","Directamente total",137
+1893,"Brasil","BR","Directamente total",180
+1893,"Francia","FR","Directamente_residentes",52568
+1893,"Francia","FR","Directamente_NOresidentes",607
+1893,"Alemania","DE","Directamente total",87774
+1893,"Hungría","HU","Directamente_residentes",331
+1893,"Hungría","HU","Directamente_NOresidentes",251
+1893,"Italia","IT","Directamente_residentes",10
+1893,"Italia","IT","Directamente_NOresidentes",5
+1893,"Japón","JP","Directamente total",250
+1893,"Suiza","CH","Directamente total",8676
+1893,"Reino Unido","GB","Directamente total",19480
+1893,"Estados Unidos de América","US","Directamente total",1060
+1894,"Bélgica","BE","Directamente total",145
+1894,"Francia","FR","Directamente_residentes",46857
+1894,"Francia","FR","Directamente_NOresidentes",3825
+1894,"Alemania","DE","Directamente total",95073
+1894,"Hungría","HU","Directamente_residentes",354
+1894,"Hungría","HU","Directamente_NOresidentes",388
+1894,"Italia","IT","Directamente_residentes",46
+1894,"Italia","IT","Directamente_NOresidentes",1
+1894,"Japón","JP","Directamente total",236
+1894,"Nueva Zelandia","NZ","Directamente total",15
+1894,"Suiza","CH","Directamente total",25786
+1894,"Reino Unido","GB","Directamente total",22255
+1894,"Estados Unidos de América","US","Directamente total",1357
+1895,"Bélgica","BE","Directamente total",157
+1895,"Francia","FR","Directamente_residentes",51818
+1895,"Francia","FR","Directamente_NOresidentes",3645
+1895,"Alemania","DE","Directamente total",109236
+1895,"Hungría","HU","Directamente_residentes",513
+1895,"Hungría","HU","Directamente_NOresidentes",539
+1895,"Italia","IT","Directamente_residentes",57
+1895,"Italia","IT","Directamente_NOresidentes",5
+1895,"Japón","JP","Directamente total",318
+1895,"Nueva Zelandia","NZ","Directamente total",14
+1895,"Portugal","PT","Directamente total",484
+1895,"Suiza","CH","Directamente total",56021
+1895,"Reino Unido","GB","Directamente total",21417
+1895,"Estados Unidos de América","US","Directamente total",1463
+1896,"Bélgica","BE","Directamente total",175
+1896,"Francia","FR","Directamente_residentes",51350
+1896,"Francia","FR","Directamente_NOresidentes",3761
+1896,"Alemania","DE","Directamente total",114570
+1896,"Hungría","HU","Directamente_residentes",782
+1896,"Hungría","HU","Directamente_NOresidentes",314
+1896,"Italia","IT","Directamente_residentes",81
+1896,"Italia","IT","Directamente_NOresidentes",11
+1896,"Japón","JP","Directamente total",300
+1896,"Nueva Zelandia","NZ","Directamente total",27
+1896,"Portugal","PT","Directamente total",160
+1896,"Suiza","CH","Directamente total",45591
+1896,"Reino Unido","GB","Directamente total",22849
+1896,"Estados Unidos de América","US","Directamente total",1828
+1897,"Bélgica","BE","Directamente total",199
+1897,"Francia","FR","Directamente_residentes",70696
+1897,"Francia","FR","Directamente_NOresidentes",3268
+1897,"Alemania","DE","Directamente total",112142
+1897,"Hungría","HU","Directamente_residentes",538
+1897,"Hungría","HU","Directamente_NOresidentes",486
+1897,"Italia","IT","Directamente_residentes",34
+1897,"Italia","IT","Directamente_NOresidentes",6
+1897,"Japón","JP","Directamente total",320
+1897,"Nueva Zelandia","NZ","Directamente total",13
+1897,"Portugal","PT","Directamente total",189
+1897,"Suiza","CH","Directamente total",27917
+1897,"Reino Unido","GB","Directamente total",20417
+1897,"Estados Unidos de América","US","Directamente total",2150
+1898,"Austria","AT","Directamente total",9871
+1898,"Bélgica","BE","Directamente total",203
+1898,"Francia","FR","Directamente_residentes",68240
+1898,"Francia","FR","Directamente_NOresidentes",1947
+1898,"Alemania","DE","Directamente total",131154
+1898,"Hungría","HU","Directamente_residentes",525
+1898,"Hungría","HU","Directamente_NOresidentes",291
+1898,"Italia","IT","Directamente_residentes",169
+1898,"Italia","IT","Directamente_NOresidentes",32
+1898,"Japón","JP","Directamente total",265
+1898,"Nueva Zelandia","NZ","Directamente total",10
+1898,"Portugal","PT","Directamente total",56
+1898,"Suiza","CH","Directamente total",25234
+1898,"Reino Unido","GB","Directamente total",20049
+1898,"Estados Unidos de América","US","Directamente total",1843
+1899,"Austria","AT","Directamente total",10622
+1899,"Bélgica","BE","Directamente total",200
+1899,"Canadá","CA","Directamente total",116
+1899,"Francia","FR","Directamente_residentes",57216
+1899,"Francia","FR","Directamente_NOresidentes",1216
+1899,"Alemania","DE","Directamente total",123503
+1899,"Hungría","HU","Directamente_residentes",901
+1899,"Hungría","HU","Directamente_NOresidentes",186
+1899,"Italia","IT","Directamente_residentes",49
+1899,"Italia","IT","Directamente_NOresidentes",14
+1899,"Japón","JP","Directamente total",342
+1899,"Nueva Zelandia","NZ","Directamente total",13
+1899,"Portugal","PT","Directamente total",42
+1899,"Suiza","CH","Directamente total",35533
+1899,"Reino Unido","GB","Directamente total",19495
+1899,"Estados Unidos de América","US","Directamente total",2400
+1900,"Austria","AT","Directamente total",10865
+1900,"Bélgica","BE","Directamente total",167
+1900,"Francia","FR","Directamente_residentes",50882
+1900,"Francia","FR","Directamente_NOresidentes",1129
+1900,"Alemania","DE","Directamente total",131666
+1900,"Hungría","HU","Directamente_residentes",350
+1900,"Hungría","HU","Directamente_NOresidentes",176
+1900,"Italia","IT","Directamente total",55
+1900,"Japón","JP","Directamente total",397
+1900,"Nueva Zelandia","NZ","Directamente total",15
+1900,"Portugal","PT","Directamente total",53
+1900,"Suecia","SE","Directamente total",29
+1900,"Suiza","CH","Directamente total",66428
+1900,"Reino Unido","GB","Directamente total",16952
+1900,"Estados Unidos de América","US","Directamente total",2225
+1901,"Austria","AT","Directamente total",10696
+1901,"Bélgica","BE","Directamente total",201
+1901,"Canadá","CA","Directamente total",158
+1901,"Francia","FR","Directamente total",51629
+1901,"Alemania","DE","Directamente total",135994
+1901,"Italia","IT","Directamente total",36
+1901,"Japón","JP","Directamente total",514
+1901,"Nueva Zelandia","NZ","Directamente total",18
+1901,"Portugal","PT","Directamente total",12
+1901,"Suecia","SE","Directamente total",24
+1901,"Suiza","CH","Directamente total",107472
+1901,"Reino Unido","GB","Directamente total",16934
+1901,"Estados Unidos de América","US","Directamente total",2361
+1902,"Austria","AT","Directamente total",13034
+1902,"Bélgica","BE","Directamente total",212
+1902,"Canadá","CA","Directamente total",152
+1902,"Francia","FR","Directamente_residentes",58184
+1902,"Francia","FR","Directamente_NOresidentes",798
+1902,"Alemania","DE","Directamente total",160764
+1902,"Hungría","HU","Directamente total",1037
+1902,"Italia","IT","Directamente total",55
+1902,"Japón","JP","Directamente total",730
+1902,"México","MX","Directamente total",3
+1902,"Nueva Zelandia","NZ","Directamente total",28
+1902,"Portugal","PT","Directamente total",42
+1902,"España","ES","Directamente total",119
+1902,"Suecia","SE","Directamente total",33
+1902,"Suiza","CH","Directamente total",149924
+1902,"Reino Unido","GB","Directamente total",17825
+1902,"Estados Unidos de América","US","Directamente total",1170
+1903,"Austria","AT","Directamente total",15942
+1903,"Bélgica","BE","Directamente total",215
+1903,"Canadá","CA","Directamente total",98
+1903,"Francia","FR","Directamente_residentes",61766
+1903,"Francia","FR","Directamente_NOresidentes",1541
+1903,"Alemania","DE","Directamente total",171461
+1903,"Hungría","HU","Directamente total",1405
+1903,"Italia","IT","Directamente total",129
+1903,"Japón","JP","Directamente total",1181
+1903,"México","MX","Directamente total",4
+1903,"Nueva Zelandia","NZ","Directamente total",26
+1903,"Portugal","PT","Directamente total",39
+1903,"España","ES","Directamente total",205
+1903,"Suecia","SE","Directamente total",34
+1903,"Suiza","CH","Directamente total",226933
+1903,"Túnez","TN","Directamente total",1
+1903,"Reino Unido","GB","Directamente total",21104
+1903,"Estados Unidos de América","US","Directamente total",770
+1904,"Austria","AT","Directamente total",17113
+1904,"Bélgica","BE","Directamente total",210
+1904,"Canadá","CA","Directamente total",156
+1904,"Cuba","CU","Directamente total",6
+1904,"Francia","FR","Directamente_residentes",61283
+1904,"Francia","FR","Directamente_NOresidentes",2904
+1904,"Alemania","DE","Directamente total",192352
+1904,"Hungría","HU","Directamente total",1191
+1904,"Italia","IT","Directamente total",51
+1904,"Japón","JP","Directamente total",1378
+1904,"México","MX","Directamente total",22
+1904,"Nueva Zelandia","NZ","Directamente total",24
+1904,"Portugal","PT","Directamente total",36
+1904,"España","ES","Directamente total",189
+1904,"Suecia","SE","Directamente total",32
+1904,"Suiza","CH","Directamente total",254256
+1904,"Reino Unido","GB","Directamente total",23531
+1904,"Estados Unidos de América","US","Directamente total",818
+1905,"Austria","AT","Directamente total",14973
+1905,"Bélgica","BE","Directamente total",351
+1905,"Dinamarca","DK","Directamente total",601
+1905,"Francia","FR","Directamente total",51200
+1905,"Alemania","DE","Directamente total",211398
+1905,"Hungría","HU","Directamente total",1245
+1905,"Italia","IT","Directamente total",98
+1905,"Japón","JP","Directamente total",1562
+1905,"México","MX","Directamente total",65
+1905,"Nueva Zelandia","NZ","Directamente total",54
+1905,"Portugal","PT","Directamente total",29
+1905,"España","ES","Directamente total",177
+1905,"Suecia","SE","Directamente total",20
+1905,"Suiza","CH","Directamente total",243107
+1905,"Reino Unido","GB","Directamente total",23938
+1905,"Estados Unidos de América","US","Directamente total",781
+1906,"Austria","AT","Directamente total",14912
+1906,"Bélgica","BE","Directamente total",222
+1906,"Dinamarca","DK","Directamente total",411
+1906,"Francia","FR","Directamente_residentes",48859
+1906,"Francia","FR","Directamente_NOresidentes",3564
+1906,"Alemania","DE","Directamente total",213304
+1906,"Hungría","HU","Directamente total",2051
+1906,"Italia","IT","Directamente total",115
+1906,"Japón","JP","Directamente total",1532
+1906,"México","MX","Directamente total",31
+1906,"Nueva Zelandia","NZ","Directamente total",36
+1906,"Portugal","PT","Directamente total",40
+1906,"España","ES","Directamente total",254
+1906,"Suecia","SE","Directamente total",22
+1906,"Suiza","CH","Directamente total",245840
+1906,"Reino Unido","GB","Directamente total",22001
+1906,"Estados Unidos de América","US","Directamente total",806
+1907,"Australia","AU","Directamente total",176
+1907,"Austria","AT","Directamente total",13012
+1907,"Bélgica","BE","Directamente total",241
+1907,"Dinamarca","DK","Directamente total",346
+1907,"Francia","FR","Directamente total",56238
+1907,"Alemania","DE","Directamente total",220874
+1907,"Hungría","HU","Directamente total",1445
+1907,"Italia","IT","Directamente total",115
+1907,"Japón","JP","Directamente total",1438
+1907,"México","MX","Directamente total",56
+1907,"Nueva Zelandia","NZ","Directamente total",57
+1907,"Portugal","PT","Directamente total",33
+1907,"España","ES","Directamente total",196
+1907,"Suecia","SE","Directamente total",30
+1907,"Suiza","CH","Directamente total",272773
+1907,"Reino Unido","GB","Directamente total",24928
+1907,"Estados Unidos de América","US","Directamente total",896
+1908,"Australia","AU","Directamente total",154
+1908,"Austria","AT","Directamente total",11980
+1908,"Bélgica","BE","Directamente total",303
+1908,"Dinamarca","DK","Directamente total",415
+1908,"Francia","FR","Directamente_residentes",54754
+1908,"Francia","FR","Directamente_NOresidentes",3729
+1908,"Alemania","DE","Directamente total",217750
+1908,"Hungría","HU","Directamente total",12116
+1908,"Italia","IT","Directamente total",83
+1908,"Japón","JP","Directamente total",1623
+1908,"México","MX","Directamente total",40
+1908,"Nueva Zelandia","NZ","Directamente total",79
+1908,"Portugal","PT","Directamente total",22
+1908,"España","ES","Directamente total",204
+1908,"Suecia","SE","Directamente total",47
+1908,"Suiza","CH","Directamente total",305577
+1908,"Reino Unido","GB","Directamente total",24907
+1908,"Estados Unidos de América","US","Directamente total",1131
+1909,"Australia","AU","Directamente total",186
+1909,"Austria","AT","Directamente total",12241
+1909,"Bélgica","BE","Directamente total",316
+1909,"Cuba","CU","Directamente total",1
+1909,"Dinamarca","DK","Directamente total",505
+1909,"Francia","FR","Directamente_residentes",59267
+1909,"Francia","FR","Directamente_NOresidentes",5901
+1909,"Alemania","DE","Directamente total",221991
+1909,"Hungría","HU","Directamente total",1536
+1909,"Italia","IT","Directamente total",100
+1909,"Japón","JP","Directamente total",1718
+1909,"México","MX","Directamente total",75
+1909,"Nueva Zelandia","NZ","Directamente total",57
+1909,"Portugal","PT","Directamente total",21
+1909,"España","ES","Directamente total",176
+1909,"Suecia","SE","Directamente total",25
+1909,"Suiza","CH","Directamente total",322046
+1909,"Reino Unido","GB","Directamente total",26412
+1909,"Estados Unidos de América","US","Directamente total",1234
+1910,"Australia","AU","Directamente total",187
+1910,"Austria","AT","Directamente total",12451
+1910,"Bélgica","BE","Directamente total",340
+1910,"Dinamarca","DK","Directamente total",659
+1910,"Francia","FR","Directamente_residentes",50421
+1910,"Francia","FR","Directamente_NOresidentes",2188
+1910,"Alemania","DE","Directamente total",206730
+1910,"Hungría","HU","Directamente total",1287
+1910,"Italia","IT","Directamente total",111
+1910,"Japón","JP","Directamente total",2240
+1910,"México","MX","Directamente total",73
+1910,"Nueva Zelandia","NZ","Directamente total",50
+1910,"Portugal","PT","Directamente total",29
+1910,"España","ES","Directamente total",183
+1910,"Suecia","SE","Directamente total",41
+1910,"Suiza","CH","Directamente total",309752
+1910,"Reino Unido","GB","Directamente total",32745
+1910,"Estados Unidos de América","US","Directamente total",1155
+1911,"Australia","AU","Directamente total",203
+1911,"Austria","AT","Directamente total",12432
+1911,"Bélgica","BE","Directamente total",363
+1911,"Cuba","CU","Directamente total",20
+1911,"Dinamarca","DK","Directamente total",573
+1911,"Francia","FR","Directamente_residentes",52002
+1911,"Francia","FR","Directamente_NOresidentes",1852
+1911,"Alemania","DE","Directamente total",193861
+1911,"Hungría","HU","Directamente total",926
+1911,"Italia","IT","Directamente total",163
+1911,"Japón","JP","Directamente total",2254
+1911,"México","MX","Directamente total",69
+1911,"Nueva Zelandia","NZ","Directamente total",21
+1911,"Noruega","NO","Directamente total",317
+1911,"Portugal","PT","Directamente total",36
+1911,"España","ES","Directamente total",381
+1911,"Suecia","SE","Directamente total",36
+1911,"Suiza","CH","Directamente total",341597
+1911,"Túnez","TN","Directamente total",28
+1911,"Reino Unido","GB","Directamente total",43057
+1911,"Estados Unidos de América","US","Directamente total",1534
+1912,"Australia","AU","Directamente total",245
+1912,"Austria","AT","Directamente total",12638
+1912,"Bélgica","BE","Directamente total",404
+1912,"Dinamarca","DK","Directamente total",888
+1912,"Francia","FR","Directamente_residentes",53317
+1912,"Francia","FR","Directamente_NOresidentes",2567
+1912,"Alemania","DE","Directamente total",174966
+1912,"Hungría","HU","Directamente total",12896
+1912,"Italia","IT","Directamente total",208
+1912,"Japón","JP","Directamente total",2420
+1912,"México","MX","Directamente total",26
+1912,"Nueva Zelandia","NZ","Directamente total",44
+1912,"Noruega","NO","Directamente total",230
+1912,"Portugal","PT","Directamente total",30
+1912,"España","ES","Directamente total",171
+1912,"Suecia","SE","Directamente total",34
+1912,"Suiza","CH","Directamente total",342586
+1912,"Túnez","TN","Directamente total",34
+1912,"Reino Unido","GB","Directamente total",43015
+1912,"Estados Unidos de América","US","Directamente total",1850
+1913,"Australia","AU","Directamente total",301
+1913,"Austria","AT","Directamente total",13269
+1913,"Bélgica","BE","Directamente total",394
+1913,"Cuba","CU","Directamente total",9
+1913,"Dinamarca","DK","Directamente total",869
+1913,"Francia","FR","Directamente_residentes",51803
+1913,"Francia","FR","Directamente_NOresidentes",1910
+1913,"Alemania","DE","Directamente total",183426
+1913,"Hungría","HU","Directamente total",13170
+1913,"Italia","IT","Directamente total",171
+1913,"Japón","JP","Directamente total",3103
+1913,"Nueva Zelandia","NZ","Directamente total",64
+1913,"Noruega","NO","Directamente total",236
+1913,"Portugal","PT","Directamente total",51
+1913,"España","ES","Directamente total",222
+1913,"Suecia","SE","Directamente total",28
+1913,"Suiza","CH","Directamente total",483648
+1913,"Túnez","TN","Directamente total",47
+1913,"Reino Unido","GB","Directamente total",40429
+1913,"Estados Unidos de América","US","Directamente total",2060
+1914,"Australia","AU","Directamente total",267
+1914,"Austria","AT","Directamente total",11004
+1914,"Bélgica","BE","Directamente total",421
+1914,"Cuba","CU","Directamente total",30
+1914,"Dinamarca","DK","Directamente total",621
+1914,"Francia","FR","Directamente_residentes",30458
+1914,"Francia","FR","Directamente_NOresidentes",1063
+1914,"Alemania","DE","Directamente total",131755
+1914,"Hungría","HU","Directamente total",10898
+1914,"Italia","IT","Directamente total",255
+1914,"Japón","JP","Directamente total",3868
+1914,"Nueva Zelandia","NZ","Directamente total",55
+1914,"Noruega","NO","Directamente total",286
+1914,"Portugal","PT","Directamente total",70
+1914,"España","ES","Directamente total",205
+1914,"Suecia","SE","Directamente total",43
+1914,"Suiza","CH","Directamente total",423145
+1914,"Túnez","TN","Directamente total",9
+1914,"Reino Unido","GB","Directamente total",34354
+1914,"Estados Unidos de América","US","Directamente total",2454
+1915,"Australia","AU","Directamente total",326
+1915,"Austria","AT","Directamente total",4421
+1915,"Bélgica","BE","Directamente total",188
+1915,"Dinamarca","DK","Directamente total",944
+1915,"Francia","FR","Directamente_residentes",9945
+1915,"Francia","FR","Directamente_NOresidentes",68
+1915,"Hungría","HU","Directamente total",4585
+1915,"Italia","IT","Directamente total",128
+1915,"Japón","JP","Directamente total",3662
+1915,"México","MX","Directamente total",6
+1915,"Nueva Zelandia","NZ","Directamente total",89
+1915,"Noruega","NO","Directamente total",239
+1915,"Portugal","PT","Directamente total",78
+1915,"España","ES","Directamente total",275
+1915,"Suecia","SE","Directamente total",51
+1915,"Suiza","CH","Directamente total",353339
+1915,"Túnez","TN","Directamente_residentes",2
+1915,"Reino Unido","GB","Directamente total",18130
+1915,"Estados Unidos de América","US","Directamente total",2734
+1916,"Australia","AU","Directamente total",298
+1916,"Austria","AT","Directamente total",3307
+1916,"Bélgica","BE","Directamente total",144
+1916,"Dinamarca","DK","Directamente total",491
+1916,"Francia","FR","Directamente_residentes",11805
+1916,"Francia","FR","Directamente_NOresidentes",91
+1916,"Alemania","DE","Directamente total",29981
+1916,"Hungría","HU","Directamente total",3371
+1916,"Italia","IT","Directamente total",50
+1916,"Japón","JP","Directamente total",3109
+1916,"México","MX","Directamente total",19
+1916,"Nueva Zelandia","NZ","Directamente total",113
+1916,"Noruega","NO","Directamente total",176
+1916,"Portugal","PT","Directamente total",63
+1916,"España","ES","Directamente total",236
+1916,"Suecia","SE","Directamente total",47
+1916,"Suiza","CH","Directamente total",398296
+1916,"Túnez","TN","Directamente total",5
+1916,"Reino Unido","GB","Directamente total",15399
+1916,"Estados Unidos de América","US","Directamente total",2684
+1917,"Australia","AU","Directamente total",266
+1917,"Austria","AT","Directamente total",2303
+1917,"Bélgica","BE","Directamente total",135
+1917,"Dinamarca","DK","Directamente total",722
+1917,"Francia","FR","Directamente_residentes",9522
+1917,"Francia","FR","Directamente_NOresidentes",109
+1917,"Alemania","DE","Directamente total",10327
+1917,"Hungría","HU","Directamente total",2472
+1917,"Italia","IT","Directamente total",103
+1917,"Japón","JP","Directamente total",2763
+1917,"México","MX","Directamente total",31
+1917,"Nueva Zelandia","NZ","Directamente total",83
+1917,"Noruega","NO","Directamente total",187
+1917,"Portugal","PT","Directamente total",56
+1917,"España","ES","Directamente_residentes",33
+1917,"España","ES","Directamente_NOresidentes",347
+1917,"Suecia","SE","Directamente total",33
+1917,"Suiza","CH","Directamente total",250756
+1917,"Túnez","TN","Directamente total",7
+1917,"Reino Unido","GB","Directamente total",13208
+1917,"Estados Unidos de América","US","Directamente total",2545
+1918,"Australia","AU","Directamente total",262
+1918,"Austria","AT","Directamente total",2076
+1918,"Bélgica","BE","Directamente total",62
+1918,"Cuba","CU","Directamente total",6
+1918,"Dinamarca","DK","Directamente total",1018
+1918,"Francia","FR","Directamente_residentes",6486
+1918,"Francia","FR","Directamente_NOresidentes",46
+1918,"Alemania","DE","Directamente total",7650
+1918,"Hungría","HU","Directamente total",1926
+1918,"Italia","IT","Directamente total",116
+1918,"Japón","JP","Directamente total",2673
+1918,"México","MX","Directamente total",36
+1918,"Nueva Zelandia","NZ","Directamente total",53
+1918,"Noruega","NO","Directamente total",312
+1918,"Portugal","PT","Directamente total",51
+1918,"España","ES","Directamente total",171
+1918,"Suecia","SE","Directamente total",46
+1918,"Suiza","CH","Directamente total",178390
+1918,"Túnez","TN","Directamente total",9
+1918,"Reino Unido","GB","Directamente total",10019
+1918,"Estados Unidos de América","US","Directamente total",2234
+1919,"Australia","AU","Directamente total",256
+1919,"Austria","AT","Directamente total",1876
+1919,"Bélgica","BE","Directamente total",206
+1919,"Dinamarca","DK","Directamente total",678
+1919,"Francia","FR","Directamente_residentes",13298
+1919,"Francia","FR","Directamente_NOresidentes",195
+1919,"Alemania","DE","Directamente total",16195
+1919,"Hungría","HU","Directamente total",102
+1919,"Italia","IT","Directamente total",174
+1919,"Japón","JP","Directamente total",3011
+1919,"México","MX","Directamente total",49
+1919,"Marruecos","MA","Directamente total",3
+1919,"Nueva Zelandia","NZ","Directamente total",73
+1919,"Noruega","NO","Directamente total",299
+1919,"Polonia","PL","Directamente total",147
+1919,"Portugal","PT","Directamente total",55
+1919,"España","ES","Directamente total",199
+1919,"Suecia","SE","Directamente total",53
+1919,"Suiza","CH","Directamente total",181603
+1919,"Túnez","TN","Directamente total",3
+1919,"Reino Unido","GB","Directamente total",14094
+1919,"Estados Unidos de América","US","Directamente total",3627
+1920,"Australia","AU","Directamente total",278
+1920,"Austria","AT","Directamente total",2130
+1920,"Bélgica","BE","Directamente total",349
+1920,"Dinamarca","DK","Directamente total",776
+1920,"Francia","FR","Directamente_residentes",19498
+1920,"Francia","FR","Directamente_NOresidentes",161
+1920,"Alemania","DE","Directamente total",24975
+1920,"Hungría","HU","Directamente total",448
+1920,"Italia","IT","Directamente total",155
+1920,"Japón","JP","Directamente total",2776
+1920,"México","MX","Directamente total",72
+1920,"Marruecos","MA","Directamente total",3
+1920,"Noruega","NO","Directamente total",331
+1920,"Polonia","PL","Directamente total",194
+1920,"Portugal","PT","Directamente total",49
+1920,"España","ES","Directamente total",168
+1920,"Suecia","SE","Directamente total",54
+1920,"Suiza","CH","Directamente total",252868
+1920,"Túnez","TN","Directamente total",7
+1920,"Reino Unido","GB","Directamente total",13669
+1920,"Estados Unidos de América","US","Directamente total",4660
+1921,"Australia","AU","Directamente total",356
+1921,"Austria","AT","Directamente total",2680
+1921,"Bélgica","BE","Directamente total",351
+1921,"Canadá","CA","Directamente total",316
+1921,"Dinamarca","DK","Directamente total",915
+1921,"Francia","FR","Directamente_residentes",13154
+1921,"Francia","FR","Directamente_NOresidentes",155
+1921,"Alemania","DE","Directamente total",38310
+1921,"Hungría","HU","Directamente total",336
+1921,"Italia","IT","Directamente total",263
+1921,"Japón","JP","Directamente total",2785
+1921,"México","MX","Directamente total",61
+1921,"Marruecos","MA","Directamente total",2
+1921,"Nueva Zelandia","NZ","Directamente total",141
+1921,"Noruega","NO","Directamente total",322
+1921,"Polonia","PL","Directamente total",202
+1921,"Portugal","PT","Directamente total",98
+1921,"España","ES","Directamente total",256
+1921,"Suecia","SE","Directamente total",56
+1921,"Suiza","CH","Directamente total",144869
+1921,"Túnez","TN","Directamente total",19
+1921,"Reino Unido","GB","Directamente total",13387
+1921,"Estados Unidos de América","US","Directamente total",5596
+1922,"Australia","AU","Directamente total",427
+1922,"Austria","AT","Directamente total",4571
+1922,"Bélgica","BE","Directamente total",573
+1922,"Dinamarca","DK","Directamente total",1315
+1922,"Francia","FR","Directamente_residentes",31237
+1922,"Francia","FR","Directamente_NOresidentes",141
+1922,"Alemania","DE","Directamente total",30676
+1922,"Hungría","HU","Directamente total",354
+1922,"Italia","IT","Directamente total",243
+1922,"Japón","JP","Directamente total",2837
+1922,"México","MX","Directamente total",149
+1922,"Marruecos","MA","Directamente total",5
+1922,"Nueva Zelandia","NZ","Directamente total",214
+1922,"Noruega","NO","Directamente total",438
+1922,"Polonia","PL","Directamente total",395
+1922,"Portugal","PT","Directamente total",65
+1922,"España","ES","Directamente total",272
+1922,"Suecia","SE","Directamente total",42
+1922,"Suiza","CH","Directamente total",189471
+1922,"Túnez","TN","Directamente total",5
+1922,"Reino Unido","GB","Directamente total",15736
+1922,"Estados Unidos de América","US","Directamente total",4763
+1923,"Australia","AU","Directamente total",488
+1923,"Austria","AT","Directamente total",4823
+1923,"Bélgica","BE","Directamente total",640
+1923,"Dinamarca","DK","Directamente total",1424
+1923,"Francia","FR","Directamente_residentes",32900
+1923,"Francia","FR","Directamente_NOresidentes",283
+1923,"Hungría","HU","Directamente total",268
+1923,"Italia","IT","Directamente total",348
+1923,"Japón","JP","Directamente_residentes",2513
+1923,"Japón","JP","Directamente_NOresidentes",11
+1923,"Marruecos","MA","Directamente total",14
+1923,"Nueva Zelandia","NZ","Directamente total",178
+1923,"Noruega","NO","Directamente total",422
+1923,"Polonia","PL","Directamente total",258
+1923,"Portugal","PT","Directamente total",69
+1923,"España","ES","Directamente total",277
+1923,"Suecia","SE","Directamente total",76
+1923,"Suiza","CH","Directamente total",221490
+1923,"Túnez","TN","Directamente total",20
+1923,"Reino Unido","GB","Directamente total",19085
+1923,"Estados Unidos de América","US","Directamente total",3550
+1924,"Australia","AU","Directamente total",498
+1924,"Austria","AT","Directamente total",6174
+1924,"Bélgica","BE","Directamente total",831
+1924,"Dinamarca","DK","Directamente total",1615
+1924,"Francia","FR","Directamente_residentes",41693
+1924,"Francia","FR","Directamente_NOresidentes",183
+1924,"Alemania","DE","Directamente total",35277
+1924,"Hungría","HU","Directamente total",404
+1924,"Italia","IT","Directamente total",615
+1924,"Japón","JP","Directamente_residentes",3759
+1924,"Japón","JP","Directamente_NOresidentes",21
+1924,"México","MX","Directamente total",69
+1924,"Marruecos","MA","Directamente total",13
+1924,"Nueva Zelandia","NZ","Directamente total",185
+1924,"Noruega","NO","Directamente total",459
+1924,"Polonia","PL","Directamente total",19
+1924,"Portugal","PT","Directamente total",81
+1924,"España","ES","Directamente total",399
+1924,"Suecia","SE","Directamente total",97
+1924,"Suiza","CH","Directamente total",195656
+1924,"Túnez","TN","Directamente total",10
+1924,"Reino Unido","GB","Directamente total",22155
+1924,"Estados Unidos de América","US","Directamente total",3635
+1925,"Australia","AU","Directamente total",554
+1925,"Austria","AT","Directamente total",6279
+1925,"Bélgica","BE","Directamente total",1308
+1925,"Dinamarca","DK","Directamente total",1633
+1925,"Francia","FR","Directamente_residentes",39718
+1925,"Francia","FR","Directamente_NOresidentes",629
+1925,"Alemania","DE","Directamente total",57035
+1925,"Hungría","HU","Directamente total",516
+1925,"Italia","IT","Directamente total",555
+1925,"Japón","JP","Directamente_residentes",5200
+1925,"Japón","JP","Directamente_NOresidentes",32
+1925,"México","MX","Directamente total",71
+1925,"Marruecos","MA","Directamente total",18
+1925,"Nueva Zelandia","NZ","Directamente total",203
+1925,"Noruega","NO","Directamente total",517
+1925,"Polonia","PL","Directamente total",374
+1925,"Portugal","PT","Directamente total",119
+1925,"Union Soviética","SU","Directamente total",222
+1925,"España","ES","Directamente total",503
+1925,"Suecia","SE","Directamente total",108
+1925,"Túnez","TN","Directamente total",8
+1925,"Reino Unido","GB","Directamente total",23801
+1925,"Estados Unidos de América","US","Directamente total",4082
+1926,"Australia","AU","Directamente total",579
+1926,"Austria","AT","Directamente total",6697
+1926,"Bélgica","BE","Directamente total",1665
+1926,"Cuba","CU","Directamente total",170
+1926,"Dinamarca","DK","Directamente total",1539
+1926,"Francia","FR","Directamente_residentes",38267
+1926,"Francia","FR","Directamente_NOresidentes",454
+1926,"Alemania","DE","Directamente total",78021
+1926,"Hungría","HU","Directamente total",647
+1926,"Italia","IT","Directamente total",475
+1926,"Japón","JP","Directamente_residentes",7277
+1926,"Japón","JP","Directamente_NOresidentes",77
+1926,"México","MX","Directamente total",86
+1926,"Marruecos","MA","Directamente total",14
+1926,"Nueva Zelandia","NZ","Directamente total",204
+1926,"Noruega","NO","Directamente total",536
+1926,"Polonia","PL","Directamente total",365
+1926,"Portugal","PT","Directamente total",106
+1926,"Union Soviética","SU","Directamente total",271
+1926,"España","ES","Directamente total",832
+1926,"Suecia","SE","Directamente total",92
+1926,"Suiza","CH","Directamente total",202228
+1926,"Túnez","TN","Directamente total",12
+1926,"Reino Unido","GB","Directamente total",23206
+1926,"Estados Unidos de América","US","Directamente total",4257
+1927,"Australia","AU","Directamente total",580
+1927,"Austria","AT","Directamente total",5937
+1927,"Dinamarca","DK","Directamente total",1695
+1927,"Francia","FR","Directamente_residentes",45191
+1927,"Francia","FR","Directamente_NOresidentes",375
+1927,"Alemania","DE","Directamente total",77591
+1927,"Hungría","HU","Directamente total",564
+1927,"Irlanda","IE","Directamente total",73
+1927,"Italia","IT","Directamente total",635
+1927,"Japón","JP","Directamente_residentes",9162
+1927,"Japón","JP","Directamente_NOresidentes",19
+1927,"México","MX","Directamente total",87
+1927,"Marruecos","MA","Directamente total",12
+1927,"Nueva Zelandia","NZ","Directamente total",145
+1927,"Noruega","NO","Directamente_residentes",474
+1927,"Noruega","NO","Directamente_NOresidentes",43
+1927,"Polonia","PL","Directamente total",580
+1927,"Portugal","PT","Directamente total",98
+1927,"Union Soviética","SU","Directamente total",420
+1927,"España","ES","Directamente total",568
+1927,"Suecia","SE","Directamente total",154
+1927,"Suiza","CH","Directamente total",218152
+1927,"Túnez","TN","Directamente total",18
+1927,"Reino Unido","GB","Directamente total",22707
+1927,"Estados Unidos de América","US","Directamente total",4473
+1928,"Australia","AU","Directamente total",574
+1928,"Austria","AT","Directamente total",8242
+1928,"Bélgica","BE","Directamente total",595
+1928,"Dinamarca","DK","Directamente total",1693
+1928,"Francia","FR","Directamente_residentes",47189
+1928,"Francia","FR","Directamente_NOresidentes",550
+1928,"Alemania","DE","Directamente total",95965
+1928,"Hungría","HU","Directamente total",628
+1928,"Irlanda","IE","Directamente total",547
+1928,"Italia","IT","Directamente total",514
+1928,"Japón","JP","Directamente_residentes",8206
+1928,"Japón","JP","Directamente_NOresidentes",15
+1928,"México","MX","Directamente total",136
+1928,"Marruecos","MA","Directamente total",17
+1928,"Nueva Zelandia","NZ","Directamente total",163
+1928,"Noruega","NO","Directamente_residentes",522
+1928,"Noruega","NO","Directamente_NOresidentes",87
+1928,"Polonia","PL","Directamente total",714
+1928,"Portugal","PT","Directamente total",175
+1928,"Union Soviética","SU","Directamente total",776
+1928,"España","ES","Directamente total",627
+1928,"Suecia","SE","Directamente total",209
+1928,"Suiza","CH","Directamente total",227618
+1928,"Túnez","TN","Directamente total",19
+1928,"Reino Unido","GB","Directamente total",24746
+1928,"Estados Unidos de América","US","Directamente total",4761
+1929,"Australia","AU","Directamente total",568
+1929,"Austria","AT","Directamente total",11525
+1929,"Bélgica","BE","Directamente total",1808
+1929,"Dinamarca","DK","Directamente total",1504
+1929,"Francia","FR","Directamente_residentes",42852
+1929,"Francia","FR","Directamente_NOresidentes",863
+1929,"Alemania","DE","Directamente total",124020
+1929,"Hungría","HU","Directamente total",1169
+1929,"Irlanda","IE","Directamente total",68
+1929,"Italia","IT","Directamente total",755
+1929,"Japón","JP","Directamente_residentes",9616
+1929,"Japón","JP","Directamente_NOresidentes",27
+1929,"México","MX","Directamente total",137
+1929,"Marruecos","MA","Directamente total",27
+1929,"Noruega","NO","Directamente_residentes",565
+1929,"Noruega","NO","Directamente_NOresidentes",38
+1929,"Polonia","PL","Directamente total",869
+1929,"Portugal","PT","Directamente total",199
+1929,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente total",107
+1929,"Union Soviética","SU","Directamente total",1136
+1929,"España","ES","Directamente total",848
+1929,"Suecia","SE","Directamente total",141
+1929,"Suiza","CH","Directamente total",158043
+1929,"Túnez","TN","Directamente total",13
+1929,"Reino Unido","GB","Directamente total",23648
+1929,"Estados Unidos de América","US","Directamente total",4520
+1930,"Australia","AU","Directamente total",736
+1930,"Austria","AT","Directamente total",12154
+1930,"Bélgica","BE","Directamente total",669
+1930,"Canadá","CA","Directamente total",454
+1930,"Checoslovaquia","CS","Directamente total",11476
+1930,"Dinamarca","DK","Directamente total",1831
+1930,"Francia","FR","Directamente_residentes",47665
+1930,"Francia","FR","Directamente_NOresidentes",497
+1930,"Alemania","DE","Directamente total",126702
+1930,"Hungría","HU","Directamente total",1446
+1930,"Irlanda","IE","Directamente total",42
+1930,"Italia","IT","Directamente total",983
+1930,"Japón","JP","Directamente_residentes",12006
+1930,"Japón","JP","Directamente_NOresidentes",32
+1930,"México","MX","Directamente total",104
+1930,"Marruecos","MA","Directamente total",31
+1930,"Nueva Zelandia","NZ","Directamente total",169
+1930,"Noruega","NO","Directamente_residentes",664
+1930,"Noruega","NO","Directamente_NOresidentes",64
+1930,"Polonia","PL","Directamente total",1082
+1930,"Portugal","PT","Directamente total",216
+1930,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente total",98
+1930,"España","ES","Directamente total",719
+1930,"Suecia","SE","Directamente total",196
+1930,"Suiza","CH","Directamente total",123125
+1930,"Túnez","TN","Directamente total",14
+1930,"Reino Unido","GB","Directamente total",21463
+1930,"Estados Unidos de América","US","Directamente total",4182
+1931,"Australia","AU","Directamente total",661
+1931,"Austria","AT","Directamente total",13181
+1931,"Bélgica","BE","Directamente total",789
+1931,"Dinamarca","DK","Directamente total",2388
+1931,"Francia","FR","Directamente_residentes",44514
+1931,"Francia","FR","Directamente_NOresidentes",569
+1931,"Alemania","DE","Directamente total",111369
+1931,"Hungría","HU","Directamente total",884
+1931,"Irlanda","IE","Directamente total",118
+1931,"Italia","IT","Directamente total",919
+1931,"Japón","JP","Directamente_residentes",9951
+1931,"Japón","JP","Directamente_NOresidentes",36
+1931,"México","MX","Directamente total",115
+1931,"Marruecos","MA","Directamente total",45
+1931,"Nueva Zelandia","NZ","Directamente total",151
+1931,"Noruega","NO","Directamente_residentes",751
+1931,"Noruega","NO","Directamente_NOresidentes",54
+1931,"Polonia","PL","Directamente total",1337
+1931,"Portugal","PT","Directamente total",182
+1931,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente total",117
+1931,"España","ES","Directamente total",1055
+1931,"Suecia","SE","Directamente total",185
+1931,"Suiza","CH","Directamente total",78491
+1931,"Túnez","TN","Directamente total",19
+1931,"Reino Unido","GB","Directamente total",18886
+1931,"Estados Unidos de América","US","Directamente total",4190
+1932,"Australia","AU","Directamente total",409
+1932,"Austria","AT","Directamente total",16132
+1932,"Bélgica","BE","Directamente total",610
+1932,"Dinamarca","DK","Directamente total",2752
+1932,"Francia","FR","Directamente_residentes",45427
+1932,"Francia","FR","Directamente_NOresidentes",568
+1932,"Alemania","DE","Directamente total",105639
+1932,"Hungría","HU","Directamente total",1148
+1932,"Irlanda","IE","Directamente total",83
+1932,"Italia","IT","Directamente total",1324
+1932,"Japón","JP","Directamente_residentes",9172
+1932,"Japón","JP","Directamente_NOresidentes",23
+1932,"México","MX","Directamente total",137
+1932,"Marruecos","MA","Directamente total",54
+1932,"Nueva Zelandia","NZ","Directamente total",164
+1932,"Noruega","NO","Directamente_residentes",956
+1932,"Noruega","NO","Directamente_NOresidentes",35
+1932,"Polonia","PL","Directamente total",463
+1932,"Portugal","PT","Directamente total",237
+1932,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente total",131
+1932,"España","ES","Directamente total",1211
+1932,"Suecia","SE","Directamente total",156
+1932,"Suiza","CH","Directamente total",49685
+1932,"Túnez","TN","Directamente total",22
+1932,"Reino Unido","GB","Directamente total",22374
+1932,"Estados Unidos de América","US","Directamente total",4345
+1933,"Australia","AU","Directamente total",664
+1933,"Austria","AT","Directamente total",19901
+1933,"Bélgica","BE","Directamente total",2429
+1933,"Checoslovaquia","CS","Directamente total",10669
+1933,"Dinamarca","DK","Directamente total",3534
+1933,"Francia","FR","Directamente_residentes",48263
+1933,"Francia","FR","Directamente_NOresidentes",327
+1933,"Alemania","DE","Directamente total",117245
+1933,"Hungría","HU","Directamente total",1393
+1933,"Irlanda","IE","Directamente total",53
+1933,"Italia","IT","Directamente total",1159
+1933,"Japón","JP","Directamente_residentes",9388
+1933,"Japón","JP","Directamente_NOresidentes",39
+1933,"México","MX","Directamente total",143
+1933,"Marruecos","MA","Directamente total",61
+1933,"Nueva Zelandia","NZ","Directamente total",143
+1933,"Noruega","NO","Directamente_residentes",1055
+1933,"Noruega","NO","Directamente_NOresidentes",36
+1933,"Polonia","PL","Directamente total",578
+1933,"Portugal","PT","Directamente total",218
+1933,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente total",152
+1933,"España","ES","Directamente total",1366
+1933,"Suecia","SE","Directamente total",179
+1933,"Suiza","CH","Directamente total",39031
+1933,"Túnez","TN","Directamente total",17
+1933,"Reino Unido","GB","Directamente total",25015
+1933,"Estados Unidos de América","US","Directamente total",3600
+1934,"Australia","AU","Directamente total",1670
+1934,"Austria","AT","Directamente total",24441
+1934,"Bélgica","BE","Directamente total",1855
+1934,"Checoslovaquia","CS","Directamente total",10487
+1934,"Dinamarca","DK","Directamente total",3097
+1934,"Francia","FR","Directamente_residentes",42690
+1934,"Francia","FR","Directamente_NOresidentes",260
+1934,"Alemania","DE","Directamente total",100218
+1934,"Hungría","HU","Directamente total",1759
+1934,"Irlanda","IE","Directamente total",50
+1934,"Italia","IT","Directamente total",1187
+1934,"Japón","JP","Directamente_residentes",9566
+1934,"Japón","JP","Directamente_NOresidentes",45
+1934,"México","MX","Directamente total",169
+1934,"Marruecos","MA","Directamente total",32
+1934,"Noruega","NO","Directamente total",1199
+1934,"Polonia","PL","Directamente total",653
+1934,"Portugal","PT","Directamente total",205
+1934,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente total",146
+1934,"España","ES","Directamente total",1709
+1934,"Suecia","SE","Directamente total",154
+1934,"Suiza","CH","Directamente total",26998
+1934,"Túnez","TN","Directamente total",21
+1934,"Reino Unido","GB","Directamente total",20681
+1934,"Estados Unidos de América","US","Directamente total",4399
+1935,"Australia","AU","Directamente total",2319
+1935,"Austria","AT","Directamente total",25394
+1935,"Bélgica","BE","Directamente total",2844
+1935,"Canadá","CA","Directamente total",464
+1935,"Dinamarca","DK","Directamente total",3458
+1935,"Francia","FR","Directamente_residentes",41154
+1935,"Francia","FR","Directamente_NOresidentes",305
+1935,"Alemania","DE","Directamente total",86769
+1935,"Hungría","HU","Directamente total",3162
+1935,"Irlanda","IE","Directamente total",59
+1935,"Italia","IT","Directamente total",964
+1935,"Japón","JP","Directamente_residentes",12285
+1935,"Japón","JP","Directamente_NOresidentes",79
+1935,"Marruecos","MA","Directamente total",37
+1935,"Nueva Zelandia","NZ","Directamente total",185
+1935,"Noruega","NO","Directamente total",1004
+1935,"Polonia","PL","Directamente total",714
+1935,"Portugal","PT","Directamente total",288
+1935,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente total",171
+1935,"Suecia","SE","Directamente total",143
+1935,"Suiza","CH","Directamente total",34230
+1935,"Túnez","TN","Directamente total",22
+1935,"Reino Unido","GB","Directamente total",21229
+1935,"Estados Unidos de América","US","Directamente total",5728
+1936,"Australia","AU","Directamente total",1494
+1936,"Austria","AT","Directamente total",27614
+1936,"Bélgica","BE","Directamente total",1747
+1936,"Canadá","CA","Directamente total",447
+1936,"Checoslovaquia","CS","Directamente total",5918
+1936,"Dinamarca","DK","Directamente total",3121
+1936,"Francia","FR","Directamente_residentes",38060
+1936,"Francia","FR","Directamente_NOresidentes",217
+1936,"Alemania","DE","Directamente total",87628
+1936,"Hungría","HU","Directamente total",2815
+1936,"Irlanda","IE","Directamente total",30
+1936,"Italia","IT","Directamente total",1083
+1936,"Japón","JP","Directamente_residentes",14568
+1936,"Japón","JP","Directamente_NOresidentes",58
+1936,"Marruecos","MA","Directamente total",66
+1936,"Nueva Zelandia","NZ","Directamente total",124
+1936,"Noruega","NO","Directamente total",1034
+1936,"Polonia","PL","Directamente total",850
+1936,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente total",162
+1936,"Suecia","SE","Directamente total",126
+1936,"Suiza","CH","Directamente total",35536
+1936,"Túnez","TN","Directamente total",30
+1936,"Reino Unido","GB","Directamente total",20292
+1936,"Estados Unidos de América","US","Directamente total",6478
+1937,"Australia","AU","Directamente total",1190
+1937,"Austria","AT","Directamente total",25280
+1937,"Bélgica","BE","Directamente total",1641
+1937,"Canadá","CA","Directamente total",460
+1937,"Dinamarca","DK","Directamente total",2863
+1937,"Francia","FR","Directamente_residentes",14135
+1937,"Francia","FR","Directamente_NOresidentes",217
+1937,"Alemania","DE","Directamente total",71786
+1937,"Irlanda","IE","Directamente total",37
+1937,"Italia","IT","Directamente total",1295
+1937,"Japón","JP","Directamente total",10152
+1937,"México","MX","Directamente total",167
+1937,"Marruecos","MA","Directamente total",145
+1937,"Nueva Zelandia","NZ","Directamente total",193
+1937,"Noruega","NO","Directamente total",995
+1937,"Polonia","PL","Directamente total",913
+1937,"Portugal","PT","Directamente total",218
+1937,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente total",161
+1937,"España","ES","Directamente total",38
+1937,"Suecia","SE","Directamente total",124
+1937,"Suiza","CH","Directamente total",32400
+1937,"Túnez","TN","Directamente total",10
+1937,"Reino Unido","GB","Directamente total",19343
+1937,"Estados Unidos de América","US","Directamente total",7207
+1938,"Australia","AU","Directamente total",1498
+1938,"Bélgica","BE","Directamente total",1651
+1938,"Canadá","CA","Directamente total",539
+1938,"Dinamarca","DK","Directamente total",2795
+1938,"Francia","FR","Directamente_residentes",5383
+1938,"Francia","FR","Directamente_NOresidentes",104
+1938,"Alemania","DE","Directamente total",63057
+1938,"Hungría","HU","Directamente total",1555
+1938,"Irlanda","IE","Directamente total",32
+1938,"Italia","IT","Directamente total",1425
+1938,"Japón","JP","Directamente total",7259
+1938,"Marruecos","MA","Directamente total",296
+1938,"Noruega","NO","Directamente total",1125
+1938,"Portugal","PT","Directamente total",177
+1938,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente total",108
+1938,"Suecia","SE","Directamente total",130
+1938,"Suiza","CH","Directamente total",19769
+1938,"Túnez","TN","Directamente total",12
+1938,"Reino Unido","GB","Directamente total",16118
+1938,"Estados Unidos de América","US","Directamente total",8087
+1939,"Australia","AU","Directamente total",865
+1939,"Bélgica","BE","Directamente total",1162
+1939,"Canadá","CA","Directamente total",463
+1939,"Dinamarca","DK","Directamente total",2242
+1939,"Francia","FR","Directamente_residentes",5981
+1939,"Francia","FR","Directamente_NOresidentes",84
+1939,"Alemania","DE","Directamente total",43474
+1939,"Hungría","HU","Directamente total",489
+1939,"Irlanda","IE","Directamente total",25
+1939,"Japón","JP","Directamente total",5221
+1939,"México","MX","Directamente total",100
+1939,"Marruecos","MA","Directamente total",421
+1939,"Nueva Zelandia","NZ","Directamente total",137
+1939,"Noruega","NO","Directamente total",810
+1939,"Polonia","PL","Directamente total",582
+1939,"Portugal","PT","Directamente total",198
+1939,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente total",99
+1939,"Suecia","SE","Directamente total",142
+1939,"Suiza","CH","Directamente total",15913
+1939,"Túnez","TN","Directamente total",19
+1939,"Reino Unido","GB","Directamente total",11588
+1939,"Estados Unidos de América","US","Directamente total",7137
+1940,"Australia","AU","Directamente total",605
+1940,"Bélgica","BE","Directamente total",324
+1940,"Canadá","CA","Directamente total",460
+1940,"Dinamarca","DK","Directamente total",2410
+1940,"Francia","FR","Directamente total",1854
+1940,"Alemania","DE","Directamente total",12028
+1940,"Hungría","HU","Directamente total",500
+1940,"Irlanda","IE","Directamente total",13
+1940,"Italia","IT","Directamente total",1433
+1940,"Japón","JP","Directamente total",4315
+1940,"México","MX","Directamente total",120
+1940,"Marruecos","MA","Directamente total",7
+1940,"Nueva Zelandia","NZ","Directamente total",108
+1940,"Noruega","NO","Directamente total",668
+1940,"Portugal","PT","Directamente total",227
+1940,"Suecia","SE","Directamente total",72
+1940,"Suiza","CH","Directamente total",11965
+1940,"Túnez","TN","Directamente total",65
+1940,"Reino Unido","GB","Directamente total",4473
+1940,"Estados Unidos de América","US","Directamente total",8530
+1941,"Bélgica","BE","Directamente total",373
+1941,"Canadá","CA","Directamente total",416
+1941,"Dinamarca","DK","Directamente total",1564
+1941,"Francia","FR","Directamente_residentes",1972
+1941,"Francia","FR","Directamente_NOresidentes",8
+1941,"Alemania","DE","Directamente total",7336
+1941,"Irlanda","IE","Directamente total",13
+1941,"Italia","IT","Directamente total",2686
+1941,"Japón","JP","Directamente total",3956
+1941,"Nueva Zelandia","NZ","Directamente total",108
+1941,"Noruega","NO","Directamente total",626
+1941,"Portugal","PT","Directamente total",185
+1941,"Suecia","SE","Directamente total",89
+1941,"Suiza","CH","Directamente total",11063
+1941,"Reino Unido","GB","Directamente total",3118
+1941,"Estados Unidos de América","US","Directamente total",7203
+1942,"Australia","AU","Directamente total",221
+1942,"Bélgica","BE","Directamente total",353
+1942,"Canadá","CA","Directamente total",308
+1942,"Dinamarca","DK","Directamente total",1852
+1942,"Francia","FR","Directamente total",2210
+1942,"Alemania","DE","Directamente total",4164
+1942,"Hungría","HU","Directamente total",403
+1942,"Irlanda","IE","Directamente total",32
+1942,"Japón","JP","Directamente total",2179
+1942,"México","MX","Directamente total",131
+1942,"Marruecos","MA","Directamente total",70
+1942,"Nueva Zelandia","NZ","Directamente total",60
+1942,"Noruega","NO","Directamente total",1327
+1942,"Polonia","PL","Directamente total",254
+1942,"Portugal","PT","Directamente total",183
+1942,"Suecia","SE","Directamente total",68
+1942,"Suiza","CH","Directamente total",10541
+1942,"Reino Unido","GB","Directamente total",2301
+1942,"Estados Unidos de América","US","Directamente total",4218
+1943,"Australia","AU","Directamente total",322
+1943,"Bélgica","BE","Directamente total",835
+1943,"Canadá","CA","Directamente total",258
+1943,"Dinamarca","DK","Directamente total",2280
+1943,"Francia","FR","Directamente total",2732
+1943,"Alemania","DE","Directamente total",1940
+1943,"Hungría","HU","Directamente total",286
+1943,"Irlanda","IE","Directamente total",28
+1943,"Japón","JP","Directamente total",1231
+1943,"México","MX","Directamente total",101
+1943,"Marruecos","MA","Directamente total",98
+1943,"Nueva Zelandia","NZ","Directamente total",61
+1943,"Noruega","NO","Directamente total",1010
+1943,"Polonia","PL","Directamente total",133
+1943,"Portugal","PT","Directamente total",206
+1943,"Suecia","SE","Directamente total",77
+1943,"Suiza","CH","Directamente total",9500
+1943,"Reino Unido","GB","Directamente total",2824
+1943,"Estados Unidos de América","US","Directamente total",2986
+1944,"Australia","AU","Directamente total",458
+1944,"Bélgica","BE","Directamente total",600
+1944,"Canadá","CA","Directamente total",291
+1944,"Dinamarca","DK","Directamente total",2205
+1944,"Francia","FR","Directamente total",2393
+1944,"Irlanda","IE","Directamente total",17
+1944,"México","MX","Directamente total",6
+1944,"Marruecos","MA","Directamente total",71
+1944,"Nueva Zelandia","NZ","Directamente total",104
+1944,"Noruega","NO","Directamente total",937
+1944,"Portugal","PT","Directamente total",85
+1944,"Suecia","SE","Directamente total",126
+1944,"Suiza","CH","Directamente total",15714
+1944,"Reino Unido","GB","Directamente total",3525
+1944,"Estados Unidos de América","US","Directamente total",5063
+1945,"Australia","AU","Directamente total",986
+1945,"Bélgica","BE","Directamente total",1003
+1945,"Canadá","CA","Directamente total",403
+1945,"Dinamarca","DK","Directamente total",2325
+1945,"Francia","FR","Directamente total",3868
+1945,"Irlanda","IE","Directamente total",21
+1945,"Italia","IT","Directamente total",1688
+1945,"México","MX","Directamente total",199
+1945,"Marruecos","MA","Directamente total",96
+1945,"Nueva Zelandia","NZ","Directamente total",188
+1945,"Noruega","NO","Directamente total",18015
+1945,"Polonia","PL","Directamente total",42
+1945,"Portugal","PT","Directamente total",214
+1945,"Suecia","SE","Directamente total",133
+1945,"Suiza","CH","Directamente total",10288
+1945,"Túnez","TN","Directamente total",12
+1945,"Reino Unido","GB","Directamente total",4755
+1945,"Estados Unidos de América","US","Directamente total",8066
+1946,"Australia","AU","Directamente total",1553
+1946,"Brasil","BR","Directamente total",245
+1946,"Canadá","CA","Directamente total",858
+1946,"Dinamarca","DK","Directamente total",4084
+1946,"Francia","FR","Directamente total",5575
+1946,"Irlanda","IE","Directamente total",58
+1946,"Italia","IT","Directamente total",2326
+1946,"Japón","JP","Directamente total",339
+1946,"México","MX","Directamente total",115
+1946,"Marruecos","MA","Directamente total",115
+1946,"Nueva Zelandia","NZ","Directamente total",351
+1946,"Noruega","NO","Directamente total",1657
+1946,"Polonia","PL","Directamente total",41
+1946,"Portugal","PT","Directamente total",280
+1946,"Suecia","SE","Directamente total",204
+1946,"Suiza","CH","Directamente total",12348
+1946,"Túnez","TN","Directamente total",5
+1946,"Reino Unido","GB","Directamente total",6524
+1946,"Estados Unidos de América","US","Directamente total",10698
+1947,"Australia","AU","Directamente total",1256
+1947,"Austria","AT","Directamente total",846
+1947,"Bélgica","BE","Directamente total",1121
+1947,"Canadá","CA","Directamente total",933
+1947,"Dinamarca","DK","Directamente total",3024
+1947,"Francia","FR","Directamente total",6463
+1947,"Hungría","HU","Directamente total",255
+1947,"Irlanda","IE","Directamente total",70
+1947,"Italia","IT","Directamente total",2192
+1947,"Japón","JP","Directamente total",1907
+1947,"Líbano","LB","Directamente total",34
+1947,"México","MX","Directamente total",167
+1947,"Marruecos","MA","Directamente total",87
+1947,"Nueva Zelandia","NZ","Directamente total",237
+1947,"Noruega","NO","Directamente total",1378
+1947,"Polonia","PL","Directamente total",41
+1947,"Portugal","PT","Directamente total",224
+1947,"República de Corea","KR","Directamente_residentes",23
+1947,"República de Corea","KR","Directamente_NOresidentes",0
+1947,"Sudáfrica","ZA","Directamente total",173
+1947,"España","ES","Directamente total",3144
+1947,"Sri Lanka","LK","Directamente total",3
+1947,"Suecia","SE","Directamente total",200
+1947,"Suiza","CH","Directamente total",10707
+1947,"República Árabe Siria","SY","Directamente total",11
+1947,"Trinidad y Tobago","TT","Directamente total",1
+1947,"Túnez","TN","Directamente total",3
+1947,"Reino Unido","GB","Directamente total",5463
+1947,"Estados Unidos de América","US","Directamente total",7644
+1948,"Australia","AU","Directamente total",990
+1948,"Austria","AT","Directamente total",4824
+1948,"Bélgica","BE","Directamente total",1341
+1948,"Canadá","CA","Directamente total",704
+1948,"Dinamarca","DK","Directamente total",3182
+1948,"Francia","FR","Directamente total",7635
+1948,"Irlanda","IE","Directamente total",40
+1948,"Italia","IT","Directamente total",2364
+1948,"Japón","JP","Directamente total",2553
+1948,"Líbano","LB","Directamente total",59
+1948,"México","MX","Directamente total",146
+1948,"Marruecos","MA","Directamente total",43
+1948,"Nueva Zelandia","NZ","Directamente total",229
+1948,"Noruega","NO","Directamente total",1632
+1948,"Polonia","PL","Directamente total",44
+1948,"Portugal","PT","Directamente total",312
+1948,"República de Corea","KR","Directamente_residentes",38
+1948,"República de Corea","KR","Directamente_NOresidentes",0
+1948,"Sudáfrica","ZA","Directamente total",208
+1948,"España","ES","Directamente total",3307
+1948,"Suecia","SE","Directamente total",180
+1948,"Suiza","CH","Directamente total",14218
+1948,"República Árabe Siria","SY","Directamente total",46
+1948,"Trinidad y Tobago","TT","Directamente total",1
+1948,"Túnez","TN","Directamente total",57
+1948,"Reino Unido","GB","Directamente total",5725
+1948,"Estados Unidos de América","US","Directamente total",7049
+1949,"Australia","AU","Directamente total",948
+1949,"Austria","AT","Directamente total",6063
+1949,"Bélgica","BE","Directamente total",2300
+1949,"Canadá","CA","Directamente total",630
+1949,"Dinamarca","DK","Directamente total",3126
+1949,"Francia","FR","Directamente total",10233
+1949,"Alemania","DE","Directamente total",49201
+1949,"Irlanda","IE","Directamente total",56
+1949,"Israel","IL","Directamente total",34
+1949,"Italia","IT","Directamente total",3441
+1949,"Japón","JP","Directamente total",4787
+1949,"Líbano","LB","Directamente total",181
+1949,"México","MX","Directamente total",129
+1949,"Marruecos","MA","Directamente total",115
+1949,"Nueva Zelandia","NZ","Directamente total",255
+1949,"Noruega","NO","Directamente total",1936
+1949,"Polonia","PL","Directamente total",206
+1949,"Portugal","PT","Directamente total",228
+1949,"República de Corea","KR","Directamente_residentes",46
+1949,"República de Corea","KR","Directamente_NOresidentes",0
+1949,"Sudáfrica","ZA","Directamente total",239
+1949,"España","ES","Directamente total",4860
+1949,"Sri Lanka","LK","Directamente total",8
+1949,"Suecia","SE","Directamente total",348
+1949,"Suiza","CH","Directamente total",17958
+1949,"República Árabe Siria","SY","Directamente total",56
+1949,"Túnez","TN","Directamente total",12
+1949,"Reino Unido","GB","Directamente total",6631
+1949,"Estados Unidos de América","US","Directamente total",6999
+1950,"Australia","AU","Directamente total",1187
+1950,"Austria","AT","Directamente total",6504
+1950,"Bélgica","BE","Directamente total",2051
+1950,"Brasil","BR","Directamente total",872
+1950,"Canadá","CA","Directamente total",720
+1950,"Dinamarca","DK","Directamente total",1297
+1950,"Francia","FR","Directamente total",12642
+1950,"Alemania","DE","Directamente total",36495
+1950,"Irlanda","IE","Directamente total",77
+1950,"Israel","IL","Directamente total",100
+1950,"Italia","IT","Directamente total",4100
+1950,"Japón","JP","Directamente total",6507
+1950,"Líbano","LB","Directamente total",32
+1950,"México","MX","Directamente total",239
+1950,"Marruecos","MA","Directamente total",92
+1950,"Nueva Zelandia","NZ","Directamente total",246
+1950,"Noruega","NO","Directamente total",2012
+1950,"Portugal","PT","Directamente total",236
+1950,"República de Corea","KR","Directamente_residentes",30
+1950,"República de Corea","KR","Directamente_NOresidentes",0
+1950,"Sudáfrica","ZA","Directamente total",212
+1950,"España","ES","Directamente total",4908
+1950,"Sri Lanka","LK","Directamente total",13
+1950,"Suecia","SE","Directamente total",271
+1950,"Suiza","CH","Directamente total",19887
+1950,"República Árabe Siria","SY","Directamente total",63
+1950,"Trinidad y Tobago","TT","Directamente total",4
+1950,"Túnez","TN","Directamente total",26
+1950,"Reino Unido","GB","Directamente total",7327
+1950,"Estados Unidos de América","US","Directamente total",6739
+1951,"Australia","AU","Directamente total",773
+1951,"Austria","AT","Directamente total",5021
+1951,"Bélgica","BE","Directamente total",1413
+1951,"Canadá","CA","Directamente total",649
+1951,"Checoslovaquia","CS","Directamente total",145
+1951,"Dinamarca","DK","Directamente total",946
+1951,"Egipto","EG","Directamente total",48
+1951,"Francia","FR","Directamente total",10847
+1951,"Alemania","DE","Directamente total",37205
+1951,"Irlanda","IE","Directamente total",25
+1951,"Israel","IL","Directamente total",66
+1951,"Italia","IT","Directamente total",3685
+1951,"Japón","JP","Directamente total",6329
+1951,"Líbano","LB","Directamente total",60
+1951,"México","MX","Directamente total",119
+1951,"Marruecos","MA","Directamente total",62
+1951,"Nueva Zelandia","NZ","Directamente total",165
+1951,"Noruega","NO","Directamente total",1530
+1951,"Portugal","PT","Directamente total",277
+1951,"República de Corea","KR","Directamente_residentes",3
+1951,"República de Corea","KR","Directamente_NOresidentes",0
+1951,"Sudáfrica","ZA","Directamente total",260
+1951,"España","ES","Directamente total",5006
+1951,"Suecia","SE","Directamente total",181
+1951,"Suiza","CH","Directamente total",18962
+1951,"República Árabe Siria","SY","Directamente total",97
+1951,"Trinidad y Tobago","TT","Directamente total",1
+1951,"Túnez","TN","Directamente total",12
+1951,"Reino Unido","GB","Directamente total",9155
+1951,"Estados Unidos de América","US","Directamente total",4279
+1952,"Australia","AU","Directamente total",1186
+1952,"Austria","AT","Directamente total",6575
+1952,"Bélgica","BE","Directamente total",2000
+1952,"Canadá","CA","Directamente total",502
+1952,"Checoslovaquia","CS","Directamente total",24
+1952,"Dinamarca","DK","Directamente total",1092
+1952,"Egipto","EG","Directamente total",58
+1952,"Francia","FR","Directamente total",13079
+1952,"Alemania","DE","Directamente total",43284
+1952,"Irlanda","IE","Directamente total",55
+1952,"Israel","IL","Directamente total",51
+1952,"Italia","IT","Directamente total",3965
+1952,"Japón","JP","Directamente total",8431
+1952,"Líbano","LB","Directamente total",29
+1952,"México","MX","Directamente total",251
+1952,"Marruecos","MA","Directamente total",54
+1952,"Nueva Zelandia","NZ","Directamente total",177
+1952,"Noruega","NO","Directamente total",1551
+1952,"Polonia","PL","Directamente total",344
+1952,"Portugal","PT","Directamente total",265
+1952,"República de Corea","KR","Directamente_residentes",19
+1952,"República de Corea","KR","Directamente_NOresidentes",0
+1952,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente total",13
+1952,"Sudáfrica","ZA","Directamente total",261
+1952,"España","ES","Directamente total",1506
+1952,"Sri Lanka","LK","Directamente total",29
+1952,"Suecia","SE","Directamente total",137
+1952,"Suiza","CH","Directamente total",22372
+1952,"República Árabe Siria","SY","Directamente total",145
+1952,"Trinidad y Tobago","TT","Directamente total",1
+1952,"Túnez","TN","Directamente total",17
+1952,"Reino Unido","GB","Directamente total",9671
+1952,"Estados Unidos de América","US","Directamente total",4993
+1953,"Australia","AU","Directamente total",1504
+1953,"Austria","AT","Directamente total",8230
+1953,"Bélgica","BE","Directamente total",2906
+1953,"Canadá","CA","Directamente total",536
+1953,"Checoslovaquia","CS","Directamente total",23
+1953,"Dinamarca","DK","Directamente total",927
+1953,"Egipto","EG","Directamente total",754
+1953,"Francia","FR","Directamente total",10218
+1953,"Alemania","DE","Directamente_NOresidentes",89
+1953,"Hungría","HU","Directamente total",3
+1953,"Irlanda","IE","Directamente total",52
+1953,"Israel","IL","Directamente total",77
+1953,"Italia","IT","Directamente total",4715
+1953,"Japón","JP","Directamente total",10123
+1953,"Líbano","LB","Directamente total",21
+1953,"Liechtenstein","LI","Directamente total",3
+1953,"México","MX","Directamente total",358
+1953,"Marruecos","MA","Directamente total",79
+1953,"Nueva Zelandia","NZ","Directamente total",216
+1953,"Noruega","NO","Directamente total",1553
+1953,"Polonia","PL","Directamente total",18
+1953,"Portugal","PT","Directamente total",170
+1953,"República de Corea","KR","Directamente_residentes",62
+1953,"República de Corea","KR","Directamente_NOresidentes",0
+1953,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente total",82
+1953,"Sudáfrica","ZA","Directamente total",354
+1953,"España","ES","Directamente total",1543
+1953,"Sri Lanka","LK","Directamente total",89
+1953,"Suecia","SE","Directamente total",171
+1953,"Suiza","CH","Directamente total",19608
+1953,"República Árabe Siria","SY","Directamente total",338
+1953,"Túnez","TN","Directamente total",17
+1953,"Reino Unido","GB","Directamente total",8270
+1953,"Estados Unidos de América","US","Directamente total",5459
+1954,"Australia","AU","Directamente total",1373
+1954,"Austria","AT","Directamente total",9006
+1954,"Bélgica","BE","Directamente total",2919
+1954,"Canadá","CA","Directamente total",595
+1954,"Checoslovaquia","CS","Directamente total",46
+1954,"Dinamarca","DK","Directamente total",915
+1954,"Egipto","EG","Directamente total",814
+1954,"Francia","FR","Directamente total",10831
+1954,"Alemania","DE","Directamente_NOresidentes",168
+1954,"Hungría","HU","Directamente total",59
+1954,"Irlanda","IE","Directamente total",71
+1954,"Israel","IL","Directamente total",160
+1954,"Italia","IT","Directamente total",3720
+1954,"Japón","JP","Directamente total",12412
+1954,"Líbano","LB","Directamente total",55
+1954,"Liechtenstein","LI","Directamente total",4
+1954,"México","MX","Directamente total",386
+1954,"Marruecos","MA","Directamente total",56
+1954,"Nueva Zelandia","NZ","Directamente total",245
+1954,"Noruega","NO","Directamente total",1457
+1954,"Polonia","PL","Directamente total",34
+1954,"Portugal","PT","Directamente total",301
+1954,"República de Corea","KR","Directamente_residentes",76
+1954,"República de Corea","KR","Directamente_NOresidentes",0
+1954,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente total",65
+1954,"España","ES","Directamente total",1799
+1954,"Sri Lanka","LK","Directamente total",157
+1954,"Suecia","SE","Directamente total",149
+1954,"Suiza","CH","Directamente total",27673
+1954,"República Árabe Siria","SY","Directamente total",171
+1954,"Trinidad y Tobago","TT","Directamente total",2
+1954,"Túnez","TN","Directamente total",27
+1954,"Reino Unido","GB","Directamente total",9215
+1954,"Estados Unidos de América","US","Directamente total",5465
+1955,"Australia","AU","Directamente total",1328
+1955,"Austria","AT","Directamente total",9465
+1955,"Bélgica","BE","Directamente total",3063
+1955,"Brasil","BR","Directamente total",557
+1955,"Canadá","CA","Directamente total",519
+1955,"Checoslovaquia","CS","Directamente total",107
+1955,"Dinamarca","DK","Directamente total",850
+1955,"Egipto","EG","Directamente total",1042
+1955,"Francia","FR","Directamente total",10908
+1955,"Hungría","HU","Directamente total",169
+1955,"Irlanda","IE","Directamente total",74
+1955,"Israel","IL","Directamente total",375
+1955,"Japón","JP","Directamente total",14195
+1955,"Líbano","LB","Directamente total",102
+1955,"México","MX","Directamente total",441
+1955,"Marruecos","MA","Directamente total",51
+1955,"Nueva Zelandia","NZ","Directamente total",255
+1955,"Noruega","NO","Directamente total",1220
+1955,"Polonia","PL","Directamente total",16
+1955,"Portugal","PT","Directamente total",232
+1955,"República de Corea","KR","Directamente_residentes",216
+1955,"República de Corea","KR","Directamente_NOresidentes",0
+1955,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente total",92
+1955,"Sudáfrica","ZA","Directamente total",638
+1955,"España","ES","Directamente total",2091
+1955,"Sri Lanka","LK","Directamente total",92
+1955,"Suecia","SE","Directamente total",155
+1955,"Suiza","CH","Directamente total",26068
+1955,"República Árabe Siria","SY","Directamente total",167
+1955,"Trinidad y Tobago","TT","Directamente total",1
+1955,"Túnez","TN","Directamente total",12
+1955,"Reino Unido","GB","Directamente total",9792
+1955,"Estados Unidos de América","US","Directamente total",5764
+1956,"Australia","AU","Directamente total",1130
+1956,"Austria","AT","Directamente total",8139
+1956,"Bélgica","BE","Directamente total",2554
+1956,"Brasil","BR","Directamente total",663
+1956,"Canadá","CA","Directamente total",595
+1956,"Checoslovaquia","CS","Directamente total",253
+1956,"Dinamarca","DK","Directamente total",843
+1956,"Egipto","EG","Directamente total",832
+1956,"Francia","FR","Directamente total",8695
+1956,"República Democrática Alemana","D2","Directamente total",653
+1956,"Hungría","HU","Directamente total",141
+1956,"Irlanda","IE","Directamente total",56
+1956,"Israel","IL","Directamente total",249
+1956,"Italia","IT","Directamente total",1903
+1956,"Japón","JP","Directamente total",17230
+1956,"Líbano","LB","Directamente total",49
+1956,"Marruecos","MA","Directamente total",37
+1956,"Noruega","NO","Directamente total",1264
+1956,"Polonia","PL","Directamente total",34
+1956,"Portugal","PT","Directamente total",282
+1956,"República de Corea","KR","Directamente_residentes",179
+1956,"República de Corea","KR","Directamente_NOresidentes",0
+1956,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente total",94
+1956,"Sudáfrica","ZA","Directamente total",463
+1956,"España","ES","Directamente total",2304
+1956,"Sri Lanka","LK","Directamente total",48
+1956,"Suecia","SE","Directamente total",155
+1956,"Suiza","CH","Directamente total",24390
+1956,"República Árabe Siria","SY","Directamente total",370
+1956,"Trinidad y Tobago","TT","Directamente total",13
+1956,"Túnez","TN","Directamente total",7
+1956,"Reino Unido","GB","Directamente total",9964
+1956,"Estados Unidos de América","US","Directamente total",4824
+1957,"Australia","AU","Directamente total",1394
+1957,"Austria","AT","Directamente total",7755
+1957,"Bélgica","BE","Directamente total",2587
+1957,"Canadá","CA","Directamente total",624
+1957,"Checoslovaquia","CS","Directamente total",306
+1957,"Dinamarca","DK","Directamente total",811
+1957,"Egipto","EG","Directamente total",541
+1957,"Francia","FR","Directamente total",8297
+1957,"República Democrática Alemana","D2","Directamente total",1117
+1957,"Hungría","HU","Directamente total",434
+1957,"Irlanda","IE","Directamente total",66
+1957,"Israel","IL","Directamente total",298
+1957,"Japón","JP","Directamente total",18747
+1957,"Líbano","LB","Directamente total",34
+1957,"Liechtenstein","LI","Directamente total",3
+1957,"México","MX","Directamente total",524
+1957,"Mónaco","MC","Directamente total",51
+1957,"Marruecos","MA","Directamente total",42
+1957,"Nueva Zelandia","NZ","Directamente total",272
+1957,"Noruega","NO","Directamente total",1149
+1957,"Polonia","PL","Directamente total",20
+1957,"Portugal","PT","Directamente total",240
+1957,"República de Corea","KR","Directamente_residentes",276
+1957,"República de Corea","KR","Directamente_NOresidentes",0
+1957,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente total",105
+1957,"Sudáfrica","ZA","Directamente total",534
+1957,"España","ES","Directamente total",2206
+1957,"Sri Lanka","LK","Directamente total",15
+1957,"Suecia","SE","Directamente total",130
+1957,"Suiza","CH","Directamente total",30742
+1957,"República Árabe Siria","SY","Directamente total",53
+1957,"Trinidad y Tobago","TT","Directamente total",1
+1957,"Túnez","TN","Directamente total",26
+1957,"Reino Unido","GB","Directamente total",10512
+1957,"Estados Unidos de América","US","Directamente total",4714
+1958,"Australia","AU","Directamente total",1362
+1958,"Austria","AT","Directamente total",8962
+1958,"Bélgica","BE","Directamente total",3571
+1958,"Brasil","BR","Directamente total",900
+1958,"Canadá","CA","Directamente total",741
+1958,"Checoslovaquia","CS","Directamente total",103
+1958,"Dinamarca","DK","Directamente total",894
+1958,"Egipto","EG","Directamente total",279
+1958,"Francia","FR","Directamente total",9028
+1958,"República Democrática Alemana","D2","Directamente total",1145
+1958,"Hungría","HU","Directamente total",489
+1958,"Irlanda","IE","Directamente total",68
+1958,"Israel","IL","Directamente total",240
+1958,"Japón","JP","Directamente total",27124
+1958,"Líbano","LB","Directamente total",14
+1958,"Mónaco","MC","Directamente total",23
+1958,"Marruecos","MA","Directamente total",47
+1958,"Nueva Zelandia","NZ","Directamente total",236
+1958,"Noruega","NO","Directamente total",1212
+1958,"Polonia","PL","Directamente total",64
+1958,"Portugal","PT","Directamente total",273
+1958,"República de Corea","KR","Directamente_residentes",358
+1958,"República de Corea","KR","Directamente_NOresidentes",0
+1958,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente total",118
+1958,"España","ES","Directamente total",2388
+1958,"Sri Lanka","LK","Directamente total",5
+1958,"Suecia","SE","Directamente total",184
+1958,"Suiza","CH","Directamente total",32979
+1958,"Trinidad y Tobago","TT","Directamente total",3
+1958,"Túnez","TN","Directamente total",6
+1958,"Reino Unido","GB","Directamente total",10891
+1958,"Estados Unidos de América","US","Directamente total",4423
+1958,"Zimbabwe","ZW","Directamente total",5
+1959,"Australia","AU","Directamente total",1366
+1959,"Austria","AT","Directamente total",8279
+1959,"Bélgica","BE","Directamente total",2411
+1959,"Canadá","CA","Directamente total",798
+1959,"Checoslovaquia","CS","Directamente total",196
+1959,"Dinamarca","DK","Directamente total",725
+1959,"Egipto","EG","Directamente total",99
+1959,"Francia","FR","Directamente total",9242
+1959,"República Democrática Alemana","D2","Directamente total",556
+1959,"Hungría","HU","Directamente total",301
+1959,"Irlanda","IE","Directamente total",53
+1959,"Israel","IL","Directamente total",308
+1959,"Japón","JP","Directamente total",26368
+1959,"Líbano","LB","Directamente total",93
+1959,"Mónaco","MC","Directamente total",36
+1959,"Marruecos","MA","Directamente total",41
+1959,"Nueva Zelandia","NZ","Directamente total",257
+1959,"Noruega","NO","Directamente total",1167
+1959,"Polonia","PL","Directamente total",78
+1959,"República de Corea","KR","Directamente_residentes",361
+1959,"República de Corea","KR","Directamente_NOresidentes",1
+1959,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente total",120
+1959,"Suecia","SE","Directamente total",194
+1959,"Suiza","CH","Directamente total",27473
+1959,"Trinidad y Tobago","TT","Directamente total",10
+1959,"Túnez","TN","Directamente total",10
+1959,"Reino Unido","GB","Directamente total",9098
+1959,"Estados Unidos de América","US","Directamente total",4879
+1959,"Zimbabwe","ZW","Directamente total",69
+1960,"Australia","AU","Directamente total",1278
+1960,"Austria","AT","Directamente total",7588
+1960,"Bélgica","BE","Directamente total",2410
+1960,"Canadá","CA","Directamente total",812
+1960,"Checoslovaquia","CS","Directamente total",139
+1960,"Dinamarca","DK","Directamente total",739
+1960,"Egipto","EG","Directamente total",230
+1960,"Francia","FR","Directamente total",8331
+1960,"República Democrática Alemana","D2","Directamente total",572
+1960,"Hungría","HU","Directamente total",252
+1960,"Irlanda","IE","Directamente total",89
+1960,"Israel","IL","Directamente total",375
+1960,"Japón","JP","Directamente total",24536
+1960,"Líbano","LB","Directamente total",110
+1960,"México","MX","Directamente total",269
+1960,"Mónaco","MC","Directamente total",31
+1960,"Marruecos","MA","Directamente total",36
+1960,"Nueva Zelandia","NZ","Directamente total",353
+1960,"Noruega","NO","Directamente total",1030
+1960,"Portugal","PT","Directamente total",329
+1960,"República de Corea","KR","Directamente_residentes",328
+1960,"República de Corea","KR","Directamente_NOresidentes",1
+1960,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente total",71
+1960,"Sudáfrica","ZA","Directamente total",886
+1960,"España","ES","Directamente total",2639
+1960,"Sri Lanka","LK","Directamente total",16
+1960,"Suecia","SE","Directamente total",229
+1960,"Suiza","CH","Directamente total",20215
+1960,"Trinidad y Tobago","TT","Directamente total",8
+1960,"Túnez","TN","Directamente total",18
+1960,"Reino Unido","GB","Directamente total",9237
+1960,"Estados Unidos de América","US","Directamente total",4525
+1960,"Zimbabwe","ZW","Directamente total",51
+1961,"Australia","AU","Directamente total",1413
+1961,"Austria","AT","Directamente total",6619
+1961,"Bélgica","BE","Directamente total",1904
+1961,"Canadá","CA","Directamente total",832
+1961,"Checoslovaquia","CS","Directamente total",123
+1961,"Dinamarca","DK","Directamente total",688
+1961,"Egipto","EG","Directamente total",177
+1961,"Francia","FR","Directamente total",7955
+1961,"República Democrática Alemana","D2","Directamente total",390
+1961,"Hungría","HU","Directamente total",248
+1961,"Irlanda","IE","Directamente total",90
+1961,"Israel","IL","Directamente total",319
+1961,"Italia","IT","Directamente total",6295
+1961,"Japón","JP","Directamente total",23462
+1961,"Líbano","LB","Directamente total",42
+1961,"México","MX","Directamente total",331
+1961,"Marruecos","MA","Directamente total",42
+1961,"Nueva Zelandia","NZ","Directamente total",346
+1961,"Noruega","NO","Directamente total",964
+1961,"Polonia","PL","Directamente total",110
+1961,"Portugal","PT","Directamente total",268
+1961,"República de Corea","KR","Directamente_residentes",465
+1961,"República de Corea","KR","Directamente_NOresidentes",5
+1961,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente total",118
+1961,"Sudáfrica","ZA","Directamente total",832
+1961,"España","ES","Directamente total",3949
+1961,"Sri Lanka","LK","Directamente total",22
+1961,"Suecia","SE","Directamente total",245
+1961,"Suiza","CH","Directamente total",15073
+1961,"República Árabe Siria","SY","Directamente total",172
+1961,"Trinidad y Tobago","TT","Directamente total",18
+1961,"Reino Unido","GB","Directamente total",9427
+1961,"Estados Unidos de América","US","Directamente total",4714
+1961,"Zimbabwe","ZW","Directamente total",56
+1962,"Australia","AU","Directamente total",1357
+1962,"Austria","AT","Directamente total",7466
+1962,"Bélgica","BE","Directamente total",1851
+1962,"Canadá","CA","Directamente total",750
+1962,"Checoslovaquia","CS","Directamente total",345
+1962,"Dinamarca","DK","Directamente total",753
+1962,"Egipto","EG","Directamente total",553
+1962,"Francia","FR","Directamente total",8306
+1962,"República Democrática Alemana","D2","Directamente total",352
+1962,"Hungría","HU","Directamente total",294
+1962,"Irlanda","IE","Directamente total",73
+1962,"Israel","IL","Directamente total",233
+1962,"Japón","JP","Directamente total",28283
+1962,"Líbano","LB","Directamente total",88
+1962,"Liechtenstein","LI","Directamente total",2
+1962,"México","MX","Directamente total",265
+1962,"Mónaco","MC","Directamente total",24
+1962,"Marruecos","MA","Directamente total",37
+1962,"Nueva Zelandia","NZ","Directamente total",308
+1962,"Noruega","NO","Directamente total",967
+1962,"Polonia","PL","Directamente total",126
+1962,"Portugal","PT","Directamente total",378
+1962,"República de Corea","KR","Directamente_residentes",565
+1962,"República de Corea","KR","Directamente_NOresidentes",5
+1962,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente total",131
+1962,"Sudáfrica","ZA","Directamente total",928
+1962,"España","ES","Directamente total",2712
+1962,"Sri Lanka","LK","Directamente total",5
+1962,"Suecia","SE","Directamente total",238
+1962,"Suiza","CH","Directamente total",941
+1962,"República Árabe Siria","SY","Directamente total",16
+1962,"Reino Unido","GB","Directamente total",7780
+1962,"Estados Unidos de América","US","Directamente total",4910
+1962,"Zimbabwe","ZW","Directamente total",31
+1963,"Australia","AU","Directamente total",1425
+1963,"Austria","AT","Directamente_residentes",5081
+1963,"Austria","AT","Directamente_NOresidentes",2271
+1963,"Bélgica","BE","Directamente_residentes",2123
+1963,"Bélgica","BE","Directamente_NOresidentes",168
+1963,"Canadá","CA","Directamente total",892
+1963,"Chile","CL","Directamente_residentes",64
+1963,"Chile","CL","Directamente_NOresidentes",3
+1963,"Colombia","CO","Directamente_residentes",65
+1963,"Colombia","CO","Directamente_NOresidentes",24
+1963,"Cuba","CU","Directamente_residentes",9
+1963,"Checoslovaquia","CS","Directamente_residentes",350
+1963,"Checoslovaquia","CS","Directamente_NOresidentes",11
+1963,"Dinamarca","DK","Directamente total",852
+1963,"Francia","FR","Directamente_residentes",7365
+1963,"Francia","FR","Directamente_NOresidentes",924
+1963,"República Democrática Alemana","D2","Directamente total",633
+1963,"Hungría","HU","Directamente_residentes",431
+1963,"Hungría","HU","Directamente_NOresidentes",2
+1963,"India","IN","Directamente_residentes",4075
+1963,"India","IN","Directamente_NOresidentes",90
+1963,"Irlanda","IE","Directamente_residentes",7
+1963,"Irlanda","IE","Directamente_NOresidentes",98
+1963,"Israel","IL","Directamente_residentes",219
+1963,"Israel","IL","Directamente_NOresidentes",48
+1963,"Italia","IT","Directamente_residentes",1694
+1963,"Italia","IT","Directamente_NOresidentes",355
+1963,"Jamaica","JM","Directamente_residentes",5
+1963,"Jamaica","JM","Directamente_NOresidentes",4
+1963,"Japón","JP","Directamente_residentes",33534
+1963,"Japón","JP","Directamente_NOresidentes",337
+1963,"Líbano","LB","Directamente_residentes",211
+1963,"Líbano","LB","Directamente_NOresidentes",124
+1963,"Liechtenstein","LI","Directamente_residentes",5
+1963,"Malta","MT","Directamente_residentes",1
+1963,"México","MX","Directamente_residentes",167
+1963,"México","MX","Directamente_NOresidentes",106
+1963,"Mónaco","MC","Directamente_residentes",13
+1963,"Marruecos","MA","Directamente_residentes",33
+1963,"Marruecos","MA","Directamente_NOresidentes",9
+1963,"Nueva Zelandia","NZ","Directamente_residentes",177
+1963,"Nueva Zelandia","NZ","Directamente_NOresidentes",189
+1963,"Noruega","NO","Directamente_residentes",751
+1963,"Noruega","NO","Directamente_NOresidentes",193
+1963,"Perú","PE","Directamente total",56
+1963,"Filipinas","PH","Directamente_residentes",93
+1963,"Filipinas","PH","Directamente_NOresidentes",24
+1963,"Polonia","PL","Directamente_residentes",69
+1963,"Polonia","PL","Directamente_NOresidentes",3
+1963,"Portugal","PT","Directamente_NOresidentes",433
+1963,"República de Corea","KR","Directamente_residentes",726
+1963,"República de Corea","KR","Directamente_NOresidentes",3
+1963,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_residentes",141
+1963,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_NOresidentes",27
+1963,"Sudáfrica","ZA","Directamente_residentes",926
+1963,"Sudáfrica","ZA","Directamente_NOresidentes",230
+1963,"España","ES","Directamente total",3248
+1963,"Sri Lanka","LK","Directamente_residentes",4
+1963,"Sri Lanka","LK","Directamente_NOresidentes",4
+1963,"Suecia","SE","Directamente_residentes",166
+1963,"Suecia","SE","Directamente_NOresidentes",109
+1963,"Suiza","CH","Directamente_residentes",818
+1963,"Suiza","CH","Directamente_NOresidentes",145
+1963,"República Árabe Siria","SY","Directamente_residentes",96
+1963,"República Árabe Siria","SY","Directamente_NOresidentes",1
+1963,"Trinidad y Tobago","TT","Directamente_residentes",3
+1963,"Trinidad y Tobago","TT","Directamente_NOresidentes",9
+1963,"Túnez","TN","Directamente_residentes",23
+1963,"Reino Unido","GB","Directamente_residentes",5758
+1963,"Reino Unido","GB","Directamente_NOresidentes",2157
+1963,"Estados Unidos de América","US","Directamente_residentes",4632
+1963,"Estados Unidos de América","US","Directamente_NOresidentes",336
+1963,"Venezuela","VE","Directamente_residentes",48
+1963,"Venezuela","VE","Directamente_NOresidentes",14
+1963,"Zimbabwe","ZW","Directamente_residentes",8
+1963,"Zimbabwe","ZW","Directamente_NOresidentes",30
+1964,"Australia","AU","Directamente total",1572
+1964,"Bélgica","BE","Directamente_residentes",1315
+1964,"Bélgica","BE","Directamente_NOresidentes",195
+1964,"Canadá","CA","Directamente total",881
+1964,"Colombia","CO","Directamente_residentes",61
+1964,"Colombia","CO","Directamente_NOresidentes",22
+1964,"Checoslovaquia","CS","Directamente_residentes",526
+1964,"Checoslovaquia","CS","Directamente_NOresidentes",8
+1964,"Dinamarca","DK","Directamente total",750
+1964,"Egipto","EG","Directamente_residentes",70
+1964,"Egipto","EG","Directamente_NOresidentes",16
+1964,"Francia","FR","Directamente_residentes",8233
+1964,"Francia","FR","Directamente_NOresidentes",741
+1964,"República Democrática Alemana","D2","Directamente_residentes",602
+1964,"República Democrática Alemana","D2","Directamente_NOresidentes",8
+1964,"Alemania","DE","Directamente_NOresidentes",479
+1964,"Hungría","HU","Directamente_residentes",286
+1964,"Hungría","HU","Directamente_NOresidentes",23
+1964,"India","IN","Directamente_residentes",3603
+1964,"India","IN","Directamente_NOresidentes",97
+1964,"Irlanda","IE","Directamente_residentes",19
+1964,"Irlanda","IE","Directamente_NOresidentes",113
+1964,"Israel","IL","Directamente_residentes",190
+1964,"Israel","IL","Directamente_NOresidentes",27
+1964,"Japón","JP","Directamente_residentes",35734
+1964,"Japón","JP","Directamente_NOresidentes",476
+1964,"Líbano","LB","Directamente_residentes",31
+1964,"Líbano","LB","Directamente_NOresidentes",17
+1964,"Liechtenstein","LI","Directamente_residentes",6
+1964,"Liechtenstein","LI","Directamente_NOresidentes",3
+1964,"Malawi","MW","Directamente_NOresidentes",4
+1964,"México","MX","Directamente_residentes",160
+1964,"México","MX","Directamente_NOresidentes",155
+1964,"Mónaco","MC","Directamente_residentes",6
+1964,"Marruecos","MA","Directamente_residentes",35
+1964,"Marruecos","MA","Directamente_NOresidentes",7
+1964,"Nueva Zelandia","NZ","Directamente_residentes",203
+1964,"Nueva Zelandia","NZ","Directamente_NOresidentes",237
+1964,"Noruega","NO","Directamente_residentes",830
+1964,"Noruega","NO","Directamente_NOresidentes",176
+1964,"Pakistán","PK","Directamente_residentes",272
+1964,"Pakistán","PK","Directamente_NOresidentes",27
+1964,"Perú","PE","Directamente_residentes",49
+1964,"Perú","PE","Directamente_NOresidentes",15
+1964,"Filipinas","PH","Directamente_residentes",37
+1964,"Filipinas","PH","Directamente_NOresidentes",18
+1964,"Polonia","PL","Directamente_residentes",93
+1964,"Polonia","PL","Directamente_NOresidentes",5
+1964,"Portugal","PT","Directamente_NOresidentes",393
+1964,"República de Corea","KR","Directamente_residentes",801
+1964,"República de Corea","KR","Directamente_NOresidentes",3
+1964,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_residentes",158
+1964,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_NOresidentes",18
+1964,"España","ES","Directamente total",3698
+1964,"Sri Lanka","LK","Directamente_residentes",9
+1964,"Sri Lanka","LK","Directamente_NOresidentes",4
+1964,"Suecia","SE","Directamente_residentes",154
+1964,"Suecia","SE","Directamente_NOresidentes",109
+1964,"Suiza","CH","Directamente_residentes",687
+1964,"Suiza","CH","Directamente_NOresidentes",128
+1964,"Trinidad y Tobago","TT","Directamente_NOresidentes",9
+1964,"Túnez","TN","Directamente_residentes",6
+1964,"Reino Unido","GB","Directamente_residentes",6416
+1964,"Reino Unido","GB","Directamente_NOresidentes",1911
+1964,"Estados Unidos de América","US","Directamente_residentes",4926
+1964,"Estados Unidos de América","US","Directamente_NOresidentes",333
+1964,"Venezuela","VE","Directamente_residentes",75
+1964,"Venezuela","VE","Directamente_NOresidentes",26
+1964,"Zimbabwe","ZW","Directamente_residentes",4
+1964,"Zimbabwe","ZW","Directamente_NOresidentes",35
+1965,"Argentina","AR","Directamente_residentes",1264
+1965,"Argentina","AR","Directamente_NOresidentes",83
+1965,"Australia","AU","Directamente_residentes",1260
+1965,"Australia","AU","Directamente_NOresidentes",386
+1965,"Bélgica","BE","Directamente_residentes",378
+1965,"Bélgica","BE","Directamente_NOresidentes",165
+1965,"Canadá","CA","Directamente total",1021
+1965,"Colombia","CO","Directamente_residentes",46
+1965,"Colombia","CO","Directamente_NOresidentes",4
+1965,"Checoslovaquia","CS","Directamente_residentes",300
+1965,"Checoslovaquia","CS","Directamente_NOresidentes",13
+1965,"Dinamarca","DK","Directamente total",819
+1965,"Egipto","EG","Directamente_residentes",65
+1965,"Egipto","EG","Directamente_NOresidentes",10
+1965,"Francia","FR","Directamente_residentes",10459
+1965,"Francia","FR","Directamente_NOresidentes",805
+1965,"República Democrática Alemana","D2","Directamente_residentes",776
+1965,"República Democrática Alemana","D2","Directamente_NOresidentes",7
+1965,"Alemania","DE","Directamente_NOresidentes",484
+1965,"Hungría","HU","Directamente_residentes",345
+1965,"Hungría","HU","Directamente_NOresidentes",6
+1965,"India","IN","Directamente_residentes",3168
+1965,"India","IN","Directamente_NOresidentes",54
+1965,"Irlanda","IE","Directamente_residentes",28
+1965,"Irlanda","IE","Directamente_NOresidentes",126
+1965,"Israel","IL","Directamente_residentes",188
+1965,"Israel","IL","Directamente_NOresidentes",37
+1965,"Italia","IT","Directamente_residentes",2668
+1965,"Japón","JP","Directamente_residentes",36615
+1965,"Japón","JP","Directamente_NOresidentes",647
+1965,"Líbano","LB","Directamente_residentes",140
+1965,"Líbano","LB","Directamente_NOresidentes",5
+1965,"Liechtenstein","LI","Directamente_residentes",6
+1965,"Liechtenstein","LI","Directamente_NOresidentes",2
+1965,"Malawi","MW","Directamente_NOresidentes",9
+1965,"Malta","MT","Directamente_residentes",4
+1965,"Malta","MT","Directamente_NOresidentes",2
+1965,"México","MX","Directamente_residentes",165
+1965,"México","MX","Directamente_NOresidentes",111
+1965,"Mónaco","MC","Directamente_residentes",14
+1965,"Mónaco","MC","Directamente_NOresidentes",2
+1965,"Marruecos","MA","Directamente_residentes",49
+1965,"Marruecos","MA","Directamente_NOresidentes",4
+1965,"Nueva Zelandia","NZ","Directamente_residentes",168
+1965,"Nueva Zelandia","NZ","Directamente_NOresidentes",174
+1965,"Noruega","NO","Directamente_residentes",718
+1965,"Noruega","NO","Directamente_NOresidentes",198
+1965,"Pakistán","PK","Directamente_residentes",287
+1965,"Pakistán","PK","Directamente_NOresidentes",18
+1965,"Filipinas","PH","Directamente_residentes",42
+1965,"Filipinas","PH","Directamente_NOresidentes",29
+1965,"Polonia","PL","Directamente_residentes",94
+1965,"Polonia","PL","Directamente_NOresidentes",4
+1965,"Portugal","PT","Directamente_NOresidentes",259
+1965,"República de Corea","KR","Directamente_residentes",824
+1965,"República de Corea","KR","Directamente_NOresidentes",1
+1965,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_residentes",114
+1965,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_NOresidentes",7
+1965,"España","ES","Directamente_residentes",4042
+1965,"España","ES","Directamente_NOresidentes",20
+1965,"Sri Lanka","LK","Directamente_residentes",10
+1965,"Sri Lanka","LK","Directamente_NOresidentes",8
+1965,"Suecia","SE","Directamente_residentes",147
+1965,"Suecia","SE","Directamente_NOresidentes",144
+1965,"Suiza","CH","Directamente_residentes",751
+1965,"Suiza","CH","Directamente_NOresidentes",163
+1965,"República Árabe Siria","SY","Directamente_residentes",24
+1965,"República Árabe Siria","SY","Directamente_NOresidentes",1
+1965,"Trinidad y Tobago","TT","Directamente_residentes",3
+1965,"Trinidad y Tobago","TT","Directamente_NOresidentes",7
+1965,"Túnez","TN","Directamente_NOresidentes",2
+1965,"Reino Unido","GB","Directamente_residentes",5917
+1965,"Reino Unido","GB","Directamente_NOresidentes",2188
+1965,"Estados Unidos de América","US","Directamente_residentes",5064
+1965,"Estados Unidos de América","US","Directamente_NOresidentes",349
+1965,"Venezuela","VE","Directamente_residentes",93
+1965,"Venezuela","VE","Directamente_NOresidentes",37
+1965,"Zimbabwe","ZW","Directamente_residentes",4
+1965,"Zimbabwe","ZW","Directamente_NOresidentes",26
+1966,"Australia","AU","Directamente_residentes",1110
+1966,"Australia","AU","Directamente_NOresidentes",413
+1966,"Bélgica","BE","Directamente_residentes",2310
+1966,"Bélgica","BE","Directamente_NOresidentes",209
+1966,"Brasil","BR","Directamente_residentes",876
+1966,"Brasil","BR","Directamente_NOresidentes",54
+1966,"Canadá","CA","Directamente total",1217
+1966,"Colombia","CO","Directamente_residentes",58
+1966,"Colombia","CO","Directamente_NOresidentes",16
+1966,"Checoslovaquia","CS","Directamente_residentes",618
+1966,"Checoslovaquia","CS","Directamente_NOresidentes",17
+1966,"Dinamarca","DK","Directamente total",764
+1966,"Egipto","EG","Directamente_residentes",79
+1966,"Egipto","EG","Directamente_NOresidentes",2
+1966,"Francia","FR","Directamente_residentes",12622
+1966,"Francia","FR","Directamente_NOresidentes",642
+1966,"República Democrática Alemana","D2","Directamente_residentes",664
+1966,"República Democrática Alemana","D2","Directamente_NOresidentes",12
+1966,"Alemania","DE","Directamente_NOresidentes",1015
+1966,"Hungría","HU","Directamente_residentes",348
+1966,"Hungría","HU","Directamente_NOresidentes",12
+1966,"India","IN","Directamente_residentes",2383
+1966,"India","IN","Directamente_NOresidentes",55
+1966,"Irlanda","IE","Directamente_residentes",35
+1966,"Irlanda","IE","Directamente_NOresidentes",76
+1966,"Israel","IL","Directamente_residentes",150
+1966,"Israel","IL","Directamente_NOresidentes",32
+1966,"Italia","IT","Directamente_residentes",2383
+1966,"Italia","IT","Directamente_NOresidentes",573
+1966,"Japón","JP","Directamente_residentes",39357
+1966,"Japón","JP","Directamente_NOresidentes",585
+1966,"Líbano","LB","Directamente_residentes",202
+1966,"Líbano","LB","Directamente_NOresidentes",65
+1966,"Liechtenstein","LI","Directamente_residentes",4
+1966,"Liechtenstein","LI","Directamente_NOresidentes",1
+1966,"Malawi","MW","Directamente_NOresidentes",8
+1966,"Malta","MT","Directamente_residentes",5
+1966,"Malta","MT","Directamente_NOresidentes",2
+1966,"México","MX","Directamente_residentes",203
+1966,"México","MX","Directamente_NOresidentes",135
+1966,"Mónaco","MC","Directamente_residentes",3
+1966,"Mónaco","MC","Directamente_NOresidentes",2
+1966,"Marruecos","MA","Directamente_residentes",40
+1966,"Marruecos","MA","Directamente_NOresidentes",7
+1966,"Nueva Zelandia","NZ","Directamente_residentes",186
+1966,"Nueva Zelandia","NZ","Directamente_NOresidentes",197
+1966,"Noruega","NO","Directamente_residentes",593
+1966,"Noruega","NO","Directamente_NOresidentes",176
+1966,"Pakistán","PK","Directamente_residentes",183
+1966,"Pakistán","PK","Directamente_NOresidentes",11
+1966,"Filipinas","PH","Directamente_residentes",54
+1966,"Filipinas","PH","Directamente_NOresidentes",17
+1966,"Polonia","PL","Directamente_residentes",156
+1966,"Polonia","PL","Directamente_NOresidentes",10
+1966,"Portugal","PT","Directamente_NOresidentes",433
+1966,"República de Corea","KR","Directamente_residentes",1328
+1966,"República de Corea","KR","Directamente_NOresidentes",10
+1966,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_residentes",184
+1966,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_NOresidentes",20
+1966,"Sierra Leona","SL","Directamente_NOresidentes",1
+1966,"España","ES","Directamente_residentes",411
+1966,"España","ES","Directamente_NOresidentes",48
+1966,"Sri Lanka","LK","Directamente_residentes",10
+1966,"Sri Lanka","LK","Directamente_NOresidentes",7
+1966,"Suecia","SE","Directamente_residentes",247
+1966,"Suecia","SE","Directamente_NOresidentes",130
+1966,"Suiza","CH","Directamente_residentes",694
+1966,"Suiza","CH","Directamente_NOresidentes",144
+1966,"República Árabe Siria","SY","Directamente_residentes",42
+1966,"República Árabe Siria","SY","Directamente_NOresidentes",11
+1966,"Trinidad y Tobago","TT","Directamente_residentes",9
+1966,"Trinidad y Tobago","TT","Directamente_NOresidentes",6
+1966,"Túnez","TN","Directamente_residentes",3
+1966,"Túnez","TN","Directamente_NOresidentes",1
+1966,"Reino Unido","GB","Directamente_residentes",5442
+1966,"Reino Unido","GB","Directamente_NOresidentes",3035
+1966,"Estados Unidos de América","US","Directamente_residentes",4305
+1966,"Estados Unidos de América","US","Directamente_NOresidentes",548
+1966,"Venezuela","VE","Directamente_residentes",56
+1966,"Venezuela","VE","Directamente_NOresidentes",27
+1966,"Zambia","ZM","Directamente_NOresidentes",31
+1966,"Zimbabwe","ZW","Directamente_residentes",13
+1966,"Zimbabwe","ZW","Directamente_NOresidentes",28
+1967,"Argelia","DZ","Directamente_residentes",16
+1967,"Argelia","DZ","Directamente_NOresidentes",54
+1967,"Australia","AU","Directamente_residentes",1175
+1967,"Australia","AU","Directamente_NOresidentes",452
+1967,"Bélgica","BE","Directamente_residentes",1765
+1967,"Bélgica","BE","Directamente_NOresidentes",347
+1967,"Brasil","BR","Directamente_residentes",1098
+1967,"Brasil","BR","Directamente_NOresidentes",100
+1967,"Canadá","CA","Directamente total",1268
+1967,"Colombia","CO","Directamente_residentes",62
+1967,"Colombia","CO","Directamente_NOresidentes",22
+1967,"Checoslovaquia","CS","Directamente_residentes",774
+1967,"Checoslovaquia","CS","Directamente_NOresidentes",27
+1967,"Dinamarca","DK","Directamente total",728
+1967,"Egipto","EG","Directamente_residentes",68
+1967,"Egipto","EG","Directamente_NOresidentes",8
+1967,"Francia","FR","Directamente_residentes",11467
+1967,"Francia","FR","Directamente_NOresidentes",1419
+1967,"República Democrática Alemana","D2","Directamente_residentes",591
+1967,"República Democrática Alemana","D2","Directamente_NOresidentes",20
+1967,"Alemania","DE","Directamente_NOresidentes",1151
+1967,"Hungría","HU","Directamente_residentes",393
+1967,"Hungría","HU","Directamente_NOresidentes",12
+1967,"India","IN","Directamente_residentes",2513
+1967,"India","IN","Directamente_NOresidentes",63
+1967,"Irlanda","IE","Directamente_residentes",21
+1967,"Irlanda","IE","Directamente_NOresidentes",93
+1967,"Israel","IL","Directamente_residentes",147
+1967,"Israel","IL","Directamente_NOresidentes",26
+1967,"Italia","IT","Directamente_residentes",2219
+1967,"Italia","IT","Directamente_NOresidentes",584
+1967,"Japón","JP","Directamente_residentes",37362
+1967,"Japón","JP","Directamente_NOresidentes",608
+1967,"Líbano","LB","Directamente_residentes",62
+1967,"Líbano","LB","Directamente_NOresidentes",36
+1967,"Liechtenstein","LI","Directamente_residentes",4
+1967,"Liechtenstein","LI","Directamente_NOresidentes",2
+1967,"Malawi","MW","Directamente_NOresidentes",6
+1967,"Malta","MT","Directamente_residentes",26
+1967,"Malta","MT","Directamente_NOresidentes",5
+1967,"Mónaco","MC","Directamente_residentes",4
+1967,"Mónaco","MC","Directamente_NOresidentes",30
+1967,"Marruecos","MA","Directamente_residentes",45
+1967,"Marruecos","MA","Directamente_NOresidentes",8
+1967,"Nueva Zelandia","NZ","Directamente_residentes",200
+1967,"Nueva Zelandia","NZ","Directamente_NOresidentes",186
+1967,"Noruega","NO","Directamente_residentes",742
+1967,"Noruega","NO","Directamente_NOresidentes",243
+1967,"Pakistán","PK","Directamente_residentes",120
+1967,"Pakistán","PK","Directamente_NOresidentes",19
+1967,"Filipinas","PH","Directamente_residentes",47
+1967,"Filipinas","PH","Directamente_NOresidentes",19
+1967,"Polonia","PL","Directamente_residentes",171
+1967,"Polonia","PL","Directamente_NOresidentes",11
+1967,"Portugal","PT","Directamente_NOresidentes",443
+1967,"República de Corea","KR","Directamente_residentes",1901
+1967,"República de Corea","KR","Directamente_NOresidentes",18
+1967,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_residentes",292
+1967,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_NOresidentes",31
+1967,"Union Soviética","SU","Directamente_residentes",971
+1967,"Union Soviética","SU","Directamente_NOresidentes",6
+1967,"España","ES","Directamente_residentes",3754
+1967,"España","ES","Directamente_NOresidentes",221
+1967,"Sri Lanka","LK","Directamente_residentes",4
+1967,"Sri Lanka","LK","Directamente_NOresidentes",4
+1967,"Suecia","SE","Directamente_residentes",243
+1967,"Suecia","SE","Directamente_NOresidentes",140
+1967,"Suiza","CH","Directamente_residentes",623
+1967,"Suiza","CH","Directamente_NOresidentes",165
+1967,"República Árabe Siria","SY","Directamente_residentes",25
+1967,"República Árabe Siria","SY","Directamente_NOresidentes",3
+1967,"Trinidad y Tobago","TT","Directamente_NOresidentes",4
+1967,"Túnez","TN","Directamente_residentes",14
+1967,"Túnez","TN","Directamente_NOresidentes",8
+1967,"Reino Unido","GB","Directamente_residentes",5317
+1967,"Reino Unido","GB","Directamente_NOresidentes",2982
+1967,"Estados Unidos de América","US","Directamente_residentes",4320
+1967,"Estados Unidos de América","US","Directamente_NOresidentes",424
+1967,"Venezuela","VE","Directamente_residentes",70
+1967,"Venezuela","VE","Directamente_NOresidentes",22
+1967,"Zimbabwe","ZW","Directamente_residentes",12
+1967,"Zimbabwe","ZW","Directamente_NOresidentes",34
+1968,"Organización Africana de la Propiedad Intelectual","OA","Directamente_residentes",7
+1968,"Organización Africana de la Propiedad Intelectual","OA","Directamente_NOresidentes",12
+1968,"Argelia","DZ","Directamente_residentes",18
+1968,"Argelia","DZ","Directamente_NOresidentes",8
+1968,"Argentina","AR","Directamente_residentes",3229
+1968,"Argentina","AR","Directamente_NOresidentes",140
+1968,"Australia","AU","Directamente_residentes",1337
+1968,"Australia","AU","Directamente_NOresidentes",432
+1968,"Bélgica","BE","Directamente_residentes",1197
+1968,"Bélgica","BE","Directamente_NOresidentes",333
+1968,"Brasil","BR","Directamente_residentes",948
+1968,"Brasil","BR","Directamente_NOresidentes",115
+1968,"Canadá","CA","Directamente total",1384
+1968,"Colombia","CO","Directamente_residentes",58
+1968,"Colombia","CO","Directamente_NOresidentes",23
+1968,"Checoslovaquia","CS","Directamente_residentes",595
+1968,"Checoslovaquia","CS","Directamente_NOresidentes",30
+1968,"Dinamarca","DK","Directamente total",793
+1968,"Egipto","EG","Directamente_residentes",85
+1968,"Egipto","EG","Directamente_NOresidentes",16
+1968,"Francia","FR","Directamente_residentes",11032
+1968,"Francia","FR","Directamente_NOresidentes",1041
+1968,"República Democrática Alemana","D2","Directamente_residentes",677
+1968,"República Democrática Alemana","D2","Directamente_NOresidentes",16
+1968,"Alemania","DE","Directamente_NOresidentes",1108
+1968,"Hungría","HU","Directamente_residentes",680
+1968,"Hungría","HU","Directamente_NOresidentes",53
+1968,"India","IN","Directamente_residentes",2393
+1968,"India","IN","Directamente_NOresidentes",45
+1968,"Irlanda","IE","Directamente_residentes",20
+1968,"Irlanda","IE","Directamente_NOresidentes",90
+1968,"Israel","IL","Directamente_residentes",156
+1968,"Israel","IL","Directamente_NOresidentes",50
+1968,"Italia","IT","Directamente_residentes",2708
+1968,"Italia","IT","Directamente_NOresidentes",754
+1968,"Japón","JP","Directamente_residentes",38620
+1968,"Japón","JP","Directamente_NOresidentes",760
+1968,"Líbano","LB","Directamente_residentes",68
+1968,"Líbano","LB","Directamente_NOresidentes",19
+1968,"Liechtenstein","LI","Directamente_residentes",4
+1968,"Liechtenstein","LI","Directamente_NOresidentes",2
+1968,"Malawi","MW","Directamente_NOresidentes",7
+1968,"Malta","MT","Directamente_residentes",10
+1968,"Malta","MT","Directamente_NOresidentes",3
+1968,"México","MX","Directamente_residentes",268
+1968,"México","MX","Directamente_NOresidentes",179
+1968,"Mónaco","MC","Directamente_residentes",3
+1968,"Mónaco","MC","Directamente_NOresidentes",4
+1968,"Marruecos","MA","Directamente_residentes",58
+1968,"Marruecos","MA","Directamente_NOresidentes",3
+1968,"Nueva Zelandia","NZ","Directamente_residentes",261
+1968,"Nueva Zelandia","NZ","Directamente_NOresidentes",169
+1968,"Noruega","NO","Directamente_residentes",673
+1968,"Noruega","NO","Directamente_NOresidentes",192
+1968,"Pakistán","PK","Directamente_residentes",148
+1968,"Pakistán","PK","Directamente_NOresidentes",22
+1968,"Filipinas","PH","Directamente_residentes",71
+1968,"Filipinas","PH","Directamente_NOresidentes",28
+1968,"Polonia","PL","Directamente_residentes",174
+1968,"Polonia","PL","Directamente_NOresidentes",26
+1968,"Portugal","PT","Directamente_NOresidentes",341
+1968,"República de Corea","KR","Directamente_residentes",3237
+1968,"República de Corea","KR","Directamente_NOresidentes",40
+1968,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_residentes",355
+1968,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_NOresidentes",67
+1968,"Union Soviética","SU","Directamente_residentes",1015
+1968,"Union Soviética","SU","Directamente_NOresidentes",11
+1968,"España","ES","Directamente_residentes",3895
+1968,"España","ES","Directamente_NOresidentes",259
+1968,"Sri Lanka","LK","Directamente_residentes",5
+1968,"Sri Lanka","LK","Directamente_NOresidentes",4
+1968,"Suecia","SE","Directamente_residentes",251
+1968,"Suecia","SE","Directamente_NOresidentes",166
+1968,"Suiza","CH","Directamente_residentes",628
+1968,"Suiza","CH","Directamente_NOresidentes",200
+1968,"República Árabe Siria","SY","Directamente_residentes",78
+1968,"República Árabe Siria","SY","Directamente_NOresidentes",10
+1968,"Trinidad y Tobago","TT","Directamente_residentes",11
+1968,"Trinidad y Tobago","TT","Directamente_NOresidentes",11
+1968,"Reino Unido","GB","Directamente_residentes",5344
+1968,"Reino Unido","GB","Directamente_NOresidentes",1752
+1968,"Estados Unidos de América","US","Directamente_residentes",4859
+1968,"Estados Unidos de América","US","Directamente_NOresidentes",312
+1968,"Venezuela","VE","Directamente_residentes",123
+1968,"Venezuela","VE","Directamente_NOresidentes",53
+1968,"Zimbabwe","ZW","Directamente_residentes",12
+1968,"Zimbabwe","ZW","Directamente_NOresidentes",22
+1969,"Argelia","DZ","Directamente_residentes",43
+1969,"Argelia","DZ","Directamente_NOresidentes",13
+1969,"Australia","AU","Directamente_residentes",1654
+1969,"Australia","AU","Directamente_NOresidentes",642
+1969,"Bélgica","BE","Directamente_residentes",1127
+1969,"Bélgica","BE","Directamente_NOresidentes",279
+1969,"Canadá","CA","Directamente total",1282
+1969,"Colombia","CO","Directamente_residentes",53
+1969,"Colombia","CO","Directamente_NOresidentes",33
+1969,"Checoslovaquia","CS","Directamente_residentes",611
+1969,"Checoslovaquia","CS","Directamente_NOresidentes",63
+1969,"Dinamarca","DK","Directamente_residentes",472
+1969,"Dinamarca","DK","Directamente_NOresidentes",260
+1969,"Egipto","EG","Directamente_residentes",62
+1969,"Egipto","EG","Directamente_NOresidentes",4
+1969,"Francia","FR","Directamente_residentes",10673
+1969,"Francia","FR","Directamente_NOresidentes",1271
+1969,"República Democrática Alemana","D2","Directamente_residentes",827
+1969,"República Democrática Alemana","D2","Directamente_NOresidentes",24
+1969,"Alemania","DE","Directamente_NOresidentes",1397
+1969,"Hungría","HU","Directamente_residentes",489
+1969,"Hungría","HU","Directamente_NOresidentes",45
+1969,"India","IN","Directamente_residentes",1888
+1969,"India","IN","Directamente_NOresidentes",52
+1969,"Irlanda","IE","Directamente_residentes",38
+1969,"Irlanda","IE","Directamente_NOresidentes",92
+1969,"Israel","IL","Directamente_residentes",119
+1969,"Israel","IL","Directamente_NOresidentes",24
+1969,"Italia","IT","Directamente_residentes",3062
+1969,"Italia","IT","Directamente_NOresidentes",905
+1969,"Japón","JP","Directamente_residentes",41272
+1969,"Japón","JP","Directamente_NOresidentes",951
+1969,"Líbano","LB","Directamente_residentes",40
+1969,"Líbano","LB","Directamente_NOresidentes",45
+1969,"Liechtenstein","LI","Directamente_residentes",2
+1969,"Liechtenstein","LI","Directamente_NOresidentes",1
+1969,"Malawi","MW","Directamente_NOresidentes",3
+1969,"Malta","MT","Directamente_residentes",1
+1969,"Malta","MT","Directamente_NOresidentes",1
+1969,"México","MX","Directamente_residentes",302
+1969,"México","MX","Directamente_NOresidentes",214
+1969,"Mónaco","MC","Directamente_residentes",5
+1969,"Mónaco","MC","Directamente_NOresidentes",2
+1969,"Marruecos","MA","Directamente_residentes",83
+1969,"Marruecos","MA","Directamente_NOresidentes",1
+1969,"Nueva Zelandia","NZ","Directamente_residentes",150
+1969,"Nueva Zelandia","NZ","Directamente_NOresidentes",169
+1969,"Noruega","NO","Directamente_residentes",581
+1969,"Noruega","NO","Directamente_NOresidentes",203
+1969,"Pakistán","PK","Directamente_residentes",170
+1969,"Pakistán","PK","Directamente_NOresidentes",2
+1969,"Filipinas","PH","Directamente_residentes",116
+1969,"Filipinas","PH","Directamente_NOresidentes",24
+1969,"Polonia","PL","Directamente_residentes",191
+1969,"Polonia","PL","Directamente_NOresidentes",33
+1969,"Portugal","PT","Directamente_NOresidentes",406
+1969,"República de Corea","KR","Directamente_residentes",4509
+1969,"República de Corea","KR","Directamente_NOresidentes",27
+1969,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_residentes",347
+1969,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_NOresidentes",72
+1969,"Union Soviética","SU","Directamente_residentes",1084
+1969,"Union Soviética","SU","Directamente_NOresidentes",56
+1969,"España","ES","Directamente_residentes",4243
+1969,"España","ES","Directamente_NOresidentes",238
+1969,"Sri Lanka","LK","Directamente_residentes",4
+1969,"Sri Lanka","LK","Directamente_NOresidentes",3
+1969,"Suecia","SE","Directamente_residentes",245
+1969,"Suecia","SE","Directamente_NOresidentes",195
+1969,"Suiza","CH","Directamente_residentes",471
+1969,"Suiza","CH","Directamente_NOresidentes",185
+1969,"República Árabe Siria","SY","Directamente_residentes",281
+1969,"República Árabe Siria","SY","Directamente_NOresidentes",14
+1969,"Trinidad y Tobago","TT","Directamente_residentes",4
+1969,"Trinidad y Tobago","TT","Directamente_NOresidentes",6
+1969,"Reino Unido","GB","Directamente_residentes",4596
+1969,"Reino Unido","GB","Directamente_NOresidentes",2096
+1969,"Estados Unidos de América","US","Directamente_residentes",4692
+1969,"Estados Unidos de América","US","Directamente_NOresidentes",869
+1969,"Venezuela","VE","Directamente_residentes",22
+1969,"Zimbabwe","ZW","Directamente_residentes",23
+1969,"Zimbabwe","ZW","Directamente_NOresidentes",19
+1970,"Argelia","DZ","Directamente_residentes",39
+1970,"Argelia","DZ","Directamente_NOresidentes",8
+1970,"Argentina","AR","Directamente_residentes",2536
+1970,"Argentina","AR","Directamente_NOresidentes",206
+1970,"Australia","AU","Directamente_residentes",1404
+1970,"Australia","AU","Directamente_NOresidentes",603
+1970,"Austria","AT","Directamente_residentes",2150
+1970,"Austria","AT","Directamente_NOresidentes",2076
+1970,"Bahamas","BS","Directamente_residentes",1
+1970,"Bahrein","BH","Directamente_NOresidentes",1
+1970,"Bélgica","BE","Directamente_residentes",1165
+1970,"Bélgica","BE","Directamente_NOresidentes",323
+1970,"Brasil","BR","Directamente_residentes",66
+1970,"Brasil","BR","Directamente_NOresidentes",3
+1970,"Canadá","CA","Directamente total",1469
+1970,"Colombia","CO","Directamente_residentes",57
+1970,"Colombia","CO","Directamente_NOresidentes",31
+1970,"Checoslovaquia","CS","Directamente_residentes",581
+1970,"Checoslovaquia","CS","Directamente_NOresidentes",37
+1970,"Dinamarca","DK","Directamente total",650
+1970,"Egipto","EG","Directamente_residentes",73
+1970,"Egipto","EG","Directamente_NOresidentes",9
+1970,"Francia","FR","Directamente_residentes",11676
+1970,"Francia","FR","Directamente_NOresidentes",1083
+1970,"República Democrática Alemana","D2","Directamente_residentes",631
+1970,"República Democrática Alemana","D2","Directamente_NOresidentes",34
+1970,"Alemania","DE","Directamente_NOresidentes",2034
+1970,"Hungría","HU","Directamente_residentes",598
+1970,"Hungría","HU","Directamente_NOresidentes",16
+1970,"India","IN","Directamente_residentes",1210
+1970,"India","IN","Directamente_NOresidentes",85
+1970,"Iraq","IQ","Directamente_residentes",12
+1970,"Irlanda","IE","Directamente_residentes",42
+1970,"Irlanda","IE","Directamente_NOresidentes",95
+1970,"Israel","IL","Directamente_residentes",146
+1970,"Israel","IL","Directamente_NOresidentes",39
+1970,"Italia","IT","Directamente_residentes",3412
+1970,"Italia","IT","Directamente_NOresidentes",750
+1970,"Japón","JP","Directamente_residentes",45893
+1970,"Japón","JP","Directamente_NOresidentes",967
+1970,"Líbano","LB","Directamente_residentes",36
+1970,"Líbano","LB","Directamente_NOresidentes",27
+1970,"Liechtenstein","LI","Directamente_residentes",4
+1970,"Liechtenstein","LI","Directamente_NOresidentes",2
+1970,"Malawi","MW","Directamente_NOresidentes",2
+1970,"Malta","MT","Directamente_residentes",1
+1970,"Malta","MT","Directamente_NOresidentes",4
+1970,"México","MX","Directamente_residentes",300
+1970,"México","MX","Directamente_NOresidentes",234
+1970,"Mónaco","MC","Directamente_residentes",17
+1970,"Mónaco","MC","Directamente_NOresidentes",6
+1970,"Marruecos","MA","Directamente_residentes",82
+1970,"Marruecos","MA","Directamente_NOresidentes",3
+1970,"Nueva Zelandia","NZ","Directamente_residentes",148
+1970,"Nueva Zelandia","NZ","Directamente_NOresidentes",163
+1970,"Noruega","NO","Directamente_residentes",571
+1970,"Noruega","NO","Directamente_NOresidentes",287
+1970,"Filipinas","PH","Directamente_residentes",70
+1970,"Filipinas","PH","Directamente_NOresidentes",21
+1970,"Polonia","PL","Directamente_residentes",184
+1970,"Polonia","PL","Directamente_NOresidentes",37
+1970,"Portugal","PT","Directamente_NOresidentes",538
+1970,"República de Corea","KR","Directamente_residentes",4499
+1970,"República de Corea","KR","Directamente_NOresidentes",23
+1970,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_residentes",235
+1970,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_NOresidentes",93
+1970,"Sierra Leona","SL","Directamente_residentes",6
+1970,"Union Soviética","SU","Directamente_residentes",1175
+1970,"Union Soviética","SU","Directamente_NOresidentes",34
+1970,"España","ES","Directamente_residentes",3714
+1970,"España","ES","Directamente_NOresidentes",204
+1970,"Sri Lanka","LK","Directamente_residentes",1
+1970,"Sri Lanka","LK","Directamente_NOresidentes",5
+1970,"Suecia","SE","Directamente_residentes",135
+1970,"Suecia","SE","Directamente_NOresidentes",133
+1970,"Suiza","CH","Directamente_residentes",393
+1970,"Suiza","CH","Directamente_NOresidentes",178
+1970,"República Árabe Siria","SY","Directamente_residentes",69
+1970,"República Árabe Siria","SY","Directamente_NOresidentes",4
+1970,"Trinidad y Tobago","TT","Directamente_residentes",2
+1970,"Trinidad y Tobago","TT","Directamente_NOresidentes",8
+1970,"Túnez","TN","Directamente_residentes",7
+1970,"Túnez","TN","Directamente_NOresidentes",10
+1970,"Reino Unido","GB","Directamente_residentes",4122
+1970,"Reino Unido","GB","Directamente_NOresidentes",2184
+1970,"Estados Unidos de América","US","Directamente_residentes",5286
+1970,"Estados Unidos de América","US","Directamente_NOresidentes",710
+1970,"Venezuela","VE","Directamente_residentes",30
+1970,"Venezuela","VE","Directamente_NOresidentes",334
+1970,"Zaire","ZR","Directamente_residentes",14
+1970,"Zaire","ZR","Directamente_NOresidentes",47
+1970,"Zimbabwe","ZW","Directamente_residentes",26
+1970,"Zimbabwe","ZW","Directamente_NOresidentes",19
+1971,"Organización Africana de la Propiedad Intelectual","OA","Directamente_residentes",124
+1971,"Organización Africana de la Propiedad Intelectual","OA","Directamente_NOresidentes",264
+1971,"Argelia","DZ","Directamente_residentes",45
+1971,"Argelia","DZ","Directamente_NOresidentes",11
+1971,"Argentina","AR","Directamente_residentes",2662
+1971,"Argentina","AR","Directamente_NOresidentes",179
+1971,"Australia","AU","Directamente_residentes",1597
+1971,"Australia","AU","Directamente_NOresidentes",380
+1971,"Austria","AT","Directamente_residentes",4232
+1971,"Austria","AT","Directamente_NOresidentes",2078
+1971,"Bahamas","BS","Directamente_residentes",1
+1971,"Bahamas","BS","Directamente_NOresidentes",2
+1971,"Bélgica","BE","Directamente_residentes",986
+1971,"Bélgica","BE","Directamente_NOresidentes",229
+1971,"Brasil","BR","Directamente_residentes",85
+1971,"Brasil","BR","Directamente_NOresidentes",2
+1971,"Bulgaria","BG","Directamente_residentes",48
+1971,"Bulgaria","BG","Directamente_NOresidentes",10
+1971,"Burundi","BI","Directamente_residentes",1
+1971,"Canadá","CA","Directamente total",1430
+1971,"Colombia","CO","Directamente_NOresidentes",31
+1971,"Checoslovaquia","CS","Directamente_residentes",650
+1971,"Checoslovaquia","CS","Directamente_NOresidentes",19
+1971,"Dinamarca","DK","Directamente_residentes",356
+1971,"Dinamarca","DK","Directamente_NOresidentes",445
+1971,"Egipto","EG","Directamente_residentes",121
+1971,"Egipto","EG","Directamente_NOresidentes",1
+1971,"Finlandia","FI","Directamente_residentes",313
+1971,"Finlandia","FI","Directamente_NOresidentes",188
+1971,"Francia","FR","Directamente_residentes",11365
+1971,"Francia","FR","Directamente_NOresidentes",698
+1971,"República Democrática Alemana","D2","Directamente_residentes",578
+1971,"República Democrática Alemana","D2","Directamente_NOresidentes",33
+1971,"Alemania","DE","Directamente_NOresidentes",1774
+1971,"Hungría","HU","Directamente_residentes",375
+1971,"Hungría","HU","Directamente_NOresidentes",15
+1971,"India","IN","Directamente_residentes",1069
+1971,"India","IN","Directamente_NOresidentes",41
+1971,"Iraq","IQ","Directamente_residentes",31
+1971,"Irlanda","IE","Directamente_residentes",26
+1971,"Irlanda","IE","Directamente_NOresidentes",79
+1971,"Israel","IL","Directamente_residentes",167
+1971,"Israel","IL","Directamente_NOresidentes",58
+1971,"Italia","IT","Directamente_residentes",3479
+1971,"Italia","IT","Directamente_NOresidentes",712
+1971,"Japón","JP","Directamente_residentes",47548
+1971,"Japón","JP","Directamente_NOresidentes",898
+1971,"Líbano","LB","Directamente_residentes",65
+1971,"Líbano","LB","Directamente_NOresidentes",58
+1971,"Liechtenstein","LI","Directamente_residentes",4
+1971,"Malawi","MW","Directamente_NOresidentes",5
+1971,"Malta","MT","Directamente_residentes",7
+1971,"Malta","MT","Directamente_NOresidentes",4
+1971,"Mónaco","MC","Directamente_residentes",28
+1971,"Mónaco","MC","Directamente_NOresidentes",6
+1971,"Marruecos","MA","Directamente_residentes",96
+1971,"Nueva Zelandia","NZ","Directamente_residentes",263
+1971,"Nueva Zelandia","NZ","Directamente_NOresidentes",149
+1971,"Nigeria","NG","Directamente_residentes",717
+1971,"Nigeria","NG","Directamente_NOresidentes",1586
+1971,"Noruega","NO","Directamente_residentes",367
+1971,"Noruega","NO","Directamente_NOresidentes",402
+1971,"Pakistán","PK","Directamente_residentes",159
+1971,"Pakistán","PK","Directamente_NOresidentes",10
+1971,"Filipinas","PH","Directamente_residentes",159
+1971,"Filipinas","PH","Directamente_NOresidentes",21
+1971,"Polonia","PL","Directamente_residentes",183
+1971,"Polonia","PL","Directamente_NOresidentes",19
+1971,"Portugal","PT","Directamente_NOresidentes",289
+1971,"República de Corea","KR","Directamente_residentes",5320
+1971,"República de Corea","KR","Directamente_NOresidentes",28
+1971,"Sierra Leona","SL","Directamente_NOresidentes",1
+1971,"Union Soviética","SU","Directamente_residentes",1266
+1971,"Union Soviética","SU","Directamente_NOresidentes",26
+1971,"España","ES","Directamente_residentes",4387
+1971,"España","ES","Directamente_NOresidentes",238
+1971,"Sri Lanka","LK","Directamente_residentes",6
+1971,"Suecia","SE","Directamente_residentes",1624
+1971,"Suecia","SE","Directamente_NOresidentes",431
+1971,"Suiza","CH","Directamente_residentes",389
+1971,"Suiza","CH","Directamente_NOresidentes",217
+1971,"República Árabe Siria","SY","Directamente_residentes",87
+1971,"República Árabe Siria","SY","Directamente_NOresidentes",2
+1971,"Trinidad y Tobago","TT","Directamente_residentes",4
+1971,"Trinidad y Tobago","TT","Directamente_NOresidentes",3
+1971,"Túnez","TN","Directamente_residentes",5
+1971,"Túnez","TN","Directamente_NOresidentes",4
+1971,"Reino Unido","GB","Directamente_residentes",4119
+1971,"Reino Unido","GB","Directamente_NOresidentes",2669
+1971,"Estados Unidos de América","US","Directamente_residentes",5145
+1971,"Estados Unidos de América","US","Directamente_NOresidentes",1066
+1971,"Venezuela","VE","Directamente_residentes",24
+1971,"Venezuela","VE","Directamente_NOresidentes",314
+1971,"Zaire","ZR","Directamente_residentes",29
+1971,"Zaire","ZR","Directamente_NOresidentes",93
+1971,"Zimbabwe","ZW","Directamente_residentes",18
+1971,"Zimbabwe","ZW","Directamente_NOresidentes",27
+1972,"Organización Africana de la Propiedad Intelectual","OA","Directamente_residentes",52
+1972,"Organización Africana de la Propiedad Intelectual","OA","Directamente_NOresidentes",274
+1972,"Argelia","DZ","Directamente_residentes",28
+1972,"Argelia","DZ","Directamente_NOresidentes",13
+1972,"Argentina","AR","Directamente_residentes",2666
+1972,"Argentina","AR","Directamente_NOresidentes",207
+1972,"Australia","AU","Directamente_residentes",1669
+1972,"Australia","AU","Directamente_NOresidentes",559
+1972,"Austria","AT","Directamente_residentes",2516
+1972,"Austria","AT","Directamente_NOresidentes",2222
+1972,"Bahamas","BS","Directamente_residentes",2
+1972,"Bélgica","BE","Directamente_residentes",1620
+1972,"Bélgica","BE","Directamente_NOresidentes",605
+1972,"Brasil","BR","Directamente_residentes",97
+1972,"Brasil","BR","Directamente_NOresidentes",9
+1972,"Bulgaria","BG","Directamente_residentes",37
+1972,"Bulgaria","BG","Directamente_NOresidentes",6
+1972,"Burundi","BI","Directamente_NOresidentes",1
+1972,"Canadá","CA","Directamente total",1523
+1972,"Colombia","CO","Directamente_residentes",81
+1972,"Colombia","CO","Directamente_NOresidentes",23
+1972,"Checoslovaquia","CS","Directamente_residentes",499
+1972,"Checoslovaquia","CS","Directamente_NOresidentes",41
+1972,"Dinamarca","DK","Directamente_residentes",411
+1972,"Dinamarca","DK","Directamente_NOresidentes",494
+1972,"Egipto","EG","Directamente_residentes",88
+1972,"Egipto","EG","Directamente_NOresidentes",3
+1972,"Finlandia","FI","Directamente_residentes",414
+1972,"Finlandia","FI","Directamente_NOresidentes",223
+1972,"Francia","FR","Directamente_residentes",11523
+1972,"Francia","FR","Directamente_NOresidentes",861
+1972,"República Democrática Alemana","D2","Directamente_residentes",424
+1972,"República Democrática Alemana","D2","Directamente_NOresidentes",19
+1972,"Alemania","DE","Directamente_NOresidentes",1696
+1972,"Hungría","HU","Directamente_residentes",323
+1972,"Hungría","HU","Directamente_NOresidentes",30
+1972,"India","IN","Directamente_residentes",1073
+1972,"India","IN","Directamente_NOresidentes",49
+1972,"Iraq","IQ","Directamente_residentes",22
+1972,"Irlanda","IE","Directamente_residentes",27
+1972,"Irlanda","IE","Directamente_NOresidentes",143
+1972,"Israel","IL","Directamente_residentes",261
+1972,"Israel","IL","Directamente_NOresidentes",89
+1972,"Italia","IT","Directamente_residentes",3545
+1972,"Italia","IT","Directamente_NOresidentes",921
+1972,"Japón","JP","Directamente_residentes",53958
+1972,"Japón","JP","Directamente_NOresidentes",1026
+1972,"Líbano","LB","Directamente_residentes",58
+1972,"Líbano","LB","Directamente_NOresidentes",25
+1972,"Liechtenstein","LI","Directamente_residentes",3
+1972,"Malawi","MW","Directamente_NOresidentes",2
+1972,"Malta","MT","Directamente_residentes",3
+1972,"Malta","MT","Directamente_NOresidentes",4
+1972,"Mónaco","MC","Directamente_residentes",57
+1972,"Mónaco","MC","Directamente_NOresidentes",1
+1972,"Marruecos","MA","Directamente_residentes",64
+1972,"Marruecos","MA","Directamente_NOresidentes",7
+1972,"Nueva Zelandia","NZ","Directamente_residentes",160
+1972,"Nueva Zelandia","NZ","Directamente_NOresidentes",217
+1972,"Noruega","NO","Directamente_residentes",353
+1972,"Noruega","NO","Directamente_NOresidentes",402
+1972,"Pakistán","PK","Directamente_residentes",142
+1972,"Pakistán","PK","Directamente_NOresidentes",11
+1972,"Perú","PE","Directamente_residentes",80
+1972,"Perú","PE","Directamente_NOresidentes",17
+1972,"Filipinas","PH","Directamente_residentes",132
+1972,"Filipinas","PH","Directamente_NOresidentes",59
+1972,"Polonia","PL","Directamente_residentes",206
+1972,"Polonia","PL","Directamente_NOresidentes",22
+1972,"Portugal","PT","Directamente_NOresidentes",490
+1972,"República de Corea","KR","Directamente_residentes",5980
+1972,"República de Corea","KR","Directamente_NOresidentes",11
+1972,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_residentes",320
+1972,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_NOresidentes",52
+1972,"Sierra Leona","SL","Directamente_NOresidentes",1
+1972,"Union Soviética","SU","Directamente_residentes",1618
+1972,"Union Soviética","SU","Directamente_NOresidentes",29
+1972,"España","ES","Directamente_residentes",4402
+1972,"España","ES","Directamente_NOresidentes",330
+1972,"Sri Lanka","LK","Directamente_residentes",8
+1972,"Sri Lanka","LK","Directamente_NOresidentes",2
+1972,"Suecia","SE","Directamente_residentes",1707
+1972,"Suecia","SE","Directamente_NOresidentes",490
+1972,"Suiza","CH","Directamente_residentes",405
+1972,"Suiza","CH","Directamente_NOresidentes",262
+1972,"Trinidad y Tobago","TT","Directamente_residentes",4
+1972,"Trinidad y Tobago","TT","Directamente_NOresidentes",9
+1972,"Túnez","TN","Directamente_residentes",8
+1972,"Reino Unido","GB","Directamente_residentes",3563
+1972,"Reino Unido","GB","Directamente_NOresidentes",2242
+1972,"Estados Unidos de América","US","Directamente_residentes",4982
+1972,"Estados Unidos de América","US","Directamente_NOresidentes",885
+1972,"Venezuela","VE","Directamente_residentes",45
+1972,"Venezuela","VE","Directamente_NOresidentes",299
+1972,"Zaire","ZR","Directamente_residentes",1
+1972,"Zaire","ZR","Directamente_NOresidentes",122
+1972,"Zimbabwe","ZW","Directamente_residentes",18
+1972,"Zimbabwe","ZW","Directamente_NOresidentes",25
+1973,"Organización Africana de la Propiedad Intelectual","OA","Directamente_residentes",51
+1973,"Organización Africana de la Propiedad Intelectual","OA","Directamente_NOresidentes",352
+1973,"Argelia","DZ","Directamente_residentes",13
+1973,"Argelia","DZ","Directamente_NOresidentes",12
+1973,"Argentina","AR","Directamente_residentes",2432
+1973,"Argentina","AR","Directamente_NOresidentes",172
+1973,"Australia","AU","Directamente_residentes",1545
+1973,"Australia","AU","Directamente_NOresidentes",570
+1973,"Austria","AT","Directamente_residentes",2298
+1973,"Austria","AT","Directamente_NOresidentes",1863
+1973,"Bahamas","BS","Directamente_residentes",1
+1973,"Bahamas","BS","Directamente_NOresidentes",6
+1973,"Bélgica","BE","Directamente_residentes",1341
+1973,"Bélgica","BE","Directamente_NOresidentes",366
+1973,"Brasil","BR","Directamente_residentes",106
+1973,"Brasil","BR","Directamente_NOresidentes",8
+1973,"Bulgaria","BG","Directamente_residentes",43
+1973,"Bulgaria","BG","Directamente_NOresidentes",20
+1973,"Canadá","CA","Directamente total",1746
+1973,"Colombia","CO","Directamente_residentes",47
+1973,"Colombia","CO","Directamente_NOresidentes",22
+1973,"Checoslovaquia","CS","Directamente_residentes",479
+1973,"Checoslovaquia","CS","Directamente_NOresidentes",29
+1973,"Dinamarca","DK","Directamente_residentes",417
+1973,"Dinamarca","DK","Directamente_NOresidentes",539
+1973,"Egipto","EG","Directamente_residentes",95
+1973,"Egipto","EG","Directamente_NOresidentes",5
+1973,"Finlandia","FI","Directamente_residentes",386
+1973,"Finlandia","FI","Directamente_NOresidentes",347
+1973,"Francia","FR","Directamente_residentes",11903
+1973,"Francia","FR","Directamente_NOresidentes",1047
+1973,"República Democrática Alemana","D2","Directamente_residentes",286
+1973,"República Democrática Alemana","D2","Directamente_NOresidentes",8
+1973,"Alemania","DE","Directamente_NOresidentes",1817
+1973,"Hungría","HU","Directamente_residentes",362
+1973,"Hungría","HU","Directamente_NOresidentes",42
+1973,"India","IN","Directamente_residentes",968
+1973,"India","IN","Directamente_NOresidentes",50
+1973,"Iraq","IQ","Directamente_residentes",18
+1973,"Irlanda","IE","Directamente_residentes",33
+1973,"Irlanda","IE","Directamente_NOresidentes",163
+1973,"Israel","IL","Directamente_residentes",260
+1973,"Israel","IL","Directamente_NOresidentes",58
+1973,"Italia","IT","Directamente_residentes",2337
+1973,"Italia","IT","Directamente_NOresidentes",861
+1973,"Jamaica","JM","Directamente_residentes",5
+1973,"Jamaica","JM","Directamente_NOresidentes",8
+1973,"Japón","JP","Directamente_residentes",46793
+1973,"Japón","JP","Directamente_NOresidentes",1005
+1973,"Líbano","LB","Directamente_residentes",75
+1973,"Líbano","LB","Directamente_NOresidentes",20
+1973,"Liechtenstein","LI","Directamente_residentes",3
+1973,"Malawi","MW","Directamente_NOresidentes",4
+1973,"Malta","MT","Directamente_residentes",1
+1973,"Malta","MT","Directamente_NOresidentes",4
+1973,"México","MX","Directamente total",594
+1973,"Mónaco","MC","Directamente_residentes",18
+1973,"Mónaco","MC","Directamente_NOresidentes",9
+1973,"Marruecos","MA","Directamente_residentes",62
+1973,"Marruecos","MA","Directamente_NOresidentes",8
+1973,"Nueva Zelandia","NZ","Directamente_residentes",159
+1973,"Nueva Zelandia","NZ","Directamente_NOresidentes",225
+1973,"Noruega","NO","Directamente_residentes",380
+1973,"Noruega","NO","Directamente_NOresidentes",404
+1973,"Pakistán","PK","Directamente_residentes",69
+1973,"Pakistán","PK","Directamente_NOresidentes",32
+1973,"Perú","PE","Directamente_residentes",53
+1973,"Perú","PE","Directamente_NOresidentes",2
+1973,"Filipinas","PH","Directamente_residentes",199
+1973,"Filipinas","PH","Directamente_NOresidentes",37
+1973,"Polonia","PL","Directamente_residentes",195
+1973,"Polonia","PL","Directamente_NOresidentes",45
+1973,"Portugal","PT","Directamente_NOresidentes",464
+1973,"República de Corea","KR","Directamente_residentes",6313
+1973,"República de Corea","KR","Directamente_NOresidentes",20
+1973,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_residentes",265
+1973,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_NOresidentes",58
+1973,"Union Soviética","SU","Directamente_residentes",1794
+1973,"Union Soviética","SU","Directamente_NOresidentes",49
+1973,"España","ES","Directamente_residentes",4117
+1973,"España","ES","Directamente_NOresidentes",302
+1973,"Sri Lanka","LK","Directamente_residentes",12
+1973,"Sri Lanka","LK","Directamente_NOresidentes",1
+1973,"Swazilandia","SZ","Directamente_residentes",3
+1973,"Swazilandia","SZ","Directamente_NOresidentes",3
+1973,"Suecia","SE","Directamente_residentes",1917
+1973,"Suecia","SE","Directamente_NOresidentes",498
+1973,"Suiza","CH","Directamente_residentes",321
+1973,"Suiza","CH","Directamente_NOresidentes",279
+1973,"República Árabe Siria","SY","Directamente_residentes",41
+1973,"República Árabe Siria","SY","Directamente_NOresidentes",8
+1973,"Trinidad y Tobago","TT","Directamente_residentes",6
+1973,"Trinidad y Tobago","TT","Directamente_NOresidentes",6
+1973,"Túnez","TN","Directamente_residentes",25
+1973,"Túnez","TN","Directamente_NOresidentes",3
+1973,"Reino Unido","GB","Directamente_residentes",2688
+1973,"Reino Unido","GB","Directamente_NOresidentes",1853
+1973,"Estados Unidos de América","US","Directamente_residentes",4559
+1973,"Estados Unidos de América","US","Directamente_NOresidentes",866
+1973,"Venezuela","VE","Directamente_residentes",30
+1973,"Venezuela","VE","Directamente_NOresidentes",76
+1973,"Zaire","ZR","Directamente_residentes",4
+1973,"Zaire","ZR","Directamente_NOresidentes",2
+1973,"Zimbabwe","ZW","Directamente_residentes",32
+1973,"Zimbabwe","ZW","Directamente_NOresidentes",15
+1974,"Organización Africana de la Propiedad Intelectual","OA","Directamente_residentes",36
+1974,"Organización Africana de la Propiedad Intelectual","OA","Directamente_NOresidentes",133
+1974,"Argelia","DZ","Directamente_residentes",45
+1974,"Argelia","DZ","Directamente_NOresidentes",12
+1974,"Argentina","AR","Directamente_residentes",2261
+1974,"Argentina","AR","Directamente_NOresidentes",142
+1974,"Australia","AU","Directamente_residentes",1431
+1974,"Australia","AU","Directamente_NOresidentes",560
+1974,"Austria","AT","Directamente_residentes",2967
+1974,"Austria","AT","Directamente_NOresidentes",2078
+1974,"Bahamas","BS","Directamente_residentes",1
+1974,"Bahamas","BS","Directamente_NOresidentes",1
+1974,"Bangladesh","BD","Directamente_residentes",11
+1974,"Bangladesh","BD","Directamente_NOresidentes",3
+1974,"Bélgica","BE","Directamente_residentes",2349
+1974,"Bélgica","BE","Directamente_NOresidentes",323
+1974,"Bulgaria","BG","Directamente_residentes",68
+1974,"Bulgaria","BG","Directamente_NOresidentes",9
+1974,"Canadá","CA","Directamente total",1563
+1974,"Colombia","CO","Directamente_residentes",38
+1974,"Colombia","CO","Directamente_NOresidentes",19
+1974,"Checoslovaquia","CS","Directamente_residentes",1190
+1974,"Checoslovaquia","CS","Directamente_NOresidentes",35
+1974,"Dinamarca","DK","Directamente_residentes",470
+1974,"Dinamarca","DK","Directamente_NOresidentes",537
+1974,"Egipto","EG","Directamente_residentes",82
+1974,"Egipto","EG","Directamente_NOresidentes",2
+1974,"Finlandia","FI","Directamente_residentes",337
+1974,"Finlandia","FI","Directamente_NOresidentes",337
+1974,"Francia","FR","Directamente_residentes",10941
+1974,"Francia","FR","Directamente_NOresidentes",1027
+1974,"Alemania","DE","Directamente_NOresidentes",1917
+1974,"Hungría","HU","Directamente_residentes",242
+1974,"Hungría","HU","Directamente_NOresidentes",42
+1974,"India","IN","Directamente_residentes",1007
+1974,"India","IN","Directamente_NOresidentes",43
+1974,"Iraq","IQ","Directamente_residentes",67
+1974,"Irlanda","IE","Directamente_residentes",22
+1974,"Irlanda","IE","Directamente_NOresidentes",137
+1974,"Israel","IL","Directamente_residentes",124
+1974,"Israel","IL","Directamente_NOresidentes",73
+1974,"Italia","IT","Directamente_residentes",2234
+1974,"Italia","IT","Directamente_NOresidentes",773
+1974,"Jamaica","JM","Directamente_residentes",33
+1974,"Jamaica","JM","Directamente_NOresidentes",1
+1974,"Japón","JP","Directamente_residentes",44485
+1974,"Japón","JP","Directamente_NOresidentes",902
+1974,"Líbano","LB","Directamente_residentes",30
+1974,"Líbano","LB","Directamente_NOresidentes",17
+1974,"Liechtenstein","LI","Directamente_residentes",3
+1974,"Malawi","MW","Directamente_NOresidentes",2
+1974,"Malta","MT","Directamente_residentes",2
+1974,"Malta","MT","Directamente_NOresidentes",3
+1974,"México","MX","Directamente total",452
+1974,"Mónaco","MC","Directamente_residentes",36
+1974,"Marruecos","MA","Directamente_residentes",40
+1974,"Marruecos","MA","Directamente_NOresidentes",12
+1974,"Nueva Zelandia","NZ","Directamente_residentes",185
+1974,"Nueva Zelandia","NZ","Directamente_NOresidentes",159
+1974,"Nigeria","NG","Directamente_residentes",150
+1974,"Nigeria","NG","Directamente_NOresidentes",81
+1974,"Noruega","NO","Directamente_residentes",343
+1974,"Noruega","NO","Directamente_NOresidentes",421
+1974,"Pakistán","PK","Directamente_residentes",134
+1974,"Pakistán","PK","Directamente_NOresidentes",20
+1974,"Filipinas","PH","Directamente_residentes",342
+1974,"Filipinas","PH","Directamente_NOresidentes",31
+1974,"Polonia","PL","Directamente_residentes",173
+1974,"Polonia","PL","Directamente_NOresidentes",27
+1974,"Portugal","PT","Directamente_NOresidentes",243
+1974,"República de Corea","KR","Directamente_residentes",6193
+1974,"República de Corea","KR","Directamente_NOresidentes",27
+1974,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_residentes",179
+1974,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_NOresidentes",60
+1974,"Union Soviética","SU","Directamente_residentes",1962
+1974,"Union Soviética","SU","Directamente_NOresidentes",26
+1974,"España","ES","Directamente_residentes",3844
+1974,"España","ES","Directamente_NOresidentes",269
+1974,"Sri Lanka","LK","Directamente_residentes",11
+1974,"Suecia","SE","Directamente_residentes",1719
+1974,"Suecia","SE","Directamente_NOresidentes",437
+1974,"Suiza","CH","Directamente_residentes",315
+1974,"Suiza","CH","Directamente_NOresidentes",231
+1974,"República Árabe Siria","SY","Directamente_residentes",88
+1974,"República Árabe Siria","SY","Directamente_NOresidentes",13
+1974,"Trinidad y Tobago","TT","Directamente_residentes",4
+1974,"Trinidad y Tobago","TT","Directamente_NOresidentes",4
+1974,"Túnez","TN","Directamente_residentes",18
+1974,"Túnez","TN","Directamente_NOresidentes",4
+1974,"Reino Unido","GB","Directamente_residentes",2282
+1974,"Reino Unido","GB","Directamente_NOresidentes",1901
+1974,"Estados Unidos de América","US","Directamente_residentes",4279
+1974,"Estados Unidos de América","US","Directamente_NOresidentes",1039
+1974,"Venezuela","VE","Directamente_residentes",196
+1974,"Venezuela","VE","Directamente_NOresidentes",105
+1974,"Zaire","ZR","Directamente_residentes",1
+1974,"Zaire","ZR","Directamente_NOresidentes",11
+1974,"Zambia","ZM","Directamente_NOresidentes",8
+1974,"Zimbabwe","ZW","Directamente_residentes",13
+1974,"Zimbabwe","ZW","Directamente_NOresidentes",9
+1975,"Organización Africana de la Propiedad Intelectual","OA","Directamente_residentes",26
+1975,"Organización Africana de la Propiedad Intelectual","OA","Directamente_NOresidentes",57
+1975,"Argelia","DZ","Directamente_residentes",52
+1975,"Argelia","DZ","Directamente_NOresidentes",31
+1975,"Argentina","AR","Directamente_residentes",2394
+1975,"Argentina","AR","Directamente_NOresidentes",160
+1975,"Australia","AU","Directamente_residentes",1564
+1975,"Australia","AU","Directamente_NOresidentes",541
+1975,"Austria","AT","Directamente_residentes",3987
+1975,"Austria","AT","Directamente_NOresidentes",1517
+1975,"Benelux","BX","Directamente_residentes",1738
+1975,"Benelux","BX","Directamente_NOresidentes",1425
+1975,"Bulgaria","BG","Directamente_residentes",24
+1975,"Bulgaria","BG","Directamente_NOresidentes",8
+1975,"Canadá","CA","Directamente_residentes",594
+1975,"Canadá","CA","Directamente_NOresidentes",986
+1975,"Colombia","CO","Directamente_residentes",51
+1975,"Colombia","CO","Directamente_NOresidentes",29
+1975,"Checoslovaquia","CS","Directamente_residentes",1168
+1975,"Checoslovaquia","CS","Directamente_NOresidentes",22
+1975,"Dinamarca","DK","Directamente_residentes",472
+1975,"Dinamarca","DK","Directamente_NOresidentes",529
+1975,"Egipto","EG","Directamente_residentes",68
+1975,"Egipto","EG","Directamente_NOresidentes",23
+1975,"Finlandia","FI","Directamente_residentes",387
+1975,"Finlandia","FI","Directamente_NOresidentes",325
+1975,"Francia","FR","Directamente_residentes",3588
+1975,"Francia","FR","Directamente_NOresidentes",569
+1975,"República Democrática Alemana","D2","Directamente_residentes",163
+1975,"República Democrática Alemana","D2","Directamente_NOresidentes",10
+1975,"Alemania","DE","Directamente_NOresidentes",2979
+1975,"Hungría","HU","Directamente_residentes",169
+1975,"Hungría","HU","Directamente_NOresidentes",11
+1975,"India","IN","Directamente_residentes",1156
+1975,"India","IN","Directamente_NOresidentes",29
+1975,"Iraq","IQ","Directamente_residentes",30
+1975,"Iraq","IQ","Directamente_NOresidentes",1
+1975,"Irlanda","IE","Directamente_residentes",48
+1975,"Irlanda","IE","Directamente_NOresidentes",182
+1975,"Israel","IL","Directamente_residentes",197
+1975,"Israel","IL","Directamente_NOresidentes",59
+1975,"Italia","IT","Directamente_residentes",2253
+1975,"Italia","IT","Directamente_NOresidentes",731
+1975,"Jamaica","JM","Directamente_residentes",3
+1975,"Jamaica","JM","Directamente_NOresidentes",5
+1975,"Japón","JP","Directamente_residentes",51407
+1975,"Japón","JP","Directamente_NOresidentes",843
+1975,"Liechtenstein","LI","Directamente_residentes",6
+1975,"Malawi","MW","Directamente_NOresidentes",1
+1975,"Malta","MT","Directamente_residentes",2
+1975,"Malta","MT","Directamente_NOresidentes",4
+1975,"Mónaco","MC","Directamente_residentes",10
+1975,"Marruecos","MA","Directamente_residentes",82
+1975,"Marruecos","MA","Directamente_NOresidentes",15
+1975,"Nueva Zelandia","NZ","Directamente_residentes",250
+1975,"Nueva Zelandia","NZ","Directamente_NOresidentes",163
+1975,"Nigeria","NG","Directamente_residentes",73
+1975,"Nigeria","NG","Directamente_NOresidentes",72
+1975,"Noruega","NO","Directamente_residentes",336
+1975,"Noruega","NO","Directamente_NOresidentes",463
+1975,"Pakistán","PK","Directamente_residentes",115
+1975,"Pakistán","PK","Directamente_NOresidentes",11
+1975,"Perú","PE","Directamente_residentes",120
+1975,"Perú","PE","Directamente_NOresidentes",14
+1975,"Filipinas","PH","Directamente_residentes",317
+1975,"Filipinas","PH","Directamente_NOresidentes",45
+1975,"Polonia","PL","Directamente_residentes",173
+1975,"Polonia","PL","Directamente_NOresidentes",55
+1975,"Portugal","PT","Directamente_residentes",262
+1975,"Portugal","PT","Directamente_NOresidentes",112
+1975,"República de Corea","KR","Directamente_residentes",6674
+1975,"República de Corea","KR","Directamente_NOresidentes",33
+1975,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_residentes",272
+1975,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_NOresidentes",71
+1975,"Union Soviética","SU","Directamente_residentes",2004
+1975,"Union Soviética","SU","Directamente_NOresidentes",22
+1975,"España","ES","Directamente_residentes",3703
+1975,"España","ES","Directamente_NOresidentes",264
+1975,"Sri Lanka","LK","Directamente_residentes",14
+1975,"Sri Lanka","LK","Directamente_NOresidentes",2
+1975,"Suecia","SE","Directamente_residentes",2087
+1975,"Suecia","SE","Directamente_NOresidentes",491
+1975,"Suiza","CH","Directamente_residentes",476
+1975,"Suiza","CH","Directamente_NOresidentes",224
+1975,"República Árabe Siria","SY","Directamente_residentes",99
+1975,"República Árabe Siria","SY","Directamente_NOresidentes",22
+1975,"Trinidad y Tobago","TT","Directamente_residentes",6
+1975,"Trinidad y Tobago","TT","Directamente_NOresidentes",2
+1975,"Reino Unido","GB","Directamente_residentes",2593
+1975,"Reino Unido","GB","Directamente_NOresidentes",2137
+1975,"Estados Unidos de América","US","Directamente_residentes",5050
+1975,"Estados Unidos de América","US","Directamente_NOresidentes",1242
+1975,"Venezuela","VE","Directamente_residentes",26
+1975,"Venezuela","VE","Directamente_NOresidentes",8
+1975,"Zaire","ZR","Directamente_NOresidentes",48
+1975,"Zambia","ZM","Directamente_NOresidentes",5
+1976,"Organización Africana de la Propiedad Intelectual","OA","Directamente_residentes",24
+1976,"Organización Africana de la Propiedad Intelectual","OA","Directamente_NOresidentes",18
+1976,"Argelia","DZ","Directamente_residentes",46
+1976,"Argelia","DZ","Directamente_NOresidentes",6
+1976,"Argentina","AR","Directamente_residentes",2585
+1976,"Argentina","AR","Directamente_NOresidentes",149
+1976,"Australia","AU","Directamente_residentes",1960
+1976,"Australia","AU","Directamente_NOresidentes",611
+1976,"Austria","AT","Directamente_residentes",3659
+1976,"Austria","AT","Directamente_NOresidentes",1913
+1976,"Bahamas","BS","Directamente_residentes",2
+1976,"Bahamas","BS","Directamente_NOresidentes",3
+1976,"Bangladesh","BD","Directamente_residentes",33
+1976,"Bangladesh","BD","Directamente_NOresidentes",1
+1976,"Benelux","BX","Directamente_residentes",1418
+1976,"Benelux","BX","Directamente_NOresidentes",1492
+1976,"Bulgaria","BG","Directamente_residentes",68
+1976,"Bulgaria","BG","Directamente_NOresidentes",6
+1976,"Canadá","CA","Directamente_residentes",599
+1976,"Canadá","CA","Directamente_NOresidentes",1071
+1976,"Colombia","CO","Directamente_residentes",36
+1976,"Colombia","CO","Directamente_NOresidentes",37
+1976,"Checoslovaquia","CS","Directamente_residentes",1229
+1976,"Checoslovaquia","CS","Directamente_NOresidentes",34
+1976,"Dinamarca","DK","Directamente_residentes",433
+1976,"Dinamarca","DK","Directamente_NOresidentes",573
+1976,"Egipto","EG","Directamente_residentes",51
+1976,"Egipto","EG","Directamente_NOresidentes",14
+1976,"Finlandia","FI","Directamente_residentes",373
+1976,"Finlandia","FI","Directamente_NOresidentes",354
+1976,"Francia","FR","Directamente_residentes",3537
+1976,"Francia","FR","Directamente_NOresidentes",608
+1976,"República Democrática Alemana","D2","Directamente_residentes",319
+1976,"República Democrática Alemana","D2","Directamente_NOresidentes",22
+1976,"Alemania","DE","Directamente_NOresidentes",5452
+1976,"Hungría","HU","Directamente_residentes",298
+1976,"Hungría","HU","Directamente_NOresidentes",21
+1976,"India","IN","Directamente_residentes",1236
+1976,"India","IN","Directamente_NOresidentes",55
+1976,"Iraq","IQ","Directamente_residentes",7
+1976,"Iraq","IQ","Directamente_NOresidentes",6
+1976,"Irlanda","IE","Directamente_residentes",30
+1976,"Irlanda","IE","Directamente_NOresidentes",170
+1976,"Israel","IL","Directamente_residentes",228
+1976,"Israel","IL","Directamente_NOresidentes",71
+1976,"Japón","JP","Directamente_residentes",50970
+1976,"Japón","JP","Directamente_NOresidentes",934
+1976,"Liechtenstein","LI","Directamente_residentes",2
+1976,"Malawi","MW","Directamente_NOresidentes",1
+1976,"Malta","MT","Directamente_residentes",5
+1976,"Malta","MT","Directamente_NOresidentes",3
+1976,"México","MX","Directamente total",492
+1976,"Mónaco","MC","Directamente_residentes",52
+1976,"Mónaco","MC","Directamente_NOresidentes",23
+1976,"Marruecos","MA","Directamente_residentes",91
+1976,"Marruecos","MA","Directamente_NOresidentes",6
+1976,"Nueva Zelandia","NZ","Directamente_residentes",269
+1976,"Nueva Zelandia","NZ","Directamente_NOresidentes",239
+1976,"Nigeria","NG","Directamente_residentes",44
+1976,"Nigeria","NG","Directamente_NOresidentes",47
+1976,"Noruega","NO","Directamente_residentes",355
+1976,"Noruega","NO","Directamente_NOresidentes",487
+1976,"Pakistán","PK","Directamente_residentes",159
+1976,"Pakistán","PK","Directamente_NOresidentes",16
+1976,"Perú","PE","Directamente total",302
+1976,"Filipinas","PH","Directamente_residentes",257
+1976,"Filipinas","PH","Directamente_NOresidentes",65
+1976,"Polonia","PL","Directamente_residentes",169
+1976,"Polonia","PL","Directamente_NOresidentes",45
+1976,"Portugal","PT","Directamente_residentes",145
+1976,"Portugal","PT","Directamente_NOresidentes",94
+1976,"República de Corea","KR","Directamente_residentes",5995
+1976,"República de Corea","KR","Directamente_NOresidentes",23
+1976,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_residentes",287
+1976,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_NOresidentes",62
+1976,"Union Soviética","SU","Directamente_residentes",2068
+1976,"Union Soviética","SU","Directamente_NOresidentes",30
+1976,"España","ES","Directamente_residentes",2924
+1976,"España","ES","Directamente_NOresidentes",331
+1976,"Sri Lanka","LK","Directamente_NOresidentes",20
+1976,"Suecia","SE","Directamente_residentes",2006
+1976,"Suecia","SE","Directamente_NOresidentes",593
+1976,"Suiza","CH","Directamente_residentes",470
+1976,"Suiza","CH","Directamente_NOresidentes",339
+1976,"Trinidad y Tobago","TT","Directamente_residentes",12
+1976,"Trinidad y Tobago","TT","Directamente_NOresidentes",3
+1976,"Reino Unido","GB","Directamente_residentes",2405
+1976,"Reino Unido","GB","Directamente_NOresidentes",2218
+1976,"Estados Unidos de América","US","Directamente_residentes",5712
+1976,"Estados Unidos de América","US","Directamente_NOresidentes",1349
+1976,"Venezuela","VE","Directamente_residentes",213
+1976,"Venezuela","VE","Directamente_NOresidentes",124
+1976,"Zaire","ZR","Directamente_residentes",6
+1976,"Zaire","ZR","Directamente_NOresidentes",2
+1976,"Zambia","ZM","Directamente_NOresidentes",5
+1977,"Organización Africana de la Propiedad Intelectual","OA","Directamente_residentes",25
+1977,"Organización Africana de la Propiedad Intelectual","OA","Directamente_NOresidentes",126
+1977,"Argelia","DZ","Directamente_residentes",38
+1977,"Argelia","DZ","Directamente_NOresidentes",13
+1977,"Argentina","AR","Directamente_residentes",2506
+1977,"Argentina","AR","Directamente_NOresidentes",129
+1977,"Australia","AU","Directamente_residentes",1967
+1977,"Australia","AU","Directamente_NOresidentes",728
+1977,"Austria","AT","Directamente_residentes",4232
+1977,"Austria","AT","Directamente_NOresidentes",1790
+1977,"Bahamas","BS","Directamente_NOresidentes",1
+1977,"Bangladesh","BD","Directamente_residentes",17
+1977,"Benelux","BX","Directamente_residentes",1591
+1977,"Benelux","BX","Directamente_NOresidentes",1268
+1977,"Brasil","BR","Directamente_residentes",58
+1977,"Brasil","BR","Directamente_NOresidentes",11
+1977,"Bulgaria","BG","Directamente_residentes",53
+1977,"Bulgaria","BG","Directamente_NOresidentes",6
+1977,"Canadá","CA","Directamente_residentes",645
+1977,"Canadá","CA","Directamente_NOresidentes",1076
+1977,"Colombia","CO","Directamente_residentes",50
+1977,"Colombia","CO","Directamente_NOresidentes",41
+1977,"Checoslovaquia","CS","Directamente_residentes",1273
+1977,"Checoslovaquia","CS","Directamente_NOresidentes",25
+1977,"Dinamarca","DK","Directamente_residentes",418
+1977,"Dinamarca","DK","Directamente_NOresidentes",587
+1977,"Egipto","EG","Directamente_residentes",90
+1977,"Egipto","EG","Directamente_NOresidentes",15
+1977,"Finlandia","FI","Directamente_residentes",437
+1977,"Finlandia","FI","Directamente_NOresidentes",351
+1977,"Francia","FR","Directamente_residentes",3493
+1977,"Francia","FR","Directamente_NOresidentes",524
+1977,"República Democrática Alemana","D2","Directamente_residentes",321
+1977,"República Democrática Alemana","D2","Directamente_NOresidentes",16
+1977,"Alemania","DE","Directamente_NOresidentes",4167
+1977,"Hungría","HU","Directamente_residentes",241
+1977,"Hungría","HU","Directamente_NOresidentes",17
+1977,"India","IN","Directamente_residentes",1358
+1977,"India","IN","Directamente_NOresidentes",45
+1977,"Iraq","IQ","Directamente_residentes",59
+1977,"Irlanda","IE","Directamente_residentes",73
+1977,"Irlanda","IE","Directamente_NOresidentes",174
+1977,"Israel","IL","Directamente_residentes",212
+1977,"Israel","IL","Directamente_NOresidentes",77
+1977,"Jamaica","JM","Directamente_residentes",2
+1977,"Jamaica","JM","Directamente_NOresidentes",7
+1977,"Japón","JP","Directamente_residentes",52186
+1977,"Japón","JP","Directamente_NOresidentes",957
+1977,"Liechtenstein","LI","Directamente_residentes",3
+1977,"Malawi","MW","Directamente_residentes",1
+1977,"Malta","MT","Directamente_residentes",7
+1977,"Malta","MT","Directamente_NOresidentes",1
+1977,"México","MX","Directamente total",494
+1977,"Mónaco","MC","Directamente_residentes",36
+1977,"Marruecos","MA","Directamente_residentes",79
+1977,"Marruecos","MA","Directamente_NOresidentes",15
+1977,"Nueva Zelandia","NZ","Directamente_residentes",210
+1977,"Nueva Zelandia","NZ","Directamente_NOresidentes",222
+1977,"Noruega","NO","Directamente_residentes",329
+1977,"Noruega","NO","Directamente_NOresidentes",504
+1977,"Pakistán","PK","Directamente_residentes",91
+1977,"Pakistán","PK","Directamente_NOresidentes",12
+1977,"Perú","PE","Directamente_residentes",196
+1977,"Perú","PE","Directamente_NOresidentes",16
+1977,"Filipinas","PH","Directamente_residentes",366
+1977,"Filipinas","PH","Directamente_NOresidentes",54
+1977,"Polonia","PL","Directamente_residentes",169
+1977,"Polonia","PL","Directamente_NOresidentes",33
+1977,"Portugal","PT","Directamente_residentes",218
+1977,"Portugal","PT","Directamente_NOresidentes",107
+1977,"República de Corea","KR","Directamente_residentes",5404
+1977,"República de Corea","KR","Directamente_NOresidentes",116
+1977,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_residentes",317
+1977,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_NOresidentes",96
+1977,"Union Soviética","SU","Directamente_residentes",2082
+1977,"Union Soviética","SU","Directamente_NOresidentes",29
+1977,"España","ES","Directamente_residentes",2770
+1977,"España","ES","Directamente_NOresidentes",238
+1977,"Sri Lanka","LK","Directamente_residentes",1
+1977,"Sri Lanka","LK","Directamente_NOresidentes",2
+1977,"Swazilandia","SZ","Directamente_NOresidentes",2
+1977,"Suecia","SE","Directamente_residentes",2077
+1977,"Suecia","SE","Directamente_NOresidentes",629
+1977,"Suiza","CH","Directamente_residentes",354
+1977,"Suiza","CH","Directamente_NOresidentes",342
+1977,"Trinidad y Tobago","TT","Directamente_NOresidentes",7
+1977,"Reino Unido","GB","Directamente_residentes",2269
+1977,"Reino Unido","GB","Directamente_NOresidentes",2223
+1977,"Estados Unidos de América","US","Directamente_residentes",5827
+1977,"Estados Unidos de América","US","Directamente_NOresidentes",1431
+1977,"Venezuela","VE","Directamente_residentes",430
+1977,"Venezuela","VE","Directamente_NOresidentes",2040
+1977,"Zambia","ZM","Directamente_residentes",12
+1977,"Zambia","ZM","Directamente_NOresidentes",5
+1978,"Organización Africana de la Propiedad Intelectual","OA","Directamente_residentes",20
+1978,"Organización Africana de la Propiedad Intelectual","OA","Directamente_NOresidentes",10
+1978,"Argelia","DZ","Directamente_residentes",35
+1978,"Argelia","DZ","Directamente_NOresidentes",12
+1978,"Argentina","AR","Directamente_residentes",2011
+1978,"Argentina","AR","Directamente_NOresidentes",172
+1978,"Australia","AU","Directamente_residentes",2452
+1978,"Australia","AU","Directamente_NOresidentes",718
+1978,"Austria","AT","Directamente_residentes",3369
+1978,"Austria","AT","Directamente_NOresidentes",1881
+1978,"Bahamas","BS","Directamente_NOresidentes",2
+1978,"Bahrein","BH","Directamente_NOresidentes",8
+1978,"Bangladesh","BD","Directamente_residentes",31
+1978,"Bangladesh","BD","Directamente_NOresidentes",2
+1978,"Benelux","BX","Directamente_residentes",2107
+1978,"Benelux","BX","Directamente_NOresidentes",1563
+1978,"Brasil","BR","Directamente total",1200
+1978,"Bulgaria","BG","Directamente_residentes",80
+1978,"Bulgaria","BG","Directamente_NOresidentes",2
+1978,"Canadá","CA","Directamente_residentes",633
+1978,"Canadá","CA","Directamente_NOresidentes",1362
+1978,"Colombia","CO","Directamente_residentes",26
+1978,"Colombia","CO","Directamente_NOresidentes",31
+1978,"Checoslovaquia","CS","Directamente_residentes",1286
+1978,"Checoslovaquia","CS","Directamente_NOresidentes",34
+1978,"Dinamarca","DK","Directamente_residentes",425
+1978,"Dinamarca","DK","Directamente_NOresidentes",622
+1978,"Ecuador","EC","Directamente_residentes",7
+1978,"Ecuador","EC","Directamente_NOresidentes",6
+1978,"Egipto","EG","Directamente_residentes",113
+1978,"Egipto","EG","Directamente_NOresidentes",19
+1978,"Finlandia","FI","Directamente_residentes",464
+1978,"Finlandia","FI","Directamente_NOresidentes",369
+1978,"Francia","FR","Directamente_residentes",3648
+1978,"Francia","FR","Directamente_NOresidentes",534
+1978,"República Democrática Alemana","D2","Directamente_residentes",322
+1978,"República Democrática Alemana","D2","Directamente_NOresidentes",14
+1978,"Alemania","DE","Directamente_residentes",5
+1978,"Alemania","DE","Directamente_NOresidentes",4262
+1978,"Hungría","HU","Directamente_residentes",209
+1978,"Hungría","HU","Directamente_NOresidentes",42
+1978,"India","IN","Directamente_residentes",1313
+1978,"India","IN","Directamente_NOresidentes",84
+1978,"Iraq","IQ","Directamente_residentes",81
+1978,"Iraq","IQ","Directamente_NOresidentes",1
+1978,"Irlanda","IE","Directamente_residentes",34
+1978,"Irlanda","IE","Directamente_NOresidentes",222
+1978,"Israel","IL","Directamente_residentes",384
+1978,"Israel","IL","Directamente_NOresidentes",86
+1978,"Italia","IT","Directamente total",9464
+1978,"Jamaica","JM","Directamente_residentes",11
+1978,"Japón","JP","Directamente_residentes",55194
+1978,"Japón","JP","Directamente_NOresidentes",966
+1978,"Liechtenstein","LI","Directamente_residentes",5
+1978,"Malawi","MW","Directamente_NOresidentes",5
+1978,"Malta","MT","Directamente_residentes",5
+1978,"Malta","MT","Directamente_NOresidentes",1
+1978,"México","MX","Directamente_residentes",304
+1978,"México","MX","Directamente_NOresidentes",111
+1978,"Mónaco","MC","Directamente_residentes",25
+1978,"Mónaco","MC","Directamente_NOresidentes",1
+1978,"Marruecos","MA","Directamente_residentes",104
+1978,"Marruecos","MA","Directamente_NOresidentes",25
+1978,"Nueva Zelandia","NZ","Directamente_residentes",225
+1978,"Nueva Zelandia","NZ","Directamente_NOresidentes",319
+1978,"Nigeria","NG","Directamente_residentes",19
+1978,"Nigeria","NG","Directamente_NOresidentes",38
+1978,"Noruega","NO","Directamente_residentes",376
+1978,"Noruega","NO","Directamente_NOresidentes",572
+1978,"Pakistán","PK","Directamente_residentes",74
+1978,"Pakistán","PK","Directamente_NOresidentes",28
+1978,"Perú","PE","Directamente_residentes",115
+1978,"Perú","PE","Directamente_NOresidentes",19
+1978,"Filipinas","PH","Directamente_residentes",295
+1978,"Filipinas","PH","Directamente_NOresidentes",72
+1978,"Polonia","PL","Directamente_residentes",181
+1978,"Polonia","PL","Directamente_NOresidentes",35
+1978,"Portugal","PT","Directamente_residentes",273
+1978,"Portugal","PT","Directamente_NOresidentes",127
+1978,"República de Corea","KR","Directamente_residentes",6148
+1978,"República de Corea","KR","Directamente_NOresidentes",117
+1978,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_residentes",325
+1978,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_NOresidentes",74
+1978,"Sierra Leona","SL","Directamente_NOresidentes",1
+1978,"Sudáfrica","ZA","Directamente_residentes",1155
+1978,"Sudáfrica","ZA","Directamente_NOresidentes",341
+1978,"Union Soviética","SU","Directamente_residentes",2094
+1978,"Union Soviética","SU","Directamente_NOresidentes",36
+1978,"España","ES","Directamente_residentes",2504
+1978,"España","ES","Directamente_NOresidentes",315
+1978,"Sri Lanka","LK","Directamente_residentes",1
+1978,"Swazilandia","SZ","Directamente_NOresidentes",9
+1978,"Suecia","SE","Directamente_residentes",2409
+1978,"Suecia","SE","Directamente_NOresidentes",631
+1978,"Suiza","CH","Directamente_residentes",306
+1978,"Suiza","CH","Directamente_NOresidentes",321
+1978,"República Árabe Siria","SY","Directamente_residentes",149
+1978,"República Árabe Siria","SY","Directamente_NOresidentes",14
+1978,"Trinidad y Tobago","TT","Directamente_residentes",4
+1978,"Trinidad y Tobago","TT","Directamente_NOresidentes",10
+1978,"Reino Unido","GB","Directamente_residentes",2377
+1978,"Reino Unido","GB","Directamente_NOresidentes",2770
+1978,"Estados Unidos de América","US","Directamente_residentes",5789
+1978,"Estados Unidos de América","US","Directamente_NOresidentes",1749
+1978,"Venezuela","VE","Directamente_residentes",99
+1978,"Venezuela","VE","Directamente_NOresidentes",71
+1978,"Zaire","ZR","Directamente_NOresidentes",31
+1978,"Zambia","ZM","Directamente_NOresidentes",5
+1979,"Organización Africana de la Propiedad Intelectual","OA","Directamente_residentes",27
+1979,"Organización Africana de la Propiedad Intelectual","OA","Directamente_NOresidentes",10
+1979,"Argelia","DZ","Directamente_residentes",23
+1979,"Argelia","DZ","Directamente_NOresidentes",11
+1979,"Argentina","AR","Directamente_residentes",1572
+1979,"Argentina","AR","Directamente_NOresidentes",266
+1979,"Australia","AU","Directamente_residentes",2383
+1979,"Australia","AU","Directamente_NOresidentes",744
+1979,"Austria","AT","Directamente_residentes",4024
+1979,"Austria","AT","Directamente_NOresidentes",2016
+1979,"Bahamas","BS","Directamente_residentes",2
+1979,"Bahamas","BS","Directamente_NOresidentes",6
+1979,"Bahrein","BH","Directamente_NOresidentes",5
+1979,"Bangladesh","BD","Directamente_residentes",38
+1979,"Benelux","BX","Directamente_residentes",2135
+1979,"Benelux","BX","Directamente_NOresidentes",1608
+1979,"Brasil","BR","Directamente_residentes",886
+1979,"Brasil","BR","Directamente_NOresidentes",238
+1979,"Bulgaria","BG","Directamente_residentes",53
+1979,"Bulgaria","BG","Directamente_NOresidentes",6
+1979,"Canadá","CA","Directamente_residentes",517
+1979,"Canadá","CA","Directamente_NOresidentes",1266
+1979,"Chile","CL","Directamente_residentes",69
+1979,"Chile","CL","Directamente_NOresidentes",35
+1979,"Colombia","CO","Directamente_residentes",12
+1979,"Colombia","CO","Directamente_NOresidentes",25
+1979,"Checoslovaquia","CS","Directamente_residentes",1280
+1979,"Checoslovaquia","CS","Directamente_NOresidentes",76
+1979,"Dinamarca","DK","Directamente_residentes",414
+1979,"Dinamarca","DK","Directamente_NOresidentes",637
+1979,"Egipto","EG","Directamente_residentes",171
+1979,"Egipto","EG","Directamente_NOresidentes",12
+1979,"Finlandia","FI","Directamente_residentes",451
+1979,"Finlandia","FI","Directamente_NOresidentes",339
+1979,"Francia","FR","Directamente_residentes",3667
+1979,"Francia","FR","Directamente_NOresidentes",536
+1979,"República Democrática Alemana","D2","Directamente_residentes",355
+1979,"República Democrática Alemana","D2","Directamente_NOresidentes",17
+1979,"Alemania","DE","Directamente_residentes",21
+1979,"Alemania","DE","Directamente_NOresidentes",5266
+1979,"Hungría","HU","Directamente_residentes",214
+1979,"Hungría","HU","Directamente_NOresidentes",35
+1979,"India","IN","Directamente_residentes",1146
+1979,"India","IN","Directamente_NOresidentes",80
+1979,"Iraq","IQ","Directamente_residentes",50
+1979,"Iraq","IQ","Directamente_NOresidentes",2
+1979,"Irlanda","IE","Directamente_residentes",40
+1979,"Irlanda","IE","Directamente_NOresidentes",259
+1979,"Israel","IL","Directamente_residentes",344
+1979,"Israel","IL","Directamente_NOresidentes",55
+1979,"Italia","IT","Directamente total",8172
+1979,"Jamaica","JM","Directamente_residentes",2
+1979,"Japón","JP","Directamente_residentes",55277
+1979,"Japón","JP","Directamente_NOresidentes",986
+1979,"Liechtenstein","LI","Directamente_residentes",5
+1979,"Malta","MT","Directamente_residentes",25
+1979,"Malta","MT","Directamente_NOresidentes",4
+1979,"México","MX","Directamente_residentes",299
+1979,"México","MX","Directamente_NOresidentes",263
+1979,"Mónaco","MC","Directamente_residentes",14
+1979,"Mónaco","MC","Directamente_NOresidentes",6
+1979,"Marruecos","MA","Directamente_residentes",121
+1979,"Marruecos","MA","Directamente_NOresidentes",22
+1979,"Nueva Zelandia","NZ","Directamente_residentes",301
+1979,"Nueva Zelandia","NZ","Directamente_NOresidentes",234
+1979,"Noruega","NO","Directamente_residentes",371
+1979,"Noruega","NO","Directamente_NOresidentes",558
+1979,"Pakistán","PK","Directamente_residentes",127
+1979,"Pakistán","PK","Directamente_NOresidentes",16
+1979,"Perú","PE","Directamente_residentes",113
+1979,"Perú","PE","Directamente_NOresidentes",17
+1979,"Filipinas","PH","Directamente_residentes",298
+1979,"Filipinas","PH","Directamente_NOresidentes",57
+1979,"Polonia","PL","Directamente_residentes",193
+1979,"Polonia","PL","Directamente_NOresidentes",30
+1979,"Portugal","PT","Directamente_residentes",297
+1979,"Portugal","PT","Directamente_NOresidentes",141
+1979,"República de Corea","KR","Directamente_residentes",8132
+1979,"República de Corea","KR","Directamente_NOresidentes",239
+1979,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_residentes",331
+1979,"Serbia y Montenegro (antiguamente Yugoslavia)","YU","Directamente_NOresidentes",70
+1979,"Sudáfrica","ZA","Directamente_residentes",751
+1979,"Sudáfrica","ZA","Directamente_NOresidentes",235
+1979,"Union Soviética","SU","Directamente_residentes",2070
+1979,"Union Soviética","SU","Directamente_NOresidentes",26
+1979,"España","ES","Directamente_residentes",2425
+1979,"España","ES","Directamente_NOresidentes",366
+1979,"Sri Lanka","LK","Directamente_NOresidentes",7
+1979,"Swazilandia","SZ","Directamente_NOresidentes",27
+1979,"Suecia","SE","Directamente_residentes",2170
+1979,"Suecia","SE","Directamente_NOresidentes",662
+1979,"Suiza","CH","Directamente_residentes",341
+1979,"Suiza","CH","Directamente_NOresidentes",349
+1979,"República Árabe Siria","SY","Directamente_residentes",7
+1979,"República Árabe Siria","SY","Directamente_NOresidentes",115
+1979,"Trinidad y Tobago","TT","Directamente_residentes",12
+1979,"Trinidad y Tobago","TT","Directamente_NOresidentes",14
+1979,"Reino Unido","GB","Directamente_residentes",2350
+1979,"Reino Unido","GB","Directamente_NOresidentes",2761
+1979,"Estados Unidos de América","US","Directamente_residentes",5623
+1979,"Estados Unidos de América","US","Directamente_NOresidentes",1896
+1979,"Venezuela","VE","Directamente_residentes",118
+1979,"Venezuela","VE","Directamente_NOresidentes",87
+1979,"Zaire","ZR","Directamente_residentes",2
+1979,"Zambia","ZM","Directamente_residentes",1
+1979,"Zambia","ZM","Directamente_NOresidentes",2
+1979,"Zimbabwe","ZW","Directamente_residentes",8
+1979,"Zimbabwe","ZW","Directamente_NOresidentes",2
+

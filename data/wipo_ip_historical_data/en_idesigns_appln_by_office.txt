@@ -1,0 +1,3234 @@
+//Industrial Design applications by Office,
+"//by direct resident, direct non-resident and designations via the Hague system",
+//Source: WIPO Statistics Database, December 2011
+//Note: Data are missing for some offices and years.,
+
+Year,Office Name,Office Code,Applicant Type,Number of Applications
+1883,"France","FR","Direct_Resident",30718
+1883,"France","FR","Direct_NonResident",304
+1883,"Germany","DE","Direct_Aggregate",54257
+1883,"Italy","IT","Direct_Resident",3
+1883,"Italy","IT","Direct_NonResident",2
+1884,"Belgium","BE","Direct_Resident",34
+1884,"Belgium","BE","Direct_NonResident",11
+1884,"France","FR","Direct_Resident",30597
+1884,"France","FR","Direct_NonResident",317
+1884,"Germany","DE","Direct_Aggregate",67889
+1884,"Italy","IT","Direct_Resident",13
+1884,"United Kingdom","GB","Direct_Aggregate",19753
+1884,"United States of America","US","Direct_Aggregate",1230
+1885,"Belgium","BE","Direct_Aggregate",75
+1885,"France","FR","Direct_Resident",27905
+1885,"France","FR","Direct_NonResident",110
+1885,"Germany","DE","Direct_Aggregate",73121
+1885,"Italy","IT","Direct_Resident",4
+1885,"Italy","IT","Direct_NonResident",1
+1885,"United Kingdom","GB","Direct_Aggregate",20725
+1885,"United States of America","US","Direct_Aggregate",862
+1886,"Belgium","BE","Direct_Aggregate",96
+1886,"France","FR","Direct_Resident",33759
+1886,"France","FR","Direct_NonResident",194
+1886,"Germany","DE","Direct_Resident",71044
+1886,"Germany","DE","Direct_NonResident",460
+1886,"Italy","IT","Direct_Resident",14
+1886,"Italy","IT","Direct_NonResident",22
+1886,"United Kingdom","GB","Direct_Aggregate",24041
+1886,"United States of America","US","Direct_Aggregate",645
+1887,"Belgium","BE","Direct_Aggregate",109
+1887,"France","FR","Direct_Resident",42768
+1887,"France","FR","Direct_NonResident",329
+1887,"Germany","DE","Direct_Aggregate",73130
+1887,"Italy","IT","Direct_Resident",12
+1887,"Italy","IT","Direct_NonResident",2
+1887,"United Kingdom","GB","Direct_Aggregate",26043
+1887,"United States of America","US","Direct_Aggregate",1041
+1888,"Belgium","BE","Direct_Aggregate",148
+1888,"France","FR","Direct_Resident",29858
+1888,"France","FR","Direct_NonResident",242
+1888,"Germany","DE","Direct_Resident",79900
+1888,"Germany","DE","Direct_NonResident",805
+1888,"Italy","IT","Direct_Resident",9
+1888,"Italy","IT","Direct_NonResident",3
+1888,"United Kingdom","GB","Direct_Aggregate",26239
+1888,"United States of America","US","Direct_Aggregate",971
+1889,"Belgium","BE","Direct_Aggregate",229
+1889,"France","FR","Direct_Resident",33355
+1889,"France","FR","Direct_NonResident",256
+1889,"Germany","DE","Direct_Aggregate",76322
+1889,"Italy","IT","Direct_Resident",15
+1889,"Italy","IT","Direct_NonResident",1
+1889,"Japan","JP","Direct_Aggregate",176
+1889,"Switzerland","CH","Direct_Aggregate",1374
+1889,"United Kingdom","GB","Direct_Aggregate",24705
+1889,"United States of America","US","Direct_Aggregate",857
+1890,"Belgium","BE","Direct_Aggregate",89
+1890,"France","FR","Direct_Resident",31424
+1890,"France","FR","Direct_NonResident",710
+1890,"Germany","DE","Direct_Aggregate",75496
+1890,"Italy","IT","Direct_Resident",6
+1890,"Italy","IT","Direct_NonResident",1
+1890,"Japan","JP","Direct_Aggregate",497
+1890,"Switzerland","CH","Direct_Aggregate",1021
+1890,"United Kingdom","GB","Direct_Resident",22235
+1890,"United Kingdom","GB","Direct_NonResident",318
+1890,"United States of America","US","Direct_Aggregate",1086
+1891,"Belgium","BE","Direct_Aggregate",96
+1891,"France","FR","Direct_Resident",38210
+1891,"France","FR","Direct_NonResident",453
+1891,"Germany","DE","Direct_Aggregate",82405
+1891,"Italy","IT","Direct_Resident",7
+1891,"Japan","JP","Direct_Aggregate",290
+1891,"Switzerland","CH","Direct_Aggregate",2170
+1891,"United Kingdom","GB","Direct_Aggregate",21950
+1891,"United States of America","US","Direct_Aggregate",1025
+1892,"Belgium","BE","Direct_Aggregate",135
+1892,"France","FR","Direct_Resident",47605
+1892,"France","FR","Direct_NonResident",1009
+1892,"Germany","DE","Direct_Aggregate",91891
+1892,"Hungary","HU","Direct_Resident",345
+1892,"Hungary","HU","Direct_NonResident",325
+1892,"Italy","IT","Direct_Resident",23
+1892,"Italy","IT","Direct_NonResident",3
+1892,"Japan","JP","Direct_Aggregate",262
+1892,"Switzerland","CH","Direct_Aggregate",2692
+1892,"United Kingdom","GB","Direct_Aggregate",19527
+1892,"United States of America","US","Direct_Aggregate",1130
+1893,"Belgium","BE","Direct_Aggregate",137
+1893,"Brazil","BR","Direct_Aggregate",180
+1893,"France","FR","Direct_Resident",52568
+1893,"France","FR","Direct_NonResident",607
+1893,"Germany","DE","Direct_Aggregate",87774
+1893,"Hungary","HU","Direct_Resident",331
+1893,"Hungary","HU","Direct_NonResident",251
+1893,"Italy","IT","Direct_Resident",10
+1893,"Italy","IT","Direct_NonResident",5
+1893,"Japan","JP","Direct_Aggregate",250
+1893,"Switzerland","CH","Direct_Aggregate",8676
+1893,"United Kingdom","GB","Direct_Aggregate",19480
+1893,"United States of America","US","Direct_Aggregate",1060
+1894,"Belgium","BE","Direct_Aggregate",145
+1894,"France","FR","Direct_Resident",46857
+1894,"France","FR","Direct_NonResident",3825
+1894,"Germany","DE","Direct_Aggregate",95073
+1894,"Hungary","HU","Direct_Resident",354
+1894,"Hungary","HU","Direct_NonResident",388
+1894,"Italy","IT","Direct_Resident",46
+1894,"Italy","IT","Direct_NonResident",1
+1894,"Japan","JP","Direct_Aggregate",236
+1894,"New Zealand","NZ","Direct_Aggregate",15
+1894,"Switzerland","CH","Direct_Aggregate",25786
+1894,"United Kingdom","GB","Direct_Aggregate",22255
+1894,"United States of America","US","Direct_Aggregate",1357
+1895,"Belgium","BE","Direct_Aggregate",157
+1895,"France","FR","Direct_Resident",51818
+1895,"France","FR","Direct_NonResident",3645
+1895,"Germany","DE","Direct_Aggregate",109236
+1895,"Hungary","HU","Direct_Resident",513
+1895,"Hungary","HU","Direct_NonResident",539
+1895,"Italy","IT","Direct_Resident",57
+1895,"Italy","IT","Direct_NonResident",5
+1895,"Japan","JP","Direct_Aggregate",318
+1895,"New Zealand","NZ","Direct_Aggregate",14
+1895,"Portugal","PT","Direct_Aggregate",484
+1895,"Switzerland","CH","Direct_Aggregate",56021
+1895,"United Kingdom","GB","Direct_Aggregate",21417
+1895,"United States of America","US","Direct_Aggregate",1463
+1896,"Belgium","BE","Direct_Aggregate",175
+1896,"France","FR","Direct_Resident",51350
+1896,"France","FR","Direct_NonResident",3761
+1896,"Germany","DE","Direct_Aggregate",114570
+1896,"Hungary","HU","Direct_Resident",782
+1896,"Hungary","HU","Direct_NonResident",314
+1896,"Italy","IT","Direct_Resident",81
+1896,"Italy","IT","Direct_NonResident",11
+1896,"Japan","JP","Direct_Aggregate",300
+1896,"New Zealand","NZ","Direct_Aggregate",27
+1896,"Portugal","PT","Direct_Aggregate",160
+1896,"Switzerland","CH","Direct_Aggregate",45591
+1896,"United Kingdom","GB","Direct_Aggregate",22849
+1896,"United States of America","US","Direct_Aggregate",1828
+1897,"Belgium","BE","Direct_Aggregate",199
+1897,"France","FR","Direct_Resident",70696
+1897,"France","FR","Direct_NonResident",3268
+1897,"Germany","DE","Direct_Aggregate",112142
+1897,"Hungary","HU","Direct_Resident",538
+1897,"Hungary","HU","Direct_NonResident",486
+1897,"Italy","IT","Direct_Resident",34
+1897,"Italy","IT","Direct_NonResident",6
+1897,"Japan","JP","Direct_Aggregate",320
+1897,"New Zealand","NZ","Direct_Aggregate",13
+1897,"Portugal","PT","Direct_Aggregate",189
+1897,"Switzerland","CH","Direct_Aggregate",27917
+1897,"United Kingdom","GB","Direct_Aggregate",20417
+1897,"United States of America","US","Direct_Aggregate",2150
+1898,"Austria","AT","Direct_Aggregate",9871
+1898,"Belgium","BE","Direct_Aggregate",203
+1898,"France","FR","Direct_Resident",68240
+1898,"France","FR","Direct_NonResident",1947
+1898,"Germany","DE","Direct_Aggregate",131154
+1898,"Hungary","HU","Direct_Resident",525
+1898,"Hungary","HU","Direct_NonResident",291
+1898,"Italy","IT","Direct_Resident",169
+1898,"Italy","IT","Direct_NonResident",32
+1898,"Japan","JP","Direct_Aggregate",265
+1898,"New Zealand","NZ","Direct_Aggregate",10
+1898,"Portugal","PT","Direct_Aggregate",56
+1898,"Switzerland","CH","Direct_Aggregate",25234
+1898,"United Kingdom","GB","Direct_Aggregate",20049
+1898,"United States of America","US","Direct_Aggregate",1843
+1899,"Austria","AT","Direct_Aggregate",10622
+1899,"Belgium","BE","Direct_Aggregate",200
+1899,"Canada","CA","Direct_Aggregate",116
+1899,"France","FR","Direct_Resident",57216
+1899,"France","FR","Direct_NonResident",1216
+1899,"Germany","DE","Direct_Aggregate",123503
+1899,"Hungary","HU","Direct_Resident",901
+1899,"Hungary","HU","Direct_NonResident",186
+1899,"Italy","IT","Direct_Resident",49
+1899,"Italy","IT","Direct_NonResident",14
+1899,"Japan","JP","Direct_Aggregate",342
+1899,"New Zealand","NZ","Direct_Aggregate",13
+1899,"Portugal","PT","Direct_Aggregate",42
+1899,"Switzerland","CH","Direct_Aggregate",35533
+1899,"United Kingdom","GB","Direct_Aggregate",19495
+1899,"United States of America","US","Direct_Aggregate",2400
+1900,"Austria","AT","Direct_Aggregate",10865
+1900,"Belgium","BE","Direct_Aggregate",167
+1900,"France","FR","Direct_Resident",50882
+1900,"France","FR","Direct_NonResident",1129
+1900,"Germany","DE","Direct_Aggregate",131666
+1900,"Hungary","HU","Direct_Resident",350
+1900,"Hungary","HU","Direct_NonResident",176
+1900,"Italy","IT","Direct_Aggregate",55
+1900,"Japan","JP","Direct_Aggregate",397
+1900,"New Zealand","NZ","Direct_Aggregate",15
+1900,"Portugal","PT","Direct_Aggregate",53
+1900,"Sweden","SE","Direct_Aggregate",29
+1900,"Switzerland","CH","Direct_Aggregate",66428
+1900,"United Kingdom","GB","Direct_Aggregate",16952
+1900,"United States of America","US","Direct_Aggregate",2225
+1901,"Austria","AT","Direct_Aggregate",10696
+1901,"Belgium","BE","Direct_Aggregate",201
+1901,"Canada","CA","Direct_Aggregate",158
+1901,"France","FR","Direct_Aggregate",51629
+1901,"Germany","DE","Direct_Aggregate",135994
+1901,"Italy","IT","Direct_Aggregate",36
+1901,"Japan","JP","Direct_Aggregate",514
+1901,"New Zealand","NZ","Direct_Aggregate",18
+1901,"Portugal","PT","Direct_Aggregate",12
+1901,"Sweden","SE","Direct_Aggregate",24
+1901,"Switzerland","CH","Direct_Aggregate",107472
+1901,"United Kingdom","GB","Direct_Aggregate",16934
+1901,"United States of America","US","Direct_Aggregate",2361
+1902,"Austria","AT","Direct_Aggregate",13034
+1902,"Belgium","BE","Direct_Aggregate",212
+1902,"Canada","CA","Direct_Aggregate",152
+1902,"France","FR","Direct_Resident",58184
+1902,"France","FR","Direct_NonResident",798
+1902,"Germany","DE","Direct_Aggregate",160764
+1902,"Hungary","HU","Direct_Aggregate",1037
+1902,"Italy","IT","Direct_Aggregate",55
+1902,"Japan","JP","Direct_Aggregate",730
+1902,"Mexico","MX","Direct_Aggregate",3
+1902,"New Zealand","NZ","Direct_Aggregate",28
+1902,"Portugal","PT","Direct_Aggregate",42
+1902,"Spain","ES","Direct_Aggregate",119
+1902,"Sweden","SE","Direct_Aggregate",33
+1902,"Switzerland","CH","Direct_Aggregate",149924
+1902,"United Kingdom","GB","Direct_Aggregate",17825
+1902,"United States of America","US","Direct_Aggregate",1170
+1903,"Austria","AT","Direct_Aggregate",15942
+1903,"Belgium","BE","Direct_Aggregate",215
+1903,"Canada","CA","Direct_Aggregate",98
+1903,"France","FR","Direct_Resident",61766
+1903,"France","FR","Direct_NonResident",1541
+1903,"Germany","DE","Direct_Aggregate",171461
+1903,"Hungary","HU","Direct_Aggregate",1405
+1903,"Italy","IT","Direct_Aggregate",129
+1903,"Japan","JP","Direct_Aggregate",1181
+1903,"Mexico","MX","Direct_Aggregate",4
+1903,"New Zealand","NZ","Direct_Aggregate",26
+1903,"Portugal","PT","Direct_Aggregate",39
+1903,"Spain","ES","Direct_Aggregate",205
+1903,"Sweden","SE","Direct_Aggregate",34
+1903,"Switzerland","CH","Direct_Aggregate",226933
+1903,"Tunisia","TN","Direct_Aggregate",1
+1903,"United Kingdom","GB","Direct_Aggregate",21104
+1903,"United States of America","US","Direct_Aggregate",770
+1904,"Austria","AT","Direct_Aggregate",17113
+1904,"Belgium","BE","Direct_Aggregate",210
+1904,"Canada","CA","Direct_Aggregate",156
+1904,"Cuba","CU","Direct_Aggregate",6
+1904,"France","FR","Direct_Resident",61283
+1904,"France","FR","Direct_NonResident",2904
+1904,"Germany","DE","Direct_Aggregate",192352
+1904,"Hungary","HU","Direct_Aggregate",1191
+1904,"Italy","IT","Direct_Aggregate",51
+1904,"Japan","JP","Direct_Aggregate",1378
+1904,"Mexico","MX","Direct_Aggregate",22
+1904,"New Zealand","NZ","Direct_Aggregate",24
+1904,"Portugal","PT","Direct_Aggregate",36
+1904,"Spain","ES","Direct_Aggregate",189
+1904,"Sweden","SE","Direct_Aggregate",32
+1904,"Switzerland","CH","Direct_Aggregate",254256
+1904,"United Kingdom","GB","Direct_Aggregate",23531
+1904,"United States of America","US","Direct_Aggregate",818
+1905,"Austria","AT","Direct_Aggregate",14973
+1905,"Belgium","BE","Direct_Aggregate",351
+1905,"Denmark","DK","Direct_Aggregate",601
+1905,"France","FR","Direct_Aggregate",51200
+1905,"Germany","DE","Direct_Aggregate",211398
+1905,"Hungary","HU","Direct_Aggregate",1245
+1905,"Italy","IT","Direct_Aggregate",98
+1905,"Japan","JP","Direct_Aggregate",1562
+1905,"Mexico","MX","Direct_Aggregate",65
+1905,"New Zealand","NZ","Direct_Aggregate",54
+1905,"Portugal","PT","Direct_Aggregate",29
+1905,"Spain","ES","Direct_Aggregate",177
+1905,"Sweden","SE","Direct_Aggregate",20
+1905,"Switzerland","CH","Direct_Aggregate",243107
+1905,"United Kingdom","GB","Direct_Aggregate",23938
+1905,"United States of America","US","Direct_Aggregate",781
+1906,"Austria","AT","Direct_Aggregate",14912
+1906,"Belgium","BE","Direct_Aggregate",222
+1906,"Denmark","DK","Direct_Aggregate",411
+1906,"France","FR","Direct_Resident",48859
+1906,"France","FR","Direct_NonResident",3564
+1906,"Germany","DE","Direct_Aggregate",213304
+1906,"Hungary","HU","Direct_Aggregate",2051
+1906,"Italy","IT","Direct_Aggregate",115
+1906,"Japan","JP","Direct_Aggregate",1532
+1906,"Mexico","MX","Direct_Aggregate",31
+1906,"New Zealand","NZ","Direct_Aggregate",36
+1906,"Portugal","PT","Direct_Aggregate",40
+1906,"Spain","ES","Direct_Aggregate",254
+1906,"Sweden","SE","Direct_Aggregate",22
+1906,"Switzerland","CH","Direct_Aggregate",245840
+1906,"United Kingdom","GB","Direct_Aggregate",22001
+1906,"United States of America","US","Direct_Aggregate",806
+1907,"Australia","AU","Direct_Aggregate",176
+1907,"Austria","AT","Direct_Aggregate",13012
+1907,"Belgium","BE","Direct_Aggregate",241
+1907,"Denmark","DK","Direct_Aggregate",346
+1907,"France","FR","Direct_Aggregate",56238
+1907,"Germany","DE","Direct_Aggregate",220874
+1907,"Hungary","HU","Direct_Aggregate",1445
+1907,"Italy","IT","Direct_Aggregate",115
+1907,"Japan","JP","Direct_Aggregate",1438
+1907,"Mexico","MX","Direct_Aggregate",56
+1907,"New Zealand","NZ","Direct_Aggregate",57
+1907,"Portugal","PT","Direct_Aggregate",33
+1907,"Spain","ES","Direct_Aggregate",196
+1907,"Sweden","SE","Direct_Aggregate",30
+1907,"Switzerland","CH","Direct_Aggregate",272773
+1907,"United Kingdom","GB","Direct_Aggregate",24928
+1907,"United States of America","US","Direct_Aggregate",896
+1908,"Australia","AU","Direct_Aggregate",154
+1908,"Austria","AT","Direct_Aggregate",11980
+1908,"Belgium","BE","Direct_Aggregate",303
+1908,"Denmark","DK","Direct_Aggregate",415
+1908,"France","FR","Direct_Resident",54754
+1908,"France","FR","Direct_NonResident",3729
+1908,"Germany","DE","Direct_Aggregate",217750
+1908,"Hungary","HU","Direct_Aggregate",12116
+1908,"Italy","IT","Direct_Aggregate",83
+1908,"Japan","JP","Direct_Aggregate",1623
+1908,"Mexico","MX","Direct_Aggregate",40
+1908,"New Zealand","NZ","Direct_Aggregate",79
+1908,"Portugal","PT","Direct_Aggregate",22
+1908,"Spain","ES","Direct_Aggregate",204
+1908,"Sweden","SE","Direct_Aggregate",47
+1908,"Switzerland","CH","Direct_Aggregate",305577
+1908,"United Kingdom","GB","Direct_Aggregate",24907
+1908,"United States of America","US","Direct_Aggregate",1131
+1909,"Australia","AU","Direct_Aggregate",186
+1909,"Austria","AT","Direct_Aggregate",12241
+1909,"Belgium","BE","Direct_Aggregate",316
+1909,"Cuba","CU","Direct_Aggregate",1
+1909,"Denmark","DK","Direct_Aggregate",505
+1909,"France","FR","Direct_Resident",59267
+1909,"France","FR","Direct_NonResident",5901
+1909,"Germany","DE","Direct_Aggregate",221991
+1909,"Hungary","HU","Direct_Aggregate",1536
+1909,"Italy","IT","Direct_Aggregate",100
+1909,"Japan","JP","Direct_Aggregate",1718
+1909,"Mexico","MX","Direct_Aggregate",75
+1909,"New Zealand","NZ","Direct_Aggregate",57
+1909,"Portugal","PT","Direct_Aggregate",21
+1909,"Spain","ES","Direct_Aggregate",176
+1909,"Sweden","SE","Direct_Aggregate",25
+1909,"Switzerland","CH","Direct_Aggregate",322046
+1909,"United Kingdom","GB","Direct_Aggregate",26412
+1909,"United States of America","US","Direct_Aggregate",1234
+1910,"Australia","AU","Direct_Aggregate",187
+1910,"Austria","AT","Direct_Aggregate",12451
+1910,"Belgium","BE","Direct_Aggregate",340
+1910,"Denmark","DK","Direct_Aggregate",659
+1910,"France","FR","Direct_Resident",50421
+1910,"France","FR","Direct_NonResident",2188
+1910,"Germany","DE","Direct_Aggregate",206730
+1910,"Hungary","HU","Direct_Aggregate",1287
+1910,"Italy","IT","Direct_Aggregate",111
+1910,"Japan","JP","Direct_Aggregate",2240
+1910,"Mexico","MX","Direct_Aggregate",73
+1910,"New Zealand","NZ","Direct_Aggregate",50
+1910,"Portugal","PT","Direct_Aggregate",29
+1910,"Spain","ES","Direct_Aggregate",183
+1910,"Sweden","SE","Direct_Aggregate",41
+1910,"Switzerland","CH","Direct_Aggregate",309752
+1910,"United Kingdom","GB","Direct_Aggregate",32745
+1910,"United States of America","US","Direct_Aggregate",1155
+1911,"Australia","AU","Direct_Aggregate",203
+1911,"Austria","AT","Direct_Aggregate",12432
+1911,"Belgium","BE","Direct_Aggregate",363
+1911,"Cuba","CU","Direct_Aggregate",20
+1911,"Denmark","DK","Direct_Aggregate",573
+1911,"France","FR","Direct_Resident",52002
+1911,"France","FR","Direct_NonResident",1852
+1911,"Germany","DE","Direct_Aggregate",193861
+1911,"Hungary","HU","Direct_Aggregate",926
+1911,"Italy","IT","Direct_Aggregate",163
+1911,"Japan","JP","Direct_Aggregate",2254
+1911,"Mexico","MX","Direct_Aggregate",69
+1911,"New Zealand","NZ","Direct_Aggregate",21
+1911,"Norway","NO","Direct_Aggregate",317
+1911,"Portugal","PT","Direct_Aggregate",36
+1911,"Spain","ES","Direct_Aggregate",381
+1911,"Sweden","SE","Direct_Aggregate",36
+1911,"Switzerland","CH","Direct_Aggregate",341597
+1911,"Tunisia","TN","Direct_Aggregate",28
+1911,"United Kingdom","GB","Direct_Aggregate",43057
+1911,"United States of America","US","Direct_Aggregate",1534
+1912,"Australia","AU","Direct_Aggregate",245
+1912,"Austria","AT","Direct_Aggregate",12638
+1912,"Belgium","BE","Direct_Aggregate",404
+1912,"Denmark","DK","Direct_Aggregate",888
+1912,"France","FR","Direct_Resident",53317
+1912,"France","FR","Direct_NonResident",2567
+1912,"Germany","DE","Direct_Aggregate",174966
+1912,"Hungary","HU","Direct_Aggregate",12896
+1912,"Italy","IT","Direct_Aggregate",208
+1912,"Japan","JP","Direct_Aggregate",2420
+1912,"Mexico","MX","Direct_Aggregate",26
+1912,"New Zealand","NZ","Direct_Aggregate",44
+1912,"Norway","NO","Direct_Aggregate",230
+1912,"Portugal","PT","Direct_Aggregate",30
+1912,"Spain","ES","Direct_Aggregate",171
+1912,"Sweden","SE","Direct_Aggregate",34
+1912,"Switzerland","CH","Direct_Aggregate",342586
+1912,"Tunisia","TN","Direct_Aggregate",34
+1912,"United Kingdom","GB","Direct_Aggregate",43015
+1912,"United States of America","US","Direct_Aggregate",1850
+1913,"Australia","AU","Direct_Aggregate",301
+1913,"Austria","AT","Direct_Aggregate",13269
+1913,"Belgium","BE","Direct_Aggregate",394
+1913,"Cuba","CU","Direct_Aggregate",9
+1913,"Denmark","DK","Direct_Aggregate",869
+1913,"France","FR","Direct_Resident",51803
+1913,"France","FR","Direct_NonResident",1910
+1913,"Germany","DE","Direct_Aggregate",183426
+1913,"Hungary","HU","Direct_Aggregate",13170
+1913,"Italy","IT","Direct_Aggregate",171
+1913,"Japan","JP","Direct_Aggregate",3103
+1913,"New Zealand","NZ","Direct_Aggregate",64
+1913,"Norway","NO","Direct_Aggregate",236
+1913,"Portugal","PT","Direct_Aggregate",51
+1913,"Spain","ES","Direct_Aggregate",222
+1913,"Sweden","SE","Direct_Aggregate",28
+1913,"Switzerland","CH","Direct_Aggregate",483648
+1913,"Tunisia","TN","Direct_Aggregate",47
+1913,"United Kingdom","GB","Direct_Aggregate",40429
+1913,"United States of America","US","Direct_Aggregate",2060
+1914,"Australia","AU","Direct_Aggregate",267
+1914,"Austria","AT","Direct_Aggregate",11004
+1914,"Belgium","BE","Direct_Aggregate",421
+1914,"Cuba","CU","Direct_Aggregate",30
+1914,"Denmark","DK","Direct_Aggregate",621
+1914,"France","FR","Direct_Resident",30458
+1914,"France","FR","Direct_NonResident",1063
+1914,"Germany","DE","Direct_Aggregate",131755
+1914,"Hungary","HU","Direct_Aggregate",10898
+1914,"Italy","IT","Direct_Aggregate",255
+1914,"Japan","JP","Direct_Aggregate",3868
+1914,"New Zealand","NZ","Direct_Aggregate",55
+1914,"Norway","NO","Direct_Aggregate",286
+1914,"Portugal","PT","Direct_Aggregate",70
+1914,"Spain","ES","Direct_Aggregate",205
+1914,"Sweden","SE","Direct_Aggregate",43
+1914,"Switzerland","CH","Direct_Aggregate",423145
+1914,"Tunisia","TN","Direct_Aggregate",9
+1914,"United Kingdom","GB","Direct_Aggregate",34354
+1914,"United States of America","US","Direct_Aggregate",2454
+1915,"Australia","AU","Direct_Aggregate",326
+1915,"Austria","AT","Direct_Aggregate",4421
+1915,"Belgium","BE","Direct_Aggregate",188
+1915,"Denmark","DK","Direct_Aggregate",944
+1915,"France","FR","Direct_Resident",9945
+1915,"France","FR","Direct_NonResident",68
+1915,"Hungary","HU","Direct_Aggregate",4585
+1915,"Italy","IT","Direct_Aggregate",128
+1915,"Japan","JP","Direct_Aggregate",3662
+1915,"Mexico","MX","Direct_Aggregate",6
+1915,"New Zealand","NZ","Direct_Aggregate",89
+1915,"Norway","NO","Direct_Aggregate",239
+1915,"Portugal","PT","Direct_Aggregate",78
+1915,"Spain","ES","Direct_Aggregate",275
+1915,"Sweden","SE","Direct_Aggregate",51
+1915,"Switzerland","CH","Direct_Aggregate",353339
+1915,"Tunisia","TN","Direct_Resident",2
+1915,"United Kingdom","GB","Direct_Aggregate",18130
+1915,"United States of America","US","Direct_Aggregate",2734
+1916,"Australia","AU","Direct_Aggregate",298
+1916,"Austria","AT","Direct_Aggregate",3307
+1916,"Belgium","BE","Direct_Aggregate",144
+1916,"Denmark","DK","Direct_Aggregate",491
+1916,"France","FR","Direct_Resident",11805
+1916,"France","FR","Direct_NonResident",91
+1916,"Germany","DE","Direct_Aggregate",29981
+1916,"Hungary","HU","Direct_Aggregate",3371
+1916,"Italy","IT","Direct_Aggregate",50
+1916,"Japan","JP","Direct_Aggregate",3109
+1916,"Mexico","MX","Direct_Aggregate",19
+1916,"New Zealand","NZ","Direct_Aggregate",113
+1916,"Norway","NO","Direct_Aggregate",176
+1916,"Portugal","PT","Direct_Aggregate",63
+1916,"Spain","ES","Direct_Aggregate",236
+1916,"Sweden","SE","Direct_Aggregate",47
+1916,"Switzerland","CH","Direct_Aggregate",398296
+1916,"Tunisia","TN","Direct_Aggregate",5
+1916,"United Kingdom","GB","Direct_Aggregate",15399
+1916,"United States of America","US","Direct_Aggregate",2684
+1917,"Australia","AU","Direct_Aggregate",266
+1917,"Austria","AT","Direct_Aggregate",2303
+1917,"Belgium","BE","Direct_Aggregate",135
+1917,"Denmark","DK","Direct_Aggregate",722
+1917,"France","FR","Direct_Resident",9522
+1917,"France","FR","Direct_NonResident",109
+1917,"Germany","DE","Direct_Aggregate",10327
+1917,"Hungary","HU","Direct_Aggregate",2472
+1917,"Italy","IT","Direct_Aggregate",103
+1917,"Japan","JP","Direct_Aggregate",2763
+1917,"Mexico","MX","Direct_Aggregate",31
+1917,"New Zealand","NZ","Direct_Aggregate",83
+1917,"Norway","NO","Direct_Aggregate",187
+1917,"Portugal","PT","Direct_Aggregate",56
+1917,"Spain","ES","Direct_Resident",33
+1917,"Spain","ES","Direct_NonResident",347
+1917,"Sweden","SE","Direct_Aggregate",33
+1917,"Switzerland","CH","Direct_Aggregate",250756
+1917,"Tunisia","TN","Direct_Aggregate",7
+1917,"United Kingdom","GB","Direct_Aggregate",13208
+1917,"United States of America","US","Direct_Aggregate",2545
+1918,"Australia","AU","Direct_Aggregate",262
+1918,"Austria","AT","Direct_Aggregate",2076
+1918,"Belgium","BE","Direct_Aggregate",62
+1918,"Cuba","CU","Direct_Aggregate",6
+1918,"Denmark","DK","Direct_Aggregate",1018
+1918,"France","FR","Direct_Resident",6486
+1918,"France","FR","Direct_NonResident",46
+1918,"Germany","DE","Direct_Aggregate",7650
+1918,"Hungary","HU","Direct_Aggregate",1926
+1918,"Italy","IT","Direct_Aggregate",116
+1918,"Japan","JP","Direct_Aggregate",2673
+1918,"Mexico","MX","Direct_Aggregate",36
+1918,"New Zealand","NZ","Direct_Aggregate",53
+1918,"Norway","NO","Direct_Aggregate",312
+1918,"Portugal","PT","Direct_Aggregate",51
+1918,"Spain","ES","Direct_Aggregate",171
+1918,"Sweden","SE","Direct_Aggregate",46
+1918,"Switzerland","CH","Direct_Aggregate",178390
+1918,"Tunisia","TN","Direct_Aggregate",9
+1918,"United Kingdom","GB","Direct_Aggregate",10019
+1918,"United States of America","US","Direct_Aggregate",2234
+1919,"Australia","AU","Direct_Aggregate",256
+1919,"Austria","AT","Direct_Aggregate",1876
+1919,"Belgium","BE","Direct_Aggregate",206
+1919,"Denmark","DK","Direct_Aggregate",678
+1919,"France","FR","Direct_Resident",13298
+1919,"France","FR","Direct_NonResident",195
+1919,"Germany","DE","Direct_Aggregate",16195
+1919,"Hungary","HU","Direct_Aggregate",102
+1919,"Italy","IT","Direct_Aggregate",174
+1919,"Japan","JP","Direct_Aggregate",3011
+1919,"Mexico","MX","Direct_Aggregate",49
+1919,"Morocco","MA","Direct_Aggregate",3
+1919,"New Zealand","NZ","Direct_Aggregate",73
+1919,"Norway","NO","Direct_Aggregate",299
+1919,"Poland","PL","Direct_Aggregate",147
+1919,"Portugal","PT","Direct_Aggregate",55
+1919,"Spain","ES","Direct_Aggregate",199
+1919,"Sweden","SE","Direct_Aggregate",53
+1919,"Switzerland","CH","Direct_Aggregate",181603
+1919,"Tunisia","TN","Direct_Aggregate",3
+1919,"United Kingdom","GB","Direct_Aggregate",14094
+1919,"United States of America","US","Direct_Aggregate",3627
+1920,"Australia","AU","Direct_Aggregate",278
+1920,"Austria","AT","Direct_Aggregate",2130
+1920,"Belgium","BE","Direct_Aggregate",349
+1920,"Denmark","DK","Direct_Aggregate",776
+1920,"France","FR","Direct_Resident",19498
+1920,"France","FR","Direct_NonResident",161
+1920,"Germany","DE","Direct_Aggregate",24975
+1920,"Hungary","HU","Direct_Aggregate",448
+1920,"Italy","IT","Direct_Aggregate",155
+1920,"Japan","JP","Direct_Aggregate",2776
+1920,"Mexico","MX","Direct_Aggregate",72
+1920,"Morocco","MA","Direct_Aggregate",3
+1920,"Norway","NO","Direct_Aggregate",331
+1920,"Poland","PL","Direct_Aggregate",194
+1920,"Portugal","PT","Direct_Aggregate",49
+1920,"Spain","ES","Direct_Aggregate",168
+1920,"Sweden","SE","Direct_Aggregate",54
+1920,"Switzerland","CH","Direct_Aggregate",252868
+1920,"Tunisia","TN","Direct_Aggregate",7
+1920,"United Kingdom","GB","Direct_Aggregate",13669
+1920,"United States of America","US","Direct_Aggregate",4660
+1921,"Australia","AU","Direct_Aggregate",356
+1921,"Austria","AT","Direct_Aggregate",2680
+1921,"Belgium","BE","Direct_Aggregate",351
+1921,"Canada","CA","Direct_Aggregate",316
+1921,"Denmark","DK","Direct_Aggregate",915
+1921,"France","FR","Direct_Resident",13154
+1921,"France","FR","Direct_NonResident",155
+1921,"Germany","DE","Direct_Aggregate",38310
+1921,"Hungary","HU","Direct_Aggregate",336
+1921,"Italy","IT","Direct_Aggregate",263
+1921,"Japan","JP","Direct_Aggregate",2785
+1921,"Mexico","MX","Direct_Aggregate",61
+1921,"Morocco","MA","Direct_Aggregate",2
+1921,"New Zealand","NZ","Direct_Aggregate",141
+1921,"Norway","NO","Direct_Aggregate",322
+1921,"Poland","PL","Direct_Aggregate",202
+1921,"Portugal","PT","Direct_Aggregate",98
+1921,"Spain","ES","Direct_Aggregate",256
+1921,"Sweden","SE","Direct_Aggregate",56
+1921,"Switzerland","CH","Direct_Aggregate",144869
+1921,"Tunisia","TN","Direct_Aggregate",19
+1921,"United Kingdom","GB","Direct_Aggregate",13387
+1921,"United States of America","US","Direct_Aggregate",5596
+1922,"Australia","AU","Direct_Aggregate",427
+1922,"Austria","AT","Direct_Aggregate",4571
+1922,"Belgium","BE","Direct_Aggregate",573
+1922,"Denmark","DK","Direct_Aggregate",1315
+1922,"France","FR","Direct_Resident",31237
+1922,"France","FR","Direct_NonResident",141
+1922,"Germany","DE","Direct_Aggregate",30676
+1922,"Hungary","HU","Direct_Aggregate",354
+1922,"Italy","IT","Direct_Aggregate",243
+1922,"Japan","JP","Direct_Aggregate",2837
+1922,"Mexico","MX","Direct_Aggregate",149
+1922,"Morocco","MA","Direct_Aggregate",5
+1922,"New Zealand","NZ","Direct_Aggregate",214
+1922,"Norway","NO","Direct_Aggregate",438
+1922,"Poland","PL","Direct_Aggregate",395
+1922,"Portugal","PT","Direct_Aggregate",65
+1922,"Spain","ES","Direct_Aggregate",272
+1922,"Sweden","SE","Direct_Aggregate",42
+1922,"Switzerland","CH","Direct_Aggregate",189471
+1922,"Tunisia","TN","Direct_Aggregate",5
+1922,"United Kingdom","GB","Direct_Aggregate",15736
+1922,"United States of America","US","Direct_Aggregate",4763
+1923,"Australia","AU","Direct_Aggregate",488
+1923,"Austria","AT","Direct_Aggregate",4823
+1923,"Belgium","BE","Direct_Aggregate",640
+1923,"Denmark","DK","Direct_Aggregate",1424
+1923,"France","FR","Direct_Resident",32900
+1923,"France","FR","Direct_NonResident",283
+1923,"Hungary","HU","Direct_Aggregate",268
+1923,"Italy","IT","Direct_Aggregate",348
+1923,"Japan","JP","Direct_Resident",2513
+1923,"Japan","JP","Direct_NonResident",11
+1923,"Morocco","MA","Direct_Aggregate",14
+1923,"New Zealand","NZ","Direct_Aggregate",178
+1923,"Norway","NO","Direct_Aggregate",422
+1923,"Poland","PL","Direct_Aggregate",258
+1923,"Portugal","PT","Direct_Aggregate",69
+1923,"Spain","ES","Direct_Aggregate",277
+1923,"Sweden","SE","Direct_Aggregate",76
+1923,"Switzerland","CH","Direct_Aggregate",221490
+1923,"Tunisia","TN","Direct_Aggregate",20
+1923,"United Kingdom","GB","Direct_Aggregate",19085
+1923,"United States of America","US","Direct_Aggregate",3550
+1924,"Australia","AU","Direct_Aggregate",498
+1924,"Austria","AT","Direct_Aggregate",6174
+1924,"Belgium","BE","Direct_Aggregate",831
+1924,"Denmark","DK","Direct_Aggregate",1615
+1924,"France","FR","Direct_Resident",41693
+1924,"France","FR","Direct_NonResident",183
+1924,"Germany","DE","Direct_Aggregate",35277
+1924,"Hungary","HU","Direct_Aggregate",404
+1924,"Italy","IT","Direct_Aggregate",615
+1924,"Japan","JP","Direct_Resident",3759
+1924,"Japan","JP","Direct_NonResident",21
+1924,"Mexico","MX","Direct_Aggregate",69
+1924,"Morocco","MA","Direct_Aggregate",13
+1924,"New Zealand","NZ","Direct_Aggregate",185
+1924,"Norway","NO","Direct_Aggregate",459
+1924,"Poland","PL","Direct_Aggregate",19
+1924,"Portugal","PT","Direct_Aggregate",81
+1924,"Spain","ES","Direct_Aggregate",399
+1924,"Sweden","SE","Direct_Aggregate",97
+1924,"Switzerland","CH","Direct_Aggregate",195656
+1924,"Tunisia","TN","Direct_Aggregate",10
+1924,"United Kingdom","GB","Direct_Aggregate",22155
+1924,"United States of America","US","Direct_Aggregate",3635
+1925,"Australia","AU","Direct_Aggregate",554
+1925,"Austria","AT","Direct_Aggregate",6279
+1925,"Belgium","BE","Direct_Aggregate",1308
+1925,"Denmark","DK","Direct_Aggregate",1633
+1925,"France","FR","Direct_Resident",39718
+1925,"France","FR","Direct_NonResident",629
+1925,"Germany","DE","Direct_Aggregate",57035
+1925,"Hungary","HU","Direct_Aggregate",516
+1925,"Italy","IT","Direct_Aggregate",555
+1925,"Japan","JP","Direct_Resident",5200
+1925,"Japan","JP","Direct_NonResident",32
+1925,"Mexico","MX","Direct_Aggregate",71
+1925,"Morocco","MA","Direct_Aggregate",18
+1925,"New Zealand","NZ","Direct_Aggregate",203
+1925,"Norway","NO","Direct_Aggregate",517
+1925,"Poland","PL","Direct_Aggregate",374
+1925,"Portugal","PT","Direct_Aggregate",119
+1925,"Soviet Union","SU","Direct_Aggregate",222
+1925,"Spain","ES","Direct_Aggregate",503
+1925,"Sweden","SE","Direct_Aggregate",108
+1925,"Tunisia","TN","Direct_Aggregate",8
+1925,"United Kingdom","GB","Direct_Aggregate",23801
+1925,"United States of America","US","Direct_Aggregate",4082
+1926,"Australia","AU","Direct_Aggregate",579
+1926,"Austria","AT","Direct_Aggregate",6697
+1926,"Belgium","BE","Direct_Aggregate",1665
+1926,"Cuba","CU","Direct_Aggregate",170
+1926,"Denmark","DK","Direct_Aggregate",1539
+1926,"France","FR","Direct_Resident",38267
+1926,"France","FR","Direct_NonResident",454
+1926,"Germany","DE","Direct_Aggregate",78021
+1926,"Hungary","HU","Direct_Aggregate",647
+1926,"Italy","IT","Direct_Aggregate",475
+1926,"Japan","JP","Direct_Resident",7277
+1926,"Japan","JP","Direct_NonResident",77
+1926,"Mexico","MX","Direct_Aggregate",86
+1926,"Morocco","MA","Direct_Aggregate",14
+1926,"New Zealand","NZ","Direct_Aggregate",204
+1926,"Norway","NO","Direct_Aggregate",536
+1926,"Poland","PL","Direct_Aggregate",365
+1926,"Portugal","PT","Direct_Aggregate",106
+1926,"Soviet Union","SU","Direct_Aggregate",271
+1926,"Spain","ES","Direct_Aggregate",832
+1926,"Sweden","SE","Direct_Aggregate",92
+1926,"Switzerland","CH","Direct_Aggregate",202228
+1926,"Tunisia","TN","Direct_Aggregate",12
+1926,"United Kingdom","GB","Direct_Aggregate",23206
+1926,"United States of America","US","Direct_Aggregate",4257
+1927,"Australia","AU","Direct_Aggregate",580
+1927,"Austria","AT","Direct_Aggregate",5937
+1927,"Denmark","DK","Direct_Aggregate",1695
+1927,"France","FR","Direct_Resident",45191
+1927,"France","FR","Direct_NonResident",375
+1927,"Germany","DE","Direct_Aggregate",77591
+1927,"Hungary","HU","Direct_Aggregate",564
+1927,"Ireland","IE","Direct_Aggregate",73
+1927,"Italy","IT","Direct_Aggregate",635
+1927,"Japan","JP","Direct_Resident",9162
+1927,"Japan","JP","Direct_NonResident",19
+1927,"Mexico","MX","Direct_Aggregate",87
+1927,"Morocco","MA","Direct_Aggregate",12
+1927,"New Zealand","NZ","Direct_Aggregate",145
+1927,"Norway","NO","Direct_Resident",474
+1927,"Norway","NO","Direct_NonResident",43
+1927,"Poland","PL","Direct_Aggregate",580
+1927,"Portugal","PT","Direct_Aggregate",98
+1927,"Soviet Union","SU","Direct_Aggregate",420
+1927,"Spain","ES","Direct_Aggregate",568
+1927,"Sweden","SE","Direct_Aggregate",154
+1927,"Switzerland","CH","Direct_Aggregate",218152
+1927,"Tunisia","TN","Direct_Aggregate",18
+1927,"United Kingdom","GB","Direct_Aggregate",22707
+1927,"United States of America","US","Direct_Aggregate",4473
+1928,"Australia","AU","Direct_Aggregate",574
+1928,"Austria","AT","Direct_Aggregate",8242
+1928,"Belgium","BE","Direct_Aggregate",595
+1928,"Denmark","DK","Direct_Aggregate",1693
+1928,"France","FR","Direct_Resident",47189
+1928,"France","FR","Direct_NonResident",550
+1928,"Germany","DE","Direct_Aggregate",95965
+1928,"Hungary","HU","Direct_Aggregate",628
+1928,"Ireland","IE","Direct_Aggregate",547
+1928,"Italy","IT","Direct_Aggregate",514
+1928,"Japan","JP","Direct_Resident",8206
+1928,"Japan","JP","Direct_NonResident",15
+1928,"Mexico","MX","Direct_Aggregate",136
+1928,"Morocco","MA","Direct_Aggregate",17
+1928,"New Zealand","NZ","Direct_Aggregate",163
+1928,"Norway","NO","Direct_Resident",522
+1928,"Norway","NO","Direct_NonResident",87
+1928,"Poland","PL","Direct_Aggregate",714
+1928,"Portugal","PT","Direct_Aggregate",175
+1928,"Soviet Union","SU","Direct_Aggregate",776
+1928,"Spain","ES","Direct_Aggregate",627
+1928,"Sweden","SE","Direct_Aggregate",209
+1928,"Switzerland","CH","Direct_Aggregate",227618
+1928,"Tunisia","TN","Direct_Aggregate",19
+1928,"United Kingdom","GB","Direct_Aggregate",24746
+1928,"United States of America","US","Direct_Aggregate",4761
+1929,"Australia","AU","Direct_Aggregate",568
+1929,"Austria","AT","Direct_Aggregate",11525
+1929,"Belgium","BE","Direct_Aggregate",1808
+1929,"Denmark","DK","Direct_Aggregate",1504
+1929,"France","FR","Direct_Resident",42852
+1929,"France","FR","Direct_NonResident",863
+1929,"Germany","DE","Direct_Aggregate",124020
+1929,"Hungary","HU","Direct_Aggregate",1169
+1929,"Ireland","IE","Direct_Aggregate",68
+1929,"Italy","IT","Direct_Aggregate",755
+1929,"Japan","JP","Direct_Resident",9616
+1929,"Japan","JP","Direct_NonResident",27
+1929,"Mexico","MX","Direct_Aggregate",137
+1929,"Morocco","MA","Direct_Aggregate",27
+1929,"Norway","NO","Direct_Resident",565
+1929,"Norway","NO","Direct_NonResident",38
+1929,"Poland","PL","Direct_Aggregate",869
+1929,"Portugal","PT","Direct_Aggregate",199
+1929,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Aggregate",107
+1929,"Soviet Union","SU","Direct_Aggregate",1136
+1929,"Spain","ES","Direct_Aggregate",848
+1929,"Sweden","SE","Direct_Aggregate",141
+1929,"Switzerland","CH","Direct_Aggregate",158043
+1929,"Tunisia","TN","Direct_Aggregate",13
+1929,"United Kingdom","GB","Direct_Aggregate",23648
+1929,"United States of America","US","Direct_Aggregate",4520
+1930,"Australia","AU","Direct_Aggregate",736
+1930,"Austria","AT","Direct_Aggregate",12154
+1930,"Belgium","BE","Direct_Aggregate",669
+1930,"Canada","CA","Direct_Aggregate",454
+1930,"Czechoslovakia","CS","Direct_Aggregate",11476
+1930,"Denmark","DK","Direct_Aggregate",1831
+1930,"France","FR","Direct_Resident",47665
+1930,"France","FR","Direct_NonResident",497
+1930,"Germany","DE","Direct_Aggregate",126702
+1930,"Hungary","HU","Direct_Aggregate",1446
+1930,"Ireland","IE","Direct_Aggregate",42
+1930,"Italy","IT","Direct_Aggregate",983
+1930,"Japan","JP","Direct_Resident",12006
+1930,"Japan","JP","Direct_NonResident",32
+1930,"Mexico","MX","Direct_Aggregate",104
+1930,"Morocco","MA","Direct_Aggregate",31
+1930,"New Zealand","NZ","Direct_Aggregate",169
+1930,"Norway","NO","Direct_Resident",664
+1930,"Norway","NO","Direct_NonResident",64
+1930,"Poland","PL","Direct_Aggregate",1082
+1930,"Portugal","PT","Direct_Aggregate",216
+1930,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Aggregate",98
+1930,"Spain","ES","Direct_Aggregate",719
+1930,"Sweden","SE","Direct_Aggregate",196
+1930,"Switzerland","CH","Direct_Aggregate",123125
+1930,"Tunisia","TN","Direct_Aggregate",14
+1930,"United Kingdom","GB","Direct_Aggregate",21463
+1930,"United States of America","US","Direct_Aggregate",4182
+1931,"Australia","AU","Direct_Aggregate",661
+1931,"Austria","AT","Direct_Aggregate",13181
+1931,"Belgium","BE","Direct_Aggregate",789
+1931,"Denmark","DK","Direct_Aggregate",2388
+1931,"France","FR","Direct_Resident",44514
+1931,"France","FR","Direct_NonResident",569
+1931,"Germany","DE","Direct_Aggregate",111369
+1931,"Hungary","HU","Direct_Aggregate",884
+1931,"Ireland","IE","Direct_Aggregate",118
+1931,"Italy","IT","Direct_Aggregate",919
+1931,"Japan","JP","Direct_Resident",9951
+1931,"Japan","JP","Direct_NonResident",36
+1931,"Mexico","MX","Direct_Aggregate",115
+1931,"Morocco","MA","Direct_Aggregate",45
+1931,"New Zealand","NZ","Direct_Aggregate",151
+1931,"Norway","NO","Direct_Resident",751
+1931,"Norway","NO","Direct_NonResident",54
+1931,"Poland","PL","Direct_Aggregate",1337
+1931,"Portugal","PT","Direct_Aggregate",182
+1931,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Aggregate",117
+1931,"Spain","ES","Direct_Aggregate",1055
+1931,"Sweden","SE","Direct_Aggregate",185
+1931,"Switzerland","CH","Direct_Aggregate",78491
+1931,"Tunisia","TN","Direct_Aggregate",19
+1931,"United Kingdom","GB","Direct_Aggregate",18886
+1931,"United States of America","US","Direct_Aggregate",4190
+1932,"Australia","AU","Direct_Aggregate",409
+1932,"Austria","AT","Direct_Aggregate",16132
+1932,"Belgium","BE","Direct_Aggregate",610
+1932,"Denmark","DK","Direct_Aggregate",2752
+1932,"France","FR","Direct_Resident",45427
+1932,"France","FR","Direct_NonResident",568
+1932,"Germany","DE","Direct_Aggregate",105639
+1932,"Hungary","HU","Direct_Aggregate",1148
+1932,"Ireland","IE","Direct_Aggregate",83
+1932,"Italy","IT","Direct_Aggregate",1324
+1932,"Japan","JP","Direct_Resident",9172
+1932,"Japan","JP","Direct_NonResident",23
+1932,"Mexico","MX","Direct_Aggregate",137
+1932,"Morocco","MA","Direct_Aggregate",54
+1932,"New Zealand","NZ","Direct_Aggregate",164
+1932,"Norway","NO","Direct_Resident",956
+1932,"Norway","NO","Direct_NonResident",35
+1932,"Poland","PL","Direct_Aggregate",463
+1932,"Portugal","PT","Direct_Aggregate",237
+1932,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Aggregate",131
+1932,"Spain","ES","Direct_Aggregate",1211
+1932,"Sweden","SE","Direct_Aggregate",156
+1932,"Switzerland","CH","Direct_Aggregate",49685
+1932,"Tunisia","TN","Direct_Aggregate",22
+1932,"United Kingdom","GB","Direct_Aggregate",22374
+1932,"United States of America","US","Direct_Aggregate",4345
+1933,"Australia","AU","Direct_Aggregate",664
+1933,"Austria","AT","Direct_Aggregate",19901
+1933,"Belgium","BE","Direct_Aggregate",2429
+1933,"Czechoslovakia","CS","Direct_Aggregate",10669
+1933,"Denmark","DK","Direct_Aggregate",3534
+1933,"France","FR","Direct_Resident",48263
+1933,"France","FR","Direct_NonResident",327
+1933,"Germany","DE","Direct_Aggregate",117245
+1933,"Hungary","HU","Direct_Aggregate",1393
+1933,"Ireland","IE","Direct_Aggregate",53
+1933,"Italy","IT","Direct_Aggregate",1159
+1933,"Japan","JP","Direct_Resident",9388
+1933,"Japan","JP","Direct_NonResident",39
+1933,"Mexico","MX","Direct_Aggregate",143
+1933,"Morocco","MA","Direct_Aggregate",61
+1933,"New Zealand","NZ","Direct_Aggregate",143
+1933,"Norway","NO","Direct_Resident",1055
+1933,"Norway","NO","Direct_NonResident",36
+1933,"Poland","PL","Direct_Aggregate",578
+1933,"Portugal","PT","Direct_Aggregate",218
+1933,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Aggregate",152
+1933,"Spain","ES","Direct_Aggregate",1366
+1933,"Sweden","SE","Direct_Aggregate",179
+1933,"Switzerland","CH","Direct_Aggregate",39031
+1933,"Tunisia","TN","Direct_Aggregate",17
+1933,"United Kingdom","GB","Direct_Aggregate",25015
+1933,"United States of America","US","Direct_Aggregate",3600
+1934,"Australia","AU","Direct_Aggregate",1670
+1934,"Austria","AT","Direct_Aggregate",24441
+1934,"Belgium","BE","Direct_Aggregate",1855
+1934,"Czechoslovakia","CS","Direct_Aggregate",10487
+1934,"Denmark","DK","Direct_Aggregate",3097
+1934,"France","FR","Direct_Resident",42690
+1934,"France","FR","Direct_NonResident",260
+1934,"Germany","DE","Direct_Aggregate",100218
+1934,"Hungary","HU","Direct_Aggregate",1759
+1934,"Ireland","IE","Direct_Aggregate",50
+1934,"Italy","IT","Direct_Aggregate",1187
+1934,"Japan","JP","Direct_Resident",9566
+1934,"Japan","JP","Direct_NonResident",45
+1934,"Mexico","MX","Direct_Aggregate",169
+1934,"Morocco","MA","Direct_Aggregate",32
+1934,"Norway","NO","Direct_Aggregate",1199
+1934,"Poland","PL","Direct_Aggregate",653
+1934,"Portugal","PT","Direct_Aggregate",205
+1934,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Aggregate",146
+1934,"Spain","ES","Direct_Aggregate",1709
+1934,"Sweden","SE","Direct_Aggregate",154
+1934,"Switzerland","CH","Direct_Aggregate",26998
+1934,"Tunisia","TN","Direct_Aggregate",21
+1934,"United Kingdom","GB","Direct_Aggregate",20681
+1934,"United States of America","US","Direct_Aggregate",4399
+1935,"Australia","AU","Direct_Aggregate",2319
+1935,"Austria","AT","Direct_Aggregate",25394
+1935,"Belgium","BE","Direct_Aggregate",2844
+1935,"Canada","CA","Direct_Aggregate",464
+1935,"Denmark","DK","Direct_Aggregate",3458
+1935,"France","FR","Direct_Resident",41154
+1935,"France","FR","Direct_NonResident",305
+1935,"Germany","DE","Direct_Aggregate",86769
+1935,"Hungary","HU","Direct_Aggregate",3162
+1935,"Ireland","IE","Direct_Aggregate",59
+1935,"Italy","IT","Direct_Aggregate",964
+1935,"Japan","JP","Direct_Resident",12285
+1935,"Japan","JP","Direct_NonResident",79
+1935,"Morocco","MA","Direct_Aggregate",37
+1935,"New Zealand","NZ","Direct_Aggregate",185
+1935,"Norway","NO","Direct_Aggregate",1004
+1935,"Poland","PL","Direct_Aggregate",714
+1935,"Portugal","PT","Direct_Aggregate",288
+1935,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Aggregate",171
+1935,"Sweden","SE","Direct_Aggregate",143
+1935,"Switzerland","CH","Direct_Aggregate",34230
+1935,"Tunisia","TN","Direct_Aggregate",22
+1935,"United Kingdom","GB","Direct_Aggregate",21229
+1935,"United States of America","US","Direct_Aggregate",5728
+1936,"Australia","AU","Direct_Aggregate",1494
+1936,"Austria","AT","Direct_Aggregate",27614
+1936,"Belgium","BE","Direct_Aggregate",1747
+1936,"Canada","CA","Direct_Aggregate",447
+1936,"Czechoslovakia","CS","Direct_Aggregate",5918
+1936,"Denmark","DK","Direct_Aggregate",3121
+1936,"France","FR","Direct_Resident",38060
+1936,"France","FR","Direct_NonResident",217
+1936,"Germany","DE","Direct_Aggregate",87628
+1936,"Hungary","HU","Direct_Aggregate",2815
+1936,"Ireland","IE","Direct_Aggregate",30
+1936,"Italy","IT","Direct_Aggregate",1083
+1936,"Japan","JP","Direct_Resident",14568
+1936,"Japan","JP","Direct_NonResident",58
+1936,"Morocco","MA","Direct_Aggregate",66
+1936,"New Zealand","NZ","Direct_Aggregate",124
+1936,"Norway","NO","Direct_Aggregate",1034
+1936,"Poland","PL","Direct_Aggregate",850
+1936,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Aggregate",162
+1936,"Sweden","SE","Direct_Aggregate",126
+1936,"Switzerland","CH","Direct_Aggregate",35536
+1936,"Tunisia","TN","Direct_Aggregate",30
+1936,"United Kingdom","GB","Direct_Aggregate",20292
+1936,"United States of America","US","Direct_Aggregate",6478
+1937,"Australia","AU","Direct_Aggregate",1190
+1937,"Austria","AT","Direct_Aggregate",25280
+1937,"Belgium","BE","Direct_Aggregate",1641
+1937,"Canada","CA","Direct_Aggregate",460
+1937,"Denmark","DK","Direct_Aggregate",2863
+1937,"France","FR","Direct_Resident",14135
+1937,"France","FR","Direct_NonResident",217
+1937,"Germany","DE","Direct_Aggregate",71786
+1937,"Ireland","IE","Direct_Aggregate",37
+1937,"Italy","IT","Direct_Aggregate",1295
+1937,"Japan","JP","Direct_Aggregate",10152
+1937,"Mexico","MX","Direct_Aggregate",167
+1937,"Morocco","MA","Direct_Aggregate",145
+1937,"New Zealand","NZ","Direct_Aggregate",193
+1937,"Norway","NO","Direct_Aggregate",995
+1937,"Poland","PL","Direct_Aggregate",913
+1937,"Portugal","PT","Direct_Aggregate",218
+1937,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Aggregate",161
+1937,"Spain","ES","Direct_Aggregate",38
+1937,"Sweden","SE","Direct_Aggregate",124
+1937,"Switzerland","CH","Direct_Aggregate",32400
+1937,"Tunisia","TN","Direct_Aggregate",10
+1937,"United Kingdom","GB","Direct_Aggregate",19343
+1937,"United States of America","US","Direct_Aggregate",7207
+1938,"Australia","AU","Direct_Aggregate",1498
+1938,"Belgium","BE","Direct_Aggregate",1651
+1938,"Canada","CA","Direct_Aggregate",539
+1938,"Denmark","DK","Direct_Aggregate",2795
+1938,"France","FR","Direct_Resident",5383
+1938,"France","FR","Direct_NonResident",104
+1938,"Germany","DE","Direct_Aggregate",63057
+1938,"Hungary","HU","Direct_Aggregate",1555
+1938,"Ireland","IE","Direct_Aggregate",32
+1938,"Italy","IT","Direct_Aggregate",1425
+1938,"Japan","JP","Direct_Aggregate",7259
+1938,"Morocco","MA","Direct_Aggregate",296
+1938,"Norway","NO","Direct_Aggregate",1125
+1938,"Portugal","PT","Direct_Aggregate",177
+1938,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Aggregate",108
+1938,"Sweden","SE","Direct_Aggregate",130
+1938,"Switzerland","CH","Direct_Aggregate",19769
+1938,"Tunisia","TN","Direct_Aggregate",12
+1938,"United Kingdom","GB","Direct_Aggregate",16118
+1938,"United States of America","US","Direct_Aggregate",8087
+1939,"Australia","AU","Direct_Aggregate",865
+1939,"Belgium","BE","Direct_Aggregate",1162
+1939,"Canada","CA","Direct_Aggregate",463
+1939,"Denmark","DK","Direct_Aggregate",2242
+1939,"France","FR","Direct_Resident",5981
+1939,"France","FR","Direct_NonResident",84
+1939,"Germany","DE","Direct_Aggregate",43474
+1939,"Hungary","HU","Direct_Aggregate",489
+1939,"Ireland","IE","Direct_Aggregate",25
+1939,"Japan","JP","Direct_Aggregate",5221
+1939,"Mexico","MX","Direct_Aggregate",100
+1939,"Morocco","MA","Direct_Aggregate",421
+1939,"New Zealand","NZ","Direct_Aggregate",137
+1939,"Norway","NO","Direct_Aggregate",810
+1939,"Poland","PL","Direct_Aggregate",582
+1939,"Portugal","PT","Direct_Aggregate",198
+1939,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Aggregate",99
+1939,"Sweden","SE","Direct_Aggregate",142
+1939,"Switzerland","CH","Direct_Aggregate",15913
+1939,"Tunisia","TN","Direct_Aggregate",19
+1939,"United Kingdom","GB","Direct_Aggregate",11588
+1939,"United States of America","US","Direct_Aggregate",7137
+1940,"Australia","AU","Direct_Aggregate",605
+1940,"Belgium","BE","Direct_Aggregate",324
+1940,"Canada","CA","Direct_Aggregate",460
+1940,"Denmark","DK","Direct_Aggregate",2410
+1940,"France","FR","Direct_Aggregate",1854
+1940,"Germany","DE","Direct_Aggregate",12028
+1940,"Hungary","HU","Direct_Aggregate",500
+1940,"Ireland","IE","Direct_Aggregate",13
+1940,"Italy","IT","Direct_Aggregate",1433
+1940,"Japan","JP","Direct_Aggregate",4315
+1940,"Mexico","MX","Direct_Aggregate",120
+1940,"Morocco","MA","Direct_Aggregate",7
+1940,"New Zealand","NZ","Direct_Aggregate",108
+1940,"Norway","NO","Direct_Aggregate",668
+1940,"Portugal","PT","Direct_Aggregate",227
+1940,"Sweden","SE","Direct_Aggregate",72
+1940,"Switzerland","CH","Direct_Aggregate",11965
+1940,"Tunisia","TN","Direct_Aggregate",65
+1940,"United Kingdom","GB","Direct_Aggregate",4473
+1940,"United States of America","US","Direct_Aggregate",8530
+1941,"Belgium","BE","Direct_Aggregate",373
+1941,"Canada","CA","Direct_Aggregate",416
+1941,"Denmark","DK","Direct_Aggregate",1564
+1941,"France","FR","Direct_Resident",1972
+1941,"France","FR","Direct_NonResident",8
+1941,"Germany","DE","Direct_Aggregate",7336
+1941,"Ireland","IE","Direct_Aggregate",13
+1941,"Italy","IT","Direct_Aggregate",2686
+1941,"Japan","JP","Direct_Aggregate",3956
+1941,"New Zealand","NZ","Direct_Aggregate",108
+1941,"Norway","NO","Direct_Aggregate",626
+1941,"Portugal","PT","Direct_Aggregate",185
+1941,"Sweden","SE","Direct_Aggregate",89
+1941,"Switzerland","CH","Direct_Aggregate",11063
+1941,"United Kingdom","GB","Direct_Aggregate",3118
+1941,"United States of America","US","Direct_Aggregate",7203
+1942,"Australia","AU","Direct_Aggregate",221
+1942,"Belgium","BE","Direct_Aggregate",353
+1942,"Canada","CA","Direct_Aggregate",308
+1942,"Denmark","DK","Direct_Aggregate",1852
+1942,"France","FR","Direct_Aggregate",2210
+1942,"Germany","DE","Direct_Aggregate",4164
+1942,"Hungary","HU","Direct_Aggregate",403
+1942,"Ireland","IE","Direct_Aggregate",32
+1942,"Japan","JP","Direct_Aggregate",2179
+1942,"Mexico","MX","Direct_Aggregate",131
+1942,"Morocco","MA","Direct_Aggregate",70
+1942,"New Zealand","NZ","Direct_Aggregate",60
+1942,"Norway","NO","Direct_Aggregate",1327
+1942,"Poland","PL","Direct_Aggregate",254
+1942,"Portugal","PT","Direct_Aggregate",183
+1942,"Sweden","SE","Direct_Aggregate",68
+1942,"Switzerland","CH","Direct_Aggregate",10541
+1942,"United Kingdom","GB","Direct_Aggregate",2301
+1942,"United States of America","US","Direct_Aggregate",4218
+1943,"Australia","AU","Direct_Aggregate",322
+1943,"Belgium","BE","Direct_Aggregate",835
+1943,"Canada","CA","Direct_Aggregate",258
+1943,"Denmark","DK","Direct_Aggregate",2280
+1943,"France","FR","Direct_Aggregate",2732
+1943,"Germany","DE","Direct_Aggregate",1940
+1943,"Hungary","HU","Direct_Aggregate",286
+1943,"Ireland","IE","Direct_Aggregate",28
+1943,"Japan","JP","Direct_Aggregate",1231
+1943,"Mexico","MX","Direct_Aggregate",101
+1943,"Morocco","MA","Direct_Aggregate",98
+1943,"New Zealand","NZ","Direct_Aggregate",61
+1943,"Norway","NO","Direct_Aggregate",1010
+1943,"Poland","PL","Direct_Aggregate",133
+1943,"Portugal","PT","Direct_Aggregate",206
+1943,"Sweden","SE","Direct_Aggregate",77
+1943,"Switzerland","CH","Direct_Aggregate",9500
+1943,"United Kingdom","GB","Direct_Aggregate",2824
+1943,"United States of America","US","Direct_Aggregate",2986
+1944,"Australia","AU","Direct_Aggregate",458
+1944,"Belgium","BE","Direct_Aggregate",600
+1944,"Canada","CA","Direct_Aggregate",291
+1944,"Denmark","DK","Direct_Aggregate",2205
+1944,"France","FR","Direct_Aggregate",2393
+1944,"Ireland","IE","Direct_Aggregate",17
+1944,"Mexico","MX","Direct_Aggregate",6
+1944,"Morocco","MA","Direct_Aggregate",71
+1944,"New Zealand","NZ","Direct_Aggregate",104
+1944,"Norway","NO","Direct_Aggregate",937
+1944,"Portugal","PT","Direct_Aggregate",85
+1944,"Sweden","SE","Direct_Aggregate",126
+1944,"Switzerland","CH","Direct_Aggregate",15714
+1944,"United Kingdom","GB","Direct_Aggregate",3525
+1944,"United States of America","US","Direct_Aggregate",5063
+1945,"Australia","AU","Direct_Aggregate",986
+1945,"Belgium","BE","Direct_Aggregate",1003
+1945,"Canada","CA","Direct_Aggregate",403
+1945,"Denmark","DK","Direct_Aggregate",2325
+1945,"France","FR","Direct_Aggregate",3868
+1945,"Ireland","IE","Direct_Aggregate",21
+1945,"Italy","IT","Direct_Aggregate",1688
+1945,"Mexico","MX","Direct_Aggregate",199
+1945,"Morocco","MA","Direct_Aggregate",96
+1945,"New Zealand","NZ","Direct_Aggregate",188
+1945,"Norway","NO","Direct_Aggregate",18015
+1945,"Poland","PL","Direct_Aggregate",42
+1945,"Portugal","PT","Direct_Aggregate",214
+1945,"Sweden","SE","Direct_Aggregate",133
+1945,"Switzerland","CH","Direct_Aggregate",10288
+1945,"Tunisia","TN","Direct_Aggregate",12
+1945,"United Kingdom","GB","Direct_Aggregate",4755
+1945,"United States of America","US","Direct_Aggregate",8066
+1946,"Australia","AU","Direct_Aggregate",1553
+1946,"Brazil","BR","Direct_Aggregate",245
+1946,"Canada","CA","Direct_Aggregate",858
+1946,"Denmark","DK","Direct_Aggregate",4084
+1946,"France","FR","Direct_Aggregate",5575
+1946,"Ireland","IE","Direct_Aggregate",58
+1946,"Italy","IT","Direct_Aggregate",2326
+1946,"Japan","JP","Direct_Aggregate",339
+1946,"Mexico","MX","Direct_Aggregate",115
+1946,"Morocco","MA","Direct_Aggregate",115
+1946,"New Zealand","NZ","Direct_Aggregate",351
+1946,"Norway","NO","Direct_Aggregate",1657
+1946,"Poland","PL","Direct_Aggregate",41
+1946,"Portugal","PT","Direct_Aggregate",280
+1946,"Sweden","SE","Direct_Aggregate",204
+1946,"Switzerland","CH","Direct_Aggregate",12348
+1946,"Tunisia","TN","Direct_Aggregate",5
+1946,"United Kingdom","GB","Direct_Aggregate",6524
+1946,"United States of America","US","Direct_Aggregate",10698
+1947,"Australia","AU","Direct_Aggregate",1256
+1947,"Austria","AT","Direct_Aggregate",846
+1947,"Belgium","BE","Direct_Aggregate",1121
+1947,"Canada","CA","Direct_Aggregate",933
+1947,"Denmark","DK","Direct_Aggregate",3024
+1947,"France","FR","Direct_Aggregate",6463
+1947,"Hungary","HU","Direct_Aggregate",255
+1947,"Ireland","IE","Direct_Aggregate",70
+1947,"Italy","IT","Direct_Aggregate",2192
+1947,"Japan","JP","Direct_Aggregate",1907
+1947,"Lebanon","LB","Direct_Aggregate",34
+1947,"Mexico","MX","Direct_Aggregate",167
+1947,"Morocco","MA","Direct_Aggregate",87
+1947,"New Zealand","NZ","Direct_Aggregate",237
+1947,"Norway","NO","Direct_Aggregate",1378
+1947,"Poland","PL","Direct_Aggregate",41
+1947,"Portugal","PT","Direct_Aggregate",224
+1947,"Republic of Korea","KR","Direct_Resident",23
+1947,"Republic of Korea","KR","Direct_NonResident",0
+1947,"South Africa","ZA","Direct_Aggregate",173
+1947,"Spain","ES","Direct_Aggregate",3144
+1947,"Sri Lanka","LK","Direct_Aggregate",3
+1947,"Sweden","SE","Direct_Aggregate",200
+1947,"Switzerland","CH","Direct_Aggregate",10707
+1947,"Syrian Arab Republic","SY","Direct_Aggregate",11
+1947,"Trinidad and Tobago","TT","Direct_Aggregate",1
+1947,"Tunisia","TN","Direct_Aggregate",3
+1947,"United Kingdom","GB","Direct_Aggregate",5463
+1947,"United States of America","US","Direct_Aggregate",7644
+1948,"Australia","AU","Direct_Aggregate",990
+1948,"Austria","AT","Direct_Aggregate",4824
+1948,"Belgium","BE","Direct_Aggregate",1341
+1948,"Canada","CA","Direct_Aggregate",704
+1948,"Denmark","DK","Direct_Aggregate",3182
+1948,"France","FR","Direct_Aggregate",7635
+1948,"Ireland","IE","Direct_Aggregate",40
+1948,"Italy","IT","Direct_Aggregate",2364
+1948,"Japan","JP","Direct_Aggregate",2553
+1948,"Lebanon","LB","Direct_Aggregate",59
+1948,"Mexico","MX","Direct_Aggregate",146
+1948,"Morocco","MA","Direct_Aggregate",43
+1948,"New Zealand","NZ","Direct_Aggregate",229
+1948,"Norway","NO","Direct_Aggregate",1632
+1948,"Poland","PL","Direct_Aggregate",44
+1948,"Portugal","PT","Direct_Aggregate",312
+1948,"Republic of Korea","KR","Direct_Resident",38
+1948,"Republic of Korea","KR","Direct_NonResident",0
+1948,"South Africa","ZA","Direct_Aggregate",208
+1948,"Spain","ES","Direct_Aggregate",3307
+1948,"Sweden","SE","Direct_Aggregate",180
+1948,"Switzerland","CH","Direct_Aggregate",14218
+1948,"Syrian Arab Republic","SY","Direct_Aggregate",46
+1948,"Trinidad and Tobago","TT","Direct_Aggregate",1
+1948,"Tunisia","TN","Direct_Aggregate",57
+1948,"United Kingdom","GB","Direct_Aggregate",5725
+1948,"United States of America","US","Direct_Aggregate",7049
+1949,"Australia","AU","Direct_Aggregate",948
+1949,"Austria","AT","Direct_Aggregate",6063
+1949,"Belgium","BE","Direct_Aggregate",2300
+1949,"Canada","CA","Direct_Aggregate",630
+1949,"Denmark","DK","Direct_Aggregate",3126
+1949,"France","FR","Direct_Aggregate",10233
+1949,"Germany","DE","Direct_Aggregate",49201
+1949,"Ireland","IE","Direct_Aggregate",56
+1949,"Israel","IL","Direct_Aggregate",34
+1949,"Italy","IT","Direct_Aggregate",3441
+1949,"Japan","JP","Direct_Aggregate",4787
+1949,"Lebanon","LB","Direct_Aggregate",181
+1949,"Mexico","MX","Direct_Aggregate",129
+1949,"Morocco","MA","Direct_Aggregate",115
+1949,"New Zealand","NZ","Direct_Aggregate",255
+1949,"Norway","NO","Direct_Aggregate",1936
+1949,"Poland","PL","Direct_Aggregate",206
+1949,"Portugal","PT","Direct_Aggregate",228
+1949,"Republic of Korea","KR","Direct_Resident",46
+1949,"Republic of Korea","KR","Direct_NonResident",0
+1949,"South Africa","ZA","Direct_Aggregate",239
+1949,"Spain","ES","Direct_Aggregate",4860
+1949,"Sri Lanka","LK","Direct_Aggregate",8
+1949,"Sweden","SE","Direct_Aggregate",348
+1949,"Switzerland","CH","Direct_Aggregate",17958
+1949,"Syrian Arab Republic","SY","Direct_Aggregate",56
+1949,"Tunisia","TN","Direct_Aggregate",12
+1949,"United Kingdom","GB","Direct_Aggregate",6631
+1949,"United States of America","US","Direct_Aggregate",6999
+1950,"Australia","AU","Direct_Aggregate",1187
+1950,"Austria","AT","Direct_Aggregate",6504
+1950,"Belgium","BE","Direct_Aggregate",2051
+1950,"Brazil","BR","Direct_Aggregate",872
+1950,"Canada","CA","Direct_Aggregate",720
+1950,"Denmark","DK","Direct_Aggregate",1297
+1950,"France","FR","Direct_Aggregate",12642
+1950,"Germany","DE","Direct_Aggregate",36495
+1950,"Ireland","IE","Direct_Aggregate",77
+1950,"Israel","IL","Direct_Aggregate",100
+1950,"Italy","IT","Direct_Aggregate",4100
+1950,"Japan","JP","Direct_Aggregate",6507
+1950,"Lebanon","LB","Direct_Aggregate",32
+1950,"Mexico","MX","Direct_Aggregate",239
+1950,"Morocco","MA","Direct_Aggregate",92
+1950,"New Zealand","NZ","Direct_Aggregate",246
+1950,"Norway","NO","Direct_Aggregate",2012
+1950,"Portugal","PT","Direct_Aggregate",236
+1950,"Republic of Korea","KR","Direct_Resident",30
+1950,"Republic of Korea","KR","Direct_NonResident",0
+1950,"South Africa","ZA","Direct_Aggregate",212
+1950,"Spain","ES","Direct_Aggregate",4908
+1950,"Sri Lanka","LK","Direct_Aggregate",13
+1950,"Sweden","SE","Direct_Aggregate",271
+1950,"Switzerland","CH","Direct_Aggregate",19887
+1950,"Syrian Arab Republic","SY","Direct_Aggregate",63
+1950,"Trinidad and Tobago","TT","Direct_Aggregate",4
+1950,"Tunisia","TN","Direct_Aggregate",26
+1950,"United Kingdom","GB","Direct_Aggregate",7327
+1950,"United States of America","US","Direct_Aggregate",6739
+1951,"Australia","AU","Direct_Aggregate",773
+1951,"Austria","AT","Direct_Aggregate",5021
+1951,"Belgium","BE","Direct_Aggregate",1413
+1951,"Canada","CA","Direct_Aggregate",649
+1951,"Czechoslovakia","CS","Direct_Aggregate",145
+1951,"Denmark","DK","Direct_Aggregate",946
+1951,"Egypt","EG","Direct_Aggregate",48
+1951,"France","FR","Direct_Aggregate",10847
+1951,"Germany","DE","Direct_Aggregate",37205
+1951,"Ireland","IE","Direct_Aggregate",25
+1951,"Israel","IL","Direct_Aggregate",66
+1951,"Italy","IT","Direct_Aggregate",3685
+1951,"Japan","JP","Direct_Aggregate",6329
+1951,"Lebanon","LB","Direct_Aggregate",60
+1951,"Mexico","MX","Direct_Aggregate",119
+1951,"Morocco","MA","Direct_Aggregate",62
+1951,"New Zealand","NZ","Direct_Aggregate",165
+1951,"Norway","NO","Direct_Aggregate",1530
+1951,"Portugal","PT","Direct_Aggregate",277
+1951,"Republic of Korea","KR","Direct_Resident",3
+1951,"Republic of Korea","KR","Direct_NonResident",0
+1951,"South Africa","ZA","Direct_Aggregate",260
+1951,"Spain","ES","Direct_Aggregate",5006
+1951,"Sweden","SE","Direct_Aggregate",181
+1951,"Switzerland","CH","Direct_Aggregate",18962
+1951,"Syrian Arab Republic","SY","Direct_Aggregate",97
+1951,"Trinidad and Tobago","TT","Direct_Aggregate",1
+1951,"Tunisia","TN","Direct_Aggregate",12
+1951,"United Kingdom","GB","Direct_Aggregate",9155
+1951,"United States of America","US","Direct_Aggregate",4279
+1952,"Australia","AU","Direct_Aggregate",1186
+1952,"Austria","AT","Direct_Aggregate",6575
+1952,"Belgium","BE","Direct_Aggregate",2000
+1952,"Canada","CA","Direct_Aggregate",502
+1952,"Czechoslovakia","CS","Direct_Aggregate",24
+1952,"Denmark","DK","Direct_Aggregate",1092
+1952,"Egypt","EG","Direct_Aggregate",58
+1952,"France","FR","Direct_Aggregate",13079
+1952,"Germany","DE","Direct_Aggregate",43284
+1952,"Ireland","IE","Direct_Aggregate",55
+1952,"Israel","IL","Direct_Aggregate",51
+1952,"Italy","IT","Direct_Aggregate",3965
+1952,"Japan","JP","Direct_Aggregate",8431
+1952,"Lebanon","LB","Direct_Aggregate",29
+1952,"Mexico","MX","Direct_Aggregate",251
+1952,"Morocco","MA","Direct_Aggregate",54
+1952,"New Zealand","NZ","Direct_Aggregate",177
+1952,"Norway","NO","Direct_Aggregate",1551
+1952,"Poland","PL","Direct_Aggregate",344
+1952,"Portugal","PT","Direct_Aggregate",265
+1952,"Republic of Korea","KR","Direct_Resident",19
+1952,"Republic of Korea","KR","Direct_NonResident",0
+1952,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Aggregate",13
+1952,"South Africa","ZA","Direct_Aggregate",261
+1952,"Spain","ES","Direct_Aggregate",1506
+1952,"Sri Lanka","LK","Direct_Aggregate",29
+1952,"Sweden","SE","Direct_Aggregate",137
+1952,"Switzerland","CH","Direct_Aggregate",22372
+1952,"Syrian Arab Republic","SY","Direct_Aggregate",145
+1952,"Trinidad and Tobago","TT","Direct_Aggregate",1
+1952,"Tunisia","TN","Direct_Aggregate",17
+1952,"United Kingdom","GB","Direct_Aggregate",9671
+1952,"United States of America","US","Direct_Aggregate",4993
+1953,"Australia","AU","Direct_Aggregate",1504
+1953,"Austria","AT","Direct_Aggregate",8230
+1953,"Belgium","BE","Direct_Aggregate",2906
+1953,"Canada","CA","Direct_Aggregate",536
+1953,"Czechoslovakia","CS","Direct_Aggregate",23
+1953,"Denmark","DK","Direct_Aggregate",927
+1953,"Egypt","EG","Direct_Aggregate",754
+1953,"France","FR","Direct_Aggregate",10218
+1953,"Germany","DE","Direct_NonResident",89
+1953,"Hungary","HU","Direct_Aggregate",3
+1953,"Ireland","IE","Direct_Aggregate",52
+1953,"Israel","IL","Direct_Aggregate",77
+1953,"Italy","IT","Direct_Aggregate",4715
+1953,"Japan","JP","Direct_Aggregate",10123
+1953,"Lebanon","LB","Direct_Aggregate",21
+1953,"Liechtenstein","LI","Direct_Aggregate",3
+1953,"Mexico","MX","Direct_Aggregate",358
+1953,"Morocco","MA","Direct_Aggregate",79
+1953,"New Zealand","NZ","Direct_Aggregate",216
+1953,"Norway","NO","Direct_Aggregate",1553
+1953,"Poland","PL","Direct_Aggregate",18
+1953,"Portugal","PT","Direct_Aggregate",170
+1953,"Republic of Korea","KR","Direct_Resident",62
+1953,"Republic of Korea","KR","Direct_NonResident",0
+1953,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Aggregate",82
+1953,"South Africa","ZA","Direct_Aggregate",354
+1953,"Spain","ES","Direct_Aggregate",1543
+1953,"Sri Lanka","LK","Direct_Aggregate",89
+1953,"Sweden","SE","Direct_Aggregate",171
+1953,"Switzerland","CH","Direct_Aggregate",19608
+1953,"Syrian Arab Republic","SY","Direct_Aggregate",338
+1953,"Tunisia","TN","Direct_Aggregate",17
+1953,"United Kingdom","GB","Direct_Aggregate",8270
+1953,"United States of America","US","Direct_Aggregate",5459
+1954,"Australia","AU","Direct_Aggregate",1373
+1954,"Austria","AT","Direct_Aggregate",9006
+1954,"Belgium","BE","Direct_Aggregate",2919
+1954,"Canada","CA","Direct_Aggregate",595
+1954,"Czechoslovakia","CS","Direct_Aggregate",46
+1954,"Denmark","DK","Direct_Aggregate",915
+1954,"Egypt","EG","Direct_Aggregate",814
+1954,"France","FR","Direct_Aggregate",10831
+1954,"Germany","DE","Direct_NonResident",168
+1954,"Hungary","HU","Direct_Aggregate",59
+1954,"Ireland","IE","Direct_Aggregate",71
+1954,"Israel","IL","Direct_Aggregate",160
+1954,"Italy","IT","Direct_Aggregate",3720
+1954,"Japan","JP","Direct_Aggregate",12412
+1954,"Lebanon","LB","Direct_Aggregate",55
+1954,"Liechtenstein","LI","Direct_Aggregate",4
+1954,"Mexico","MX","Direct_Aggregate",386
+1954,"Morocco","MA","Direct_Aggregate",56
+1954,"New Zealand","NZ","Direct_Aggregate",245
+1954,"Norway","NO","Direct_Aggregate",1457
+1954,"Poland","PL","Direct_Aggregate",34
+1954,"Portugal","PT","Direct_Aggregate",301
+1954,"Republic of Korea","KR","Direct_Resident",76
+1954,"Republic of Korea","KR","Direct_NonResident",0
+1954,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Aggregate",65
+1954,"Spain","ES","Direct_Aggregate",1799
+1954,"Sri Lanka","LK","Direct_Aggregate",157
+1954,"Sweden","SE","Direct_Aggregate",149
+1954,"Switzerland","CH","Direct_Aggregate",27673
+1954,"Syrian Arab Republic","SY","Direct_Aggregate",171
+1954,"Trinidad and Tobago","TT","Direct_Aggregate",2
+1954,"Tunisia","TN","Direct_Aggregate",27
+1954,"United Kingdom","GB","Direct_Aggregate",9215
+1954,"United States of America","US","Direct_Aggregate",5465
+1955,"Australia","AU","Direct_Aggregate",1328
+1955,"Austria","AT","Direct_Aggregate",9465
+1955,"Belgium","BE","Direct_Aggregate",3063
+1955,"Brazil","BR","Direct_Aggregate",557
+1955,"Canada","CA","Direct_Aggregate",519
+1955,"Czechoslovakia","CS","Direct_Aggregate",107
+1955,"Denmark","DK","Direct_Aggregate",850
+1955,"Egypt","EG","Direct_Aggregate",1042
+1955,"France","FR","Direct_Aggregate",10908
+1955,"Hungary","HU","Direct_Aggregate",169
+1955,"Ireland","IE","Direct_Aggregate",74
+1955,"Israel","IL","Direct_Aggregate",375
+1955,"Japan","JP","Direct_Aggregate",14195
+1955,"Lebanon","LB","Direct_Aggregate",102
+1955,"Mexico","MX","Direct_Aggregate",441
+1955,"Morocco","MA","Direct_Aggregate",51
+1955,"New Zealand","NZ","Direct_Aggregate",255
+1955,"Norway","NO","Direct_Aggregate",1220
+1955,"Poland","PL","Direct_Aggregate",16
+1955,"Portugal","PT","Direct_Aggregate",232
+1955,"Republic of Korea","KR","Direct_Resident",216
+1955,"Republic of Korea","KR","Direct_NonResident",0
+1955,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Aggregate",92
+1955,"South Africa","ZA","Direct_Aggregate",638
+1955,"Spain","ES","Direct_Aggregate",2091
+1955,"Sri Lanka","LK","Direct_Aggregate",92
+1955,"Sweden","SE","Direct_Aggregate",155
+1955,"Switzerland","CH","Direct_Aggregate",26068
+1955,"Syrian Arab Republic","SY","Direct_Aggregate",167
+1955,"Trinidad and Tobago","TT","Direct_Aggregate",1
+1955,"Tunisia","TN","Direct_Aggregate",12
+1955,"United Kingdom","GB","Direct_Aggregate",9792
+1955,"United States of America","US","Direct_Aggregate",5764
+1956,"Australia","AU","Direct_Aggregate",1130
+1956,"Austria","AT","Direct_Aggregate",8139
+1956,"Belgium","BE","Direct_Aggregate",2554
+1956,"Brazil","BR","Direct_Aggregate",663
+1956,"Canada","CA","Direct_Aggregate",595
+1956,"Czechoslovakia","CS","Direct_Aggregate",253
+1956,"Denmark","DK","Direct_Aggregate",843
+1956,"Egypt","EG","Direct_Aggregate",832
+1956,"France","FR","Direct_Aggregate",8695
+1956,"German Dem. Rep.","D2","Direct_Aggregate",653
+1956,"Hungary","HU","Direct_Aggregate",141
+1956,"Ireland","IE","Direct_Aggregate",56
+1956,"Israel","IL","Direct_Aggregate",249
+1956,"Italy","IT","Direct_Aggregate",1903
+1956,"Japan","JP","Direct_Aggregate",17230
+1956,"Lebanon","LB","Direct_Aggregate",49
+1956,"Morocco","MA","Direct_Aggregate",37
+1956,"Norway","NO","Direct_Aggregate",1264
+1956,"Poland","PL","Direct_Aggregate",34
+1956,"Portugal","PT","Direct_Aggregate",282
+1956,"Republic of Korea","KR","Direct_Resident",179
+1956,"Republic of Korea","KR","Direct_NonResident",0
+1956,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Aggregate",94
+1956,"South Africa","ZA","Direct_Aggregate",463
+1956,"Spain","ES","Direct_Aggregate",2304
+1956,"Sri Lanka","LK","Direct_Aggregate",48
+1956,"Sweden","SE","Direct_Aggregate",155
+1956,"Switzerland","CH","Direct_Aggregate",24390
+1956,"Syrian Arab Republic","SY","Direct_Aggregate",370
+1956,"Trinidad and Tobago","TT","Direct_Aggregate",13
+1956,"Tunisia","TN","Direct_Aggregate",7
+1956,"United Kingdom","GB","Direct_Aggregate",9964
+1956,"United States of America","US","Direct_Aggregate",4824
+1957,"Australia","AU","Direct_Aggregate",1394
+1957,"Austria","AT","Direct_Aggregate",7755
+1957,"Belgium","BE","Direct_Aggregate",2587
+1957,"Canada","CA","Direct_Aggregate",624
+1957,"Czechoslovakia","CS","Direct_Aggregate",306
+1957,"Denmark","DK","Direct_Aggregate",811
+1957,"Egypt","EG","Direct_Aggregate",541
+1957,"France","FR","Direct_Aggregate",8297
+1957,"German Dem. Rep.","D2","Direct_Aggregate",1117
+1957,"Hungary","HU","Direct_Aggregate",434
+1957,"Ireland","IE","Direct_Aggregate",66
+1957,"Israel","IL","Direct_Aggregate",298
+1957,"Japan","JP","Direct_Aggregate",18747
+1957,"Lebanon","LB","Direct_Aggregate",34
+1957,"Liechtenstein","LI","Direct_Aggregate",3
+1957,"Mexico","MX","Direct_Aggregate",524
+1957,"Monaco","MC","Direct_Aggregate",51
+1957,"Morocco","MA","Direct_Aggregate",42
+1957,"New Zealand","NZ","Direct_Aggregate",272
+1957,"Norway","NO","Direct_Aggregate",1149
+1957,"Poland","PL","Direct_Aggregate",20
+1957,"Portugal","PT","Direct_Aggregate",240
+1957,"Republic of Korea","KR","Direct_Resident",276
+1957,"Republic of Korea","KR","Direct_NonResident",0
+1957,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Aggregate",105
+1957,"South Africa","ZA","Direct_Aggregate",534
+1957,"Spain","ES","Direct_Aggregate",2206
+1957,"Sri Lanka","LK","Direct_Aggregate",15
+1957,"Sweden","SE","Direct_Aggregate",130
+1957,"Switzerland","CH","Direct_Aggregate",30742
+1957,"Syrian Arab Republic","SY","Direct_Aggregate",53
+1957,"Trinidad and Tobago","TT","Direct_Aggregate",1
+1957,"Tunisia","TN","Direct_Aggregate",26
+1957,"United Kingdom","GB","Direct_Aggregate",10512
+1957,"United States of America","US","Direct_Aggregate",4714
+1958,"Australia","AU","Direct_Aggregate",1362
+1958,"Austria","AT","Direct_Aggregate",8962
+1958,"Belgium","BE","Direct_Aggregate",3571
+1958,"Brazil","BR","Direct_Aggregate",900
+1958,"Canada","CA","Direct_Aggregate",741
+1958,"Czechoslovakia","CS","Direct_Aggregate",103
+1958,"Denmark","DK","Direct_Aggregate",894
+1958,"Egypt","EG","Direct_Aggregate",279
+1958,"France","FR","Direct_Aggregate",9028
+1958,"German Dem. Rep.","D2","Direct_Aggregate",1145
+1958,"Hungary","HU","Direct_Aggregate",489
+1958,"Ireland","IE","Direct_Aggregate",68
+1958,"Israel","IL","Direct_Aggregate",240
+1958,"Japan","JP","Direct_Aggregate",27124
+1958,"Lebanon","LB","Direct_Aggregate",14
+1958,"Monaco","MC","Direct_Aggregate",23
+1958,"Morocco","MA","Direct_Aggregate",47
+1958,"New Zealand","NZ","Direct_Aggregate",236
+1958,"Norway","NO","Direct_Aggregate",1212
+1958,"Poland","PL","Direct_Aggregate",64
+1958,"Portugal","PT","Direct_Aggregate",273
+1958,"Republic of Korea","KR","Direct_Resident",358
+1958,"Republic of Korea","KR","Direct_NonResident",0
+1958,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Aggregate",118
+1958,"Spain","ES","Direct_Aggregate",2388
+1958,"Sri Lanka","LK","Direct_Aggregate",5
+1958,"Sweden","SE","Direct_Aggregate",184
+1958,"Switzerland","CH","Direct_Aggregate",32979
+1958,"Trinidad and Tobago","TT","Direct_Aggregate",3
+1958,"Tunisia","TN","Direct_Aggregate",6
+1958,"United Kingdom","GB","Direct_Aggregate",10891
+1958,"United States of America","US","Direct_Aggregate",4423
+1958,"Zimbabwe","ZW","Direct_Aggregate",5
+1959,"Australia","AU","Direct_Aggregate",1366
+1959,"Austria","AT","Direct_Aggregate",8279
+1959,"Belgium","BE","Direct_Aggregate",2411
+1959,"Canada","CA","Direct_Aggregate",798
+1959,"Czechoslovakia","CS","Direct_Aggregate",196
+1959,"Denmark","DK","Direct_Aggregate",725
+1959,"Egypt","EG","Direct_Aggregate",99
+1959,"France","FR","Direct_Aggregate",9242
+1959,"German Dem. Rep.","D2","Direct_Aggregate",556
+1959,"Hungary","HU","Direct_Aggregate",301
+1959,"Ireland","IE","Direct_Aggregate",53
+1959,"Israel","IL","Direct_Aggregate",308
+1959,"Japan","JP","Direct_Aggregate",26368
+1959,"Lebanon","LB","Direct_Aggregate",93
+1959,"Monaco","MC","Direct_Aggregate",36
+1959,"Morocco","MA","Direct_Aggregate",41
+1959,"New Zealand","NZ","Direct_Aggregate",257
+1959,"Norway","NO","Direct_Aggregate",1167
+1959,"Poland","PL","Direct_Aggregate",78
+1959,"Republic of Korea","KR","Direct_Resident",361
+1959,"Republic of Korea","KR","Direct_NonResident",1
+1959,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Aggregate",120
+1959,"Sweden","SE","Direct_Aggregate",194
+1959,"Switzerland","CH","Direct_Aggregate",27473
+1959,"Trinidad and Tobago","TT","Direct_Aggregate",10
+1959,"Tunisia","TN","Direct_Aggregate",10
+1959,"United Kingdom","GB","Direct_Aggregate",9098
+1959,"United States of America","US","Direct_Aggregate",4879
+1959,"Zimbabwe","ZW","Direct_Aggregate",69
+1960,"Australia","AU","Direct_Aggregate",1278
+1960,"Austria","AT","Direct_Aggregate",7588
+1960,"Belgium","BE","Direct_Aggregate",2410
+1960,"Canada","CA","Direct_Aggregate",812
+1960,"Czechoslovakia","CS","Direct_Aggregate",139
+1960,"Denmark","DK","Direct_Aggregate",739
+1960,"Egypt","EG","Direct_Aggregate",230
+1960,"France","FR","Direct_Aggregate",8331
+1960,"German Dem. Rep.","D2","Direct_Aggregate",572
+1960,"Hungary","HU","Direct_Aggregate",252
+1960,"Ireland","IE","Direct_Aggregate",89
+1960,"Israel","IL","Direct_Aggregate",375
+1960,"Japan","JP","Direct_Aggregate",24536
+1960,"Lebanon","LB","Direct_Aggregate",110
+1960,"Mexico","MX","Direct_Aggregate",269
+1960,"Monaco","MC","Direct_Aggregate",31
+1960,"Morocco","MA","Direct_Aggregate",36
+1960,"New Zealand","NZ","Direct_Aggregate",353
+1960,"Norway","NO","Direct_Aggregate",1030
+1960,"Portugal","PT","Direct_Aggregate",329
+1960,"Republic of Korea","KR","Direct_Resident",328
+1960,"Republic of Korea","KR","Direct_NonResident",1
+1960,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Aggregate",71
+1960,"South Africa","ZA","Direct_Aggregate",886
+1960,"Spain","ES","Direct_Aggregate",2639
+1960,"Sri Lanka","LK","Direct_Aggregate",16
+1960,"Sweden","SE","Direct_Aggregate",229
+1960,"Switzerland","CH","Direct_Aggregate",20215
+1960,"Trinidad and Tobago","TT","Direct_Aggregate",8
+1960,"Tunisia","TN","Direct_Aggregate",18
+1960,"United Kingdom","GB","Direct_Aggregate",9237
+1960,"United States of America","US","Direct_Aggregate",4525
+1960,"Zimbabwe","ZW","Direct_Aggregate",51
+1961,"Australia","AU","Direct_Aggregate",1413
+1961,"Austria","AT","Direct_Aggregate",6619
+1961,"Belgium","BE","Direct_Aggregate",1904
+1961,"Canada","CA","Direct_Aggregate",832
+1961,"Czechoslovakia","CS","Direct_Aggregate",123
+1961,"Denmark","DK","Direct_Aggregate",688
+1961,"Egypt","EG","Direct_Aggregate",177
+1961,"France","FR","Direct_Aggregate",7955
+1961,"German Dem. Rep.","D2","Direct_Aggregate",390
+1961,"Hungary","HU","Direct_Aggregate",248
+1961,"Ireland","IE","Direct_Aggregate",90
+1961,"Israel","IL","Direct_Aggregate",319
+1961,"Italy","IT","Direct_Aggregate",6295
+1961,"Japan","JP","Direct_Aggregate",23462
+1961,"Lebanon","LB","Direct_Aggregate",42
+1961,"Mexico","MX","Direct_Aggregate",331
+1961,"Morocco","MA","Direct_Aggregate",42
+1961,"New Zealand","NZ","Direct_Aggregate",346
+1961,"Norway","NO","Direct_Aggregate",964
+1961,"Poland","PL","Direct_Aggregate",110
+1961,"Portugal","PT","Direct_Aggregate",268
+1961,"Republic of Korea","KR","Direct_Resident",465
+1961,"Republic of Korea","KR","Direct_NonResident",5
+1961,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Aggregate",118
+1961,"South Africa","ZA","Direct_Aggregate",832
+1961,"Spain","ES","Direct_Aggregate",3949
+1961,"Sri Lanka","LK","Direct_Aggregate",22
+1961,"Sweden","SE","Direct_Aggregate",245
+1961,"Switzerland","CH","Direct_Aggregate",15073
+1961,"Syrian Arab Republic","SY","Direct_Aggregate",172
+1961,"Trinidad and Tobago","TT","Direct_Aggregate",18
+1961,"United Kingdom","GB","Direct_Aggregate",9427
+1961,"United States of America","US","Direct_Aggregate",4714
+1961,"Zimbabwe","ZW","Direct_Aggregate",56
+1962,"Australia","AU","Direct_Aggregate",1357
+1962,"Austria","AT","Direct_Aggregate",7466
+1962,"Belgium","BE","Direct_Aggregate",1851
+1962,"Canada","CA","Direct_Aggregate",750
+1962,"Czechoslovakia","CS","Direct_Aggregate",345
+1962,"Denmark","DK","Direct_Aggregate",753
+1962,"Egypt","EG","Direct_Aggregate",553
+1962,"France","FR","Direct_Aggregate",8306
+1962,"German Dem. Rep.","D2","Direct_Aggregate",352
+1962,"Hungary","HU","Direct_Aggregate",294
+1962,"Ireland","IE","Direct_Aggregate",73
+1962,"Israel","IL","Direct_Aggregate",233
+1962,"Japan","JP","Direct_Aggregate",28283
+1962,"Lebanon","LB","Direct_Aggregate",88
+1962,"Liechtenstein","LI","Direct_Aggregate",2
+1962,"Mexico","MX","Direct_Aggregate",265
+1962,"Monaco","MC","Direct_Aggregate",24
+1962,"Morocco","MA","Direct_Aggregate",37
+1962,"New Zealand","NZ","Direct_Aggregate",308
+1962,"Norway","NO","Direct_Aggregate",967
+1962,"Poland","PL","Direct_Aggregate",126
+1962,"Portugal","PT","Direct_Aggregate",378
+1962,"Republic of Korea","KR","Direct_Resident",565
+1962,"Republic of Korea","KR","Direct_NonResident",5
+1962,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Aggregate",131
+1962,"South Africa","ZA","Direct_Aggregate",928
+1962,"Spain","ES","Direct_Aggregate",2712
+1962,"Sri Lanka","LK","Direct_Aggregate",5
+1962,"Sweden","SE","Direct_Aggregate",238
+1962,"Switzerland","CH","Direct_Aggregate",941
+1962,"Syrian Arab Republic","SY","Direct_Aggregate",16
+1962,"United Kingdom","GB","Direct_Aggregate",7780
+1962,"United States of America","US","Direct_Aggregate",4910
+1962,"Zimbabwe","ZW","Direct_Aggregate",31
+1963,"Australia","AU","Direct_Aggregate",1425
+1963,"Austria","AT","Direct_Resident",5081
+1963,"Austria","AT","Direct_NonResident",2271
+1963,"Belgium","BE","Direct_Resident",2123
+1963,"Belgium","BE","Direct_NonResident",168
+1963,"Canada","CA","Direct_Aggregate",892
+1963,"Chile","CL","Direct_Resident",64
+1963,"Chile","CL","Direct_NonResident",3
+1963,"Colombia","CO","Direct_Resident",65
+1963,"Colombia","CO","Direct_NonResident",24
+1963,"Cuba","CU","Direct_Resident",9
+1963,"Czechoslovakia","CS","Direct_Resident",350
+1963,"Czechoslovakia","CS","Direct_NonResident",11
+1963,"Denmark","DK","Direct_Aggregate",852
+1963,"France","FR","Direct_Resident",7365
+1963,"France","FR","Direct_NonResident",924
+1963,"German Dem. Rep.","D2","Direct_Aggregate",633
+1963,"Hungary","HU","Direct_Resident",431
+1963,"Hungary","HU","Direct_NonResident",2
+1963,"India","IN","Direct_Resident",4075
+1963,"India","IN","Direct_NonResident",90
+1963,"Ireland","IE","Direct_Resident",7
+1963,"Ireland","IE","Direct_NonResident",98
+1963,"Israel","IL","Direct_Resident",219
+1963,"Israel","IL","Direct_NonResident",48
+1963,"Italy","IT","Direct_Resident",1694
+1963,"Italy","IT","Direct_NonResident",355
+1963,"Jamaica","JM","Direct_Resident",5
+1963,"Jamaica","JM","Direct_NonResident",4
+1963,"Japan","JP","Direct_Resident",33534
+1963,"Japan","JP","Direct_NonResident",337
+1963,"Lebanon","LB","Direct_Resident",211
+1963,"Lebanon","LB","Direct_NonResident",124
+1963,"Liechtenstein","LI","Direct_Resident",5
+1963,"Malta","MT","Direct_Resident",1
+1963,"Mexico","MX","Direct_Resident",167
+1963,"Mexico","MX","Direct_NonResident",106
+1963,"Monaco","MC","Direct_Resident",13
+1963,"Morocco","MA","Direct_Resident",33
+1963,"Morocco","MA","Direct_NonResident",9
+1963,"New Zealand","NZ","Direct_Resident",177
+1963,"New Zealand","NZ","Direct_NonResident",189
+1963,"Norway","NO","Direct_Resident",751
+1963,"Norway","NO","Direct_NonResident",193
+1963,"Peru","PE","Direct_Aggregate",56
+1963,"Philippines","PH","Direct_Resident",93
+1963,"Philippines","PH","Direct_NonResident",24
+1963,"Poland","PL","Direct_Resident",69
+1963,"Poland","PL","Direct_NonResident",3
+1963,"Portugal","PT","Direct_NonResident",433
+1963,"Republic of Korea","KR","Direct_Resident",726
+1963,"Republic of Korea","KR","Direct_NonResident",3
+1963,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Resident",141
+1963,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_NonResident",27
+1963,"South Africa","ZA","Direct_Resident",926
+1963,"South Africa","ZA","Direct_NonResident",230
+1963,"Spain","ES","Direct_Aggregate",3248
+1963,"Sri Lanka","LK","Direct_Resident",4
+1963,"Sri Lanka","LK","Direct_NonResident",4
+1963,"Sweden","SE","Direct_Resident",166
+1963,"Sweden","SE","Direct_NonResident",109
+1963,"Switzerland","CH","Direct_Resident",818
+1963,"Switzerland","CH","Direct_NonResident",145
+1963,"Syrian Arab Republic","SY","Direct_Resident",96
+1963,"Syrian Arab Republic","SY","Direct_NonResident",1
+1963,"Trinidad and Tobago","TT","Direct_Resident",3
+1963,"Trinidad and Tobago","TT","Direct_NonResident",9
+1963,"Tunisia","TN","Direct_Resident",23
+1963,"United Kingdom","GB","Direct_Resident",5758
+1963,"United Kingdom","GB","Direct_NonResident",2157
+1963,"United States of America","US","Direct_Resident",4632
+1963,"United States of America","US","Direct_NonResident",336
+1963,"Venezuela","VE","Direct_Resident",48
+1963,"Venezuela","VE","Direct_NonResident",14
+1963,"Zimbabwe","ZW","Direct_Resident",8
+1963,"Zimbabwe","ZW","Direct_NonResident",30
+1964,"Australia","AU","Direct_Aggregate",1572
+1964,"Belgium","BE","Direct_Resident",1315
+1964,"Belgium","BE","Direct_NonResident",195
+1964,"Canada","CA","Direct_Aggregate",881
+1964,"Colombia","CO","Direct_Resident",61
+1964,"Colombia","CO","Direct_NonResident",22
+1964,"Czechoslovakia","CS","Direct_Resident",526
+1964,"Czechoslovakia","CS","Direct_NonResident",8
+1964,"Denmark","DK","Direct_Aggregate",750
+1964,"Egypt","EG","Direct_Resident",70
+1964,"Egypt","EG","Direct_NonResident",16
+1964,"France","FR","Direct_Resident",8233
+1964,"France","FR","Direct_NonResident",741
+1964,"German Dem. Rep.","D2","Direct_Resident",602
+1964,"German Dem. Rep.","D2","Direct_NonResident",8
+1964,"Germany","DE","Direct_NonResident",479
+1964,"Hungary","HU","Direct_Resident",286
+1964,"Hungary","HU","Direct_NonResident",23
+1964,"India","IN","Direct_Resident",3603
+1964,"India","IN","Direct_NonResident",97
+1964,"Ireland","IE","Direct_Resident",19
+1964,"Ireland","IE","Direct_NonResident",113
+1964,"Israel","IL","Direct_Resident",190
+1964,"Israel","IL","Direct_NonResident",27
+1964,"Japan","JP","Direct_Resident",35734
+1964,"Japan","JP","Direct_NonResident",476
+1964,"Lebanon","LB","Direct_Resident",31
+1964,"Lebanon","LB","Direct_NonResident",17
+1964,"Liechtenstein","LI","Direct_Resident",6
+1964,"Liechtenstein","LI","Direct_NonResident",3
+1964,"Malawi","MW","Direct_NonResident",4
+1964,"Mexico","MX","Direct_Resident",160
+1964,"Mexico","MX","Direct_NonResident",155
+1964,"Monaco","MC","Direct_Resident",6
+1964,"Morocco","MA","Direct_Resident",35
+1964,"Morocco","MA","Direct_NonResident",7
+1964,"New Zealand","NZ","Direct_Resident",203
+1964,"New Zealand","NZ","Direct_NonResident",237
+1964,"Norway","NO","Direct_Resident",830
+1964,"Norway","NO","Direct_NonResident",176
+1964,"Pakistan","PK","Direct_Resident",272
+1964,"Pakistan","PK","Direct_NonResident",27
+1964,"Peru","PE","Direct_Resident",49
+1964,"Peru","PE","Direct_NonResident",15
+1964,"Philippines","PH","Direct_Resident",37
+1964,"Philippines","PH","Direct_NonResident",18
+1964,"Poland","PL","Direct_Resident",93
+1964,"Poland","PL","Direct_NonResident",5
+1964,"Portugal","PT","Direct_NonResident",393
+1964,"Republic of Korea","KR","Direct_Resident",801
+1964,"Republic of Korea","KR","Direct_NonResident",3
+1964,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Resident",158
+1964,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_NonResident",18
+1964,"Spain","ES","Direct_Aggregate",3698
+1964,"Sri Lanka","LK","Direct_Resident",9
+1964,"Sri Lanka","LK","Direct_NonResident",4
+1964,"Sweden","SE","Direct_Resident",154
+1964,"Sweden","SE","Direct_NonResident",109
+1964,"Switzerland","CH","Direct_Resident",687
+1964,"Switzerland","CH","Direct_NonResident",128
+1964,"Trinidad and Tobago","TT","Direct_NonResident",9
+1964,"Tunisia","TN","Direct_Resident",6
+1964,"United Kingdom","GB","Direct_Resident",6416
+1964,"United Kingdom","GB","Direct_NonResident",1911
+1964,"United States of America","US","Direct_Resident",4926
+1964,"United States of America","US","Direct_NonResident",333
+1964,"Venezuela","VE","Direct_Resident",75
+1964,"Venezuela","VE","Direct_NonResident",26
+1964,"Zimbabwe","ZW","Direct_Resident",4
+1964,"Zimbabwe","ZW","Direct_NonResident",35
+1965,"Argentina","AR","Direct_Resident",1264
+1965,"Argentina","AR","Direct_NonResident",83
+1965,"Australia","AU","Direct_Resident",1260
+1965,"Australia","AU","Direct_NonResident",386
+1965,"Belgium","BE","Direct_Resident",378
+1965,"Belgium","BE","Direct_NonResident",165
+1965,"Canada","CA","Direct_Aggregate",1021
+1965,"Colombia","CO","Direct_Resident",46
+1965,"Colombia","CO","Direct_NonResident",4
+1965,"Czechoslovakia","CS","Direct_Resident",300
+1965,"Czechoslovakia","CS","Direct_NonResident",13
+1965,"Denmark","DK","Direct_Aggregate",819
+1965,"Egypt","EG","Direct_Resident",65
+1965,"Egypt","EG","Direct_NonResident",10
+1965,"France","FR","Direct_Resident",10459
+1965,"France","FR","Direct_NonResident",805
+1965,"German Dem. Rep.","D2","Direct_Resident",776
+1965,"German Dem. Rep.","D2","Direct_NonResident",7
+1965,"Germany","DE","Direct_NonResident",484
+1965,"Hungary","HU","Direct_Resident",345
+1965,"Hungary","HU","Direct_NonResident",6
+1965,"India","IN","Direct_Resident",3168
+1965,"India","IN","Direct_NonResident",54
+1965,"Ireland","IE","Direct_Resident",28
+1965,"Ireland","IE","Direct_NonResident",126
+1965,"Israel","IL","Direct_Resident",188
+1965,"Israel","IL","Direct_NonResident",37
+1965,"Italy","IT","Direct_Resident",2668
+1965,"Japan","JP","Direct_Resident",36615
+1965,"Japan","JP","Direct_NonResident",647
+1965,"Lebanon","LB","Direct_Resident",140
+1965,"Lebanon","LB","Direct_NonResident",5
+1965,"Liechtenstein","LI","Direct_Resident",6
+1965,"Liechtenstein","LI","Direct_NonResident",2
+1965,"Malawi","MW","Direct_NonResident",9
+1965,"Malta","MT","Direct_Resident",4
+1965,"Malta","MT","Direct_NonResident",2
+1965,"Mexico","MX","Direct_Resident",165
+1965,"Mexico","MX","Direct_NonResident",111
+1965,"Monaco","MC","Direct_Resident",14
+1965,"Monaco","MC","Direct_NonResident",2
+1965,"Morocco","MA","Direct_Resident",49
+1965,"Morocco","MA","Direct_NonResident",4
+1965,"New Zealand","NZ","Direct_Resident",168
+1965,"New Zealand","NZ","Direct_NonResident",174
+1965,"Norway","NO","Direct_Resident",718
+1965,"Norway","NO","Direct_NonResident",198
+1965,"Pakistan","PK","Direct_Resident",287
+1965,"Pakistan","PK","Direct_NonResident",18
+1965,"Philippines","PH","Direct_Resident",42
+1965,"Philippines","PH","Direct_NonResident",29
+1965,"Poland","PL","Direct_Resident",94
+1965,"Poland","PL","Direct_NonResident",4
+1965,"Portugal","PT","Direct_NonResident",259
+1965,"Republic of Korea","KR","Direct_Resident",824
+1965,"Republic of Korea","KR","Direct_NonResident",1
+1965,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Resident",114
+1965,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_NonResident",7
+1965,"Spain","ES","Direct_Resident",4042
+1965,"Spain","ES","Direct_NonResident",20
+1965,"Sri Lanka","LK","Direct_Resident",10
+1965,"Sri Lanka","LK","Direct_NonResident",8
+1965,"Sweden","SE","Direct_Resident",147
+1965,"Sweden","SE","Direct_NonResident",144
+1965,"Switzerland","CH","Direct_Resident",751
+1965,"Switzerland","CH","Direct_NonResident",163
+1965,"Syrian Arab Republic","SY","Direct_Resident",24
+1965,"Syrian Arab Republic","SY","Direct_NonResident",1
+1965,"Trinidad and Tobago","TT","Direct_Resident",3
+1965,"Trinidad and Tobago","TT","Direct_NonResident",7
+1965,"Tunisia","TN","Direct_NonResident",2
+1965,"United Kingdom","GB","Direct_Resident",5917
+1965,"United Kingdom","GB","Direct_NonResident",2188
+1965,"United States of America","US","Direct_Resident",5064
+1965,"United States of America","US","Direct_NonResident",349
+1965,"Venezuela","VE","Direct_Resident",93
+1965,"Venezuela","VE","Direct_NonResident",37
+1965,"Zimbabwe","ZW","Direct_Resident",4
+1965,"Zimbabwe","ZW","Direct_NonResident",26
+1966,"Australia","AU","Direct_Resident",1110
+1966,"Australia","AU","Direct_NonResident",413
+1966,"Belgium","BE","Direct_Resident",2310
+1966,"Belgium","BE","Direct_NonResident",209
+1966,"Brazil","BR","Direct_Resident",876
+1966,"Brazil","BR","Direct_NonResident",54
+1966,"Canada","CA","Direct_Aggregate",1217
+1966,"Colombia","CO","Direct_Resident",58
+1966,"Colombia","CO","Direct_NonResident",16
+1966,"Czechoslovakia","CS","Direct_Resident",618
+1966,"Czechoslovakia","CS","Direct_NonResident",17
+1966,"Denmark","DK","Direct_Aggregate",764
+1966,"Egypt","EG","Direct_Resident",79
+1966,"Egypt","EG","Direct_NonResident",2
+1966,"France","FR","Direct_Resident",12622
+1966,"France","FR","Direct_NonResident",642
+1966,"German Dem. Rep.","D2","Direct_Resident",664
+1966,"German Dem. Rep.","D2","Direct_NonResident",12
+1966,"Germany","DE","Direct_NonResident",1015
+1966,"Hungary","HU","Direct_Resident",348
+1966,"Hungary","HU","Direct_NonResident",12
+1966,"India","IN","Direct_Resident",2383
+1966,"India","IN","Direct_NonResident",55
+1966,"Ireland","IE","Direct_Resident",35
+1966,"Ireland","IE","Direct_NonResident",76
+1966,"Israel","IL","Direct_Resident",150
+1966,"Israel","IL","Direct_NonResident",32
+1966,"Italy","IT","Direct_Resident",2383
+1966,"Italy","IT","Direct_NonResident",573
+1966,"Japan","JP","Direct_Resident",39357
+1966,"Japan","JP","Direct_NonResident",585
+1966,"Lebanon","LB","Direct_Resident",202
+1966,"Lebanon","LB","Direct_NonResident",65
+1966,"Liechtenstein","LI","Direct_Resident",4
+1966,"Liechtenstein","LI","Direct_NonResident",1
+1966,"Malawi","MW","Direct_NonResident",8
+1966,"Malta","MT","Direct_Resident",5
+1966,"Malta","MT","Direct_NonResident",2
+1966,"Mexico","MX","Direct_Resident",203
+1966,"Mexico","MX","Direct_NonResident",135
+1966,"Monaco","MC","Direct_Resident",3
+1966,"Monaco","MC","Direct_NonResident",2
+1966,"Morocco","MA","Direct_Resident",40
+1966,"Morocco","MA","Direct_NonResident",7
+1966,"New Zealand","NZ","Direct_Resident",186
+1966,"New Zealand","NZ","Direct_NonResident",197
+1966,"Norway","NO","Direct_Resident",593
+1966,"Norway","NO","Direct_NonResident",176
+1966,"Pakistan","PK","Direct_Resident",183
+1966,"Pakistan","PK","Direct_NonResident",11
+1966,"Philippines","PH","Direct_Resident",54
+1966,"Philippines","PH","Direct_NonResident",17
+1966,"Poland","PL","Direct_Resident",156
+1966,"Poland","PL","Direct_NonResident",10
+1966,"Portugal","PT","Direct_NonResident",433
+1966,"Republic of Korea","KR","Direct_Resident",1328
+1966,"Republic of Korea","KR","Direct_NonResident",10
+1966,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Resident",184
+1966,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_NonResident",20
+1966,"Sierra Leone","SL","Direct_NonResident",1
+1966,"Spain","ES","Direct_Resident",411
+1966,"Spain","ES","Direct_NonResident",48
+1966,"Sri Lanka","LK","Direct_Resident",10
+1966,"Sri Lanka","LK","Direct_NonResident",7
+1966,"Sweden","SE","Direct_Resident",247
+1966,"Sweden","SE","Direct_NonResident",130
+1966,"Switzerland","CH","Direct_Resident",694
+1966,"Switzerland","CH","Direct_NonResident",144
+1966,"Syrian Arab Republic","SY","Direct_Resident",42
+1966,"Syrian Arab Republic","SY","Direct_NonResident",11
+1966,"Trinidad and Tobago","TT","Direct_Resident",9
+1966,"Trinidad and Tobago","TT","Direct_NonResident",6
+1966,"Tunisia","TN","Direct_Resident",3
+1966,"Tunisia","TN","Direct_NonResident",1
+1966,"United Kingdom","GB","Direct_Resident",5442
+1966,"United Kingdom","GB","Direct_NonResident",3035
+1966,"United States of America","US","Direct_Resident",4305
+1966,"United States of America","US","Direct_NonResident",548
+1966,"Venezuela","VE","Direct_Resident",56
+1966,"Venezuela","VE","Direct_NonResident",27
+1966,"Zambia","ZM","Direct_NonResident",31
+1966,"Zimbabwe","ZW","Direct_Resident",13
+1966,"Zimbabwe","ZW","Direct_NonResident",28
+1967,"Algeria","DZ","Direct_Resident",16
+1967,"Algeria","DZ","Direct_NonResident",54
+1967,"Australia","AU","Direct_Resident",1175
+1967,"Australia","AU","Direct_NonResident",452
+1967,"Belgium","BE","Direct_Resident",1765
+1967,"Belgium","BE","Direct_NonResident",347
+1967,"Brazil","BR","Direct_Resident",1098
+1967,"Brazil","BR","Direct_NonResident",100
+1967,"Canada","CA","Direct_Aggregate",1268
+1967,"Colombia","CO","Direct_Resident",62
+1967,"Colombia","CO","Direct_NonResident",22
+1967,"Czechoslovakia","CS","Direct_Resident",774
+1967,"Czechoslovakia","CS","Direct_NonResident",27
+1967,"Denmark","DK","Direct_Aggregate",728
+1967,"Egypt","EG","Direct_Resident",68
+1967,"Egypt","EG","Direct_NonResident",8
+1967,"France","FR","Direct_Resident",11467
+1967,"France","FR","Direct_NonResident",1419
+1967,"German Dem. Rep.","D2","Direct_Resident",591
+1967,"German Dem. Rep.","D2","Direct_NonResident",20
+1967,"Germany","DE","Direct_NonResident",1151
+1967,"Hungary","HU","Direct_Resident",393
+1967,"Hungary","HU","Direct_NonResident",12
+1967,"India","IN","Direct_Resident",2513
+1967,"India","IN","Direct_NonResident",63
+1967,"Ireland","IE","Direct_Resident",21
+1967,"Ireland","IE","Direct_NonResident",93
+1967,"Israel","IL","Direct_Resident",147
+1967,"Israel","IL","Direct_NonResident",26
+1967,"Italy","IT","Direct_Resident",2219
+1967,"Italy","IT","Direct_NonResident",584
+1967,"Japan","JP","Direct_Resident",37362
+1967,"Japan","JP","Direct_NonResident",608
+1967,"Lebanon","LB","Direct_Resident",62
+1967,"Lebanon","LB","Direct_NonResident",36
+1967,"Liechtenstein","LI","Direct_Resident",4
+1967,"Liechtenstein","LI","Direct_NonResident",2
+1967,"Malawi","MW","Direct_NonResident",6
+1967,"Malta","MT","Direct_Resident",26
+1967,"Malta","MT","Direct_NonResident",5
+1967,"Monaco","MC","Direct_Resident",4
+1967,"Monaco","MC","Direct_NonResident",30
+1967,"Morocco","MA","Direct_Resident",45
+1967,"Morocco","MA","Direct_NonResident",8
+1967,"New Zealand","NZ","Direct_Resident",200
+1967,"New Zealand","NZ","Direct_NonResident",186
+1967,"Norway","NO","Direct_Resident",742
+1967,"Norway","NO","Direct_NonResident",243
+1967,"Pakistan","PK","Direct_Resident",120
+1967,"Pakistan","PK","Direct_NonResident",19
+1967,"Philippines","PH","Direct_Resident",47
+1967,"Philippines","PH","Direct_NonResident",19
+1967,"Poland","PL","Direct_Resident",171
+1967,"Poland","PL","Direct_NonResident",11
+1967,"Portugal","PT","Direct_NonResident",443
+1967,"Republic of Korea","KR","Direct_Resident",1901
+1967,"Republic of Korea","KR","Direct_NonResident",18
+1967,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Resident",292
+1967,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_NonResident",31
+1967,"Soviet Union","SU","Direct_Resident",971
+1967,"Soviet Union","SU","Direct_NonResident",6
+1967,"Spain","ES","Direct_Resident",3754
+1967,"Spain","ES","Direct_NonResident",221
+1967,"Sri Lanka","LK","Direct_Resident",4
+1967,"Sri Lanka","LK","Direct_NonResident",4
+1967,"Sweden","SE","Direct_Resident",243
+1967,"Sweden","SE","Direct_NonResident",140
+1967,"Switzerland","CH","Direct_Resident",623
+1967,"Switzerland","CH","Direct_NonResident",165
+1967,"Syrian Arab Republic","SY","Direct_Resident",25
+1967,"Syrian Arab Republic","SY","Direct_NonResident",3
+1967,"Trinidad and Tobago","TT","Direct_NonResident",4
+1967,"Tunisia","TN","Direct_Resident",14
+1967,"Tunisia","TN","Direct_NonResident",8
+1967,"United Kingdom","GB","Direct_Resident",5317
+1967,"United Kingdom","GB","Direct_NonResident",2982
+1967,"United States of America","US","Direct_Resident",4320
+1967,"United States of America","US","Direct_NonResident",424
+1967,"Venezuela","VE","Direct_Resident",70
+1967,"Venezuela","VE","Direct_NonResident",22
+1967,"Zimbabwe","ZW","Direct_Resident",12
+1967,"Zimbabwe","ZW","Direct_NonResident",34
+1968,"African Intellectual Property Organization","OA","Direct_Resident",7
+1968,"African Intellectual Property Organization","OA","Direct_NonResident",12
+1968,"Algeria","DZ","Direct_Resident",18
+1968,"Algeria","DZ","Direct_NonResident",8
+1968,"Argentina","AR","Direct_Resident",3229
+1968,"Argentina","AR","Direct_NonResident",140
+1968,"Australia","AU","Direct_Resident",1337
+1968,"Australia","AU","Direct_NonResident",432
+1968,"Belgium","BE","Direct_Resident",1197
+1968,"Belgium","BE","Direct_NonResident",333
+1968,"Brazil","BR","Direct_Resident",948
+1968,"Brazil","BR","Direct_NonResident",115
+1968,"Canada","CA","Direct_Aggregate",1384
+1968,"Colombia","CO","Direct_Resident",58
+1968,"Colombia","CO","Direct_NonResident",23
+1968,"Czechoslovakia","CS","Direct_Resident",595
+1968,"Czechoslovakia","CS","Direct_NonResident",30
+1968,"Denmark","DK","Direct_Aggregate",793
+1968,"Egypt","EG","Direct_Resident",85
+1968,"Egypt","EG","Direct_NonResident",16
+1968,"France","FR","Direct_Resident",11032
+1968,"France","FR","Direct_NonResident",1041
+1968,"German Dem. Rep.","D2","Direct_Resident",677
+1968,"German Dem. Rep.","D2","Direct_NonResident",16
+1968,"Germany","DE","Direct_NonResident",1108
+1968,"Hungary","HU","Direct_Resident",680
+1968,"Hungary","HU","Direct_NonResident",53
+1968,"India","IN","Direct_Resident",2393
+1968,"India","IN","Direct_NonResident",45
+1968,"Ireland","IE","Direct_Resident",20
+1968,"Ireland","IE","Direct_NonResident",90
+1968,"Israel","IL","Direct_Resident",156
+1968,"Israel","IL","Direct_NonResident",50
+1968,"Italy","IT","Direct_Resident",2708
+1968,"Italy","IT","Direct_NonResident",754
+1968,"Japan","JP","Direct_Resident",38620
+1968,"Japan","JP","Direct_NonResident",760
+1968,"Lebanon","LB","Direct_Resident",68
+1968,"Lebanon","LB","Direct_NonResident",19
+1968,"Liechtenstein","LI","Direct_Resident",4
+1968,"Liechtenstein","LI","Direct_NonResident",2
+1968,"Malawi","MW","Direct_NonResident",7
+1968,"Malta","MT","Direct_Resident",10
+1968,"Malta","MT","Direct_NonResident",3
+1968,"Mexico","MX","Direct_Resident",268
+1968,"Mexico","MX","Direct_NonResident",179
+1968,"Monaco","MC","Direct_Resident",3
+1968,"Monaco","MC","Direct_NonResident",4
+1968,"Morocco","MA","Direct_Resident",58
+1968,"Morocco","MA","Direct_NonResident",3
+1968,"New Zealand","NZ","Direct_Resident",261
+1968,"New Zealand","NZ","Direct_NonResident",169
+1968,"Norway","NO","Direct_Resident",673
+1968,"Norway","NO","Direct_NonResident",192
+1968,"Pakistan","PK","Direct_Resident",148
+1968,"Pakistan","PK","Direct_NonResident",22
+1968,"Philippines","PH","Direct_Resident",71
+1968,"Philippines","PH","Direct_NonResident",28
+1968,"Poland","PL","Direct_Resident",174
+1968,"Poland","PL","Direct_NonResident",26
+1968,"Portugal","PT","Direct_NonResident",341
+1968,"Republic of Korea","KR","Direct_Resident",3237
+1968,"Republic of Korea","KR","Direct_NonResident",40
+1968,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Resident",355
+1968,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_NonResident",67
+1968,"Soviet Union","SU","Direct_Resident",1015
+1968,"Soviet Union","SU","Direct_NonResident",11
+1968,"Spain","ES","Direct_Resident",3895
+1968,"Spain","ES","Direct_NonResident",259
+1968,"Sri Lanka","LK","Direct_Resident",5
+1968,"Sri Lanka","LK","Direct_NonResident",4
+1968,"Sweden","SE","Direct_Resident",251
+1968,"Sweden","SE","Direct_NonResident",166
+1968,"Switzerland","CH","Direct_Resident",628
+1968,"Switzerland","CH","Direct_NonResident",200
+1968,"Syrian Arab Republic","SY","Direct_Resident",78
+1968,"Syrian Arab Republic","SY","Direct_NonResident",10
+1968,"Trinidad and Tobago","TT","Direct_Resident",11
+1968,"Trinidad and Tobago","TT","Direct_NonResident",11
+1968,"United Kingdom","GB","Direct_Resident",5344
+1968,"United Kingdom","GB","Direct_NonResident",1752
+1968,"United States of America","US","Direct_Resident",4859
+1968,"United States of America","US","Direct_NonResident",312
+1968,"Venezuela","VE","Direct_Resident",123
+1968,"Venezuela","VE","Direct_NonResident",53
+1968,"Zimbabwe","ZW","Direct_Resident",12
+1968,"Zimbabwe","ZW","Direct_NonResident",22
+1969,"Algeria","DZ","Direct_Resident",43
+1969,"Algeria","DZ","Direct_NonResident",13
+1969,"Australia","AU","Direct_Resident",1654
+1969,"Australia","AU","Direct_NonResident",642
+1969,"Belgium","BE","Direct_Resident",1127
+1969,"Belgium","BE","Direct_NonResident",279
+1969,"Canada","CA","Direct_Aggregate",1282
+1969,"Colombia","CO","Direct_Resident",53
+1969,"Colombia","CO","Direct_NonResident",33
+1969,"Czechoslovakia","CS","Direct_Resident",611
+1969,"Czechoslovakia","CS","Direct_NonResident",63
+1969,"Denmark","DK","Direct_Resident",472
+1969,"Denmark","DK","Direct_NonResident",260
+1969,"Egypt","EG","Direct_Resident",62
+1969,"Egypt","EG","Direct_NonResident",4
+1969,"France","FR","Direct_Resident",10673
+1969,"France","FR","Direct_NonResident",1271
+1969,"German Dem. Rep.","D2","Direct_Resident",827
+1969,"German Dem. Rep.","D2","Direct_NonResident",24
+1969,"Germany","DE","Direct_NonResident",1397
+1969,"Hungary","HU","Direct_Resident",489
+1969,"Hungary","HU","Direct_NonResident",45
+1969,"India","IN","Direct_Resident",1888
+1969,"India","IN","Direct_NonResident",52
+1969,"Ireland","IE","Direct_Resident",38
+1969,"Ireland","IE","Direct_NonResident",92
+1969,"Israel","IL","Direct_Resident",119
+1969,"Israel","IL","Direct_NonResident",24
+1969,"Italy","IT","Direct_Resident",3062
+1969,"Italy","IT","Direct_NonResident",905
+1969,"Japan","JP","Direct_Resident",41272
+1969,"Japan","JP","Direct_NonResident",951
+1969,"Lebanon","LB","Direct_Resident",40
+1969,"Lebanon","LB","Direct_NonResident",45
+1969,"Liechtenstein","LI","Direct_Resident",2
+1969,"Liechtenstein","LI","Direct_NonResident",1
+1969,"Malawi","MW","Direct_NonResident",3
+1969,"Malta","MT","Direct_Resident",1
+1969,"Malta","MT","Direct_NonResident",1
+1969,"Mexico","MX","Direct_Resident",302
+1969,"Mexico","MX","Direct_NonResident",214
+1969,"Monaco","MC","Direct_Resident",5
+1969,"Monaco","MC","Direct_NonResident",2
+1969,"Morocco","MA","Direct_Resident",83
+1969,"Morocco","MA","Direct_NonResident",1
+1969,"New Zealand","NZ","Direct_Resident",150
+1969,"New Zealand","NZ","Direct_NonResident",169
+1969,"Norway","NO","Direct_Resident",581
+1969,"Norway","NO","Direct_NonResident",203
+1969,"Pakistan","PK","Direct_Resident",170
+1969,"Pakistan","PK","Direct_NonResident",2
+1969,"Philippines","PH","Direct_Resident",116
+1969,"Philippines","PH","Direct_NonResident",24
+1969,"Poland","PL","Direct_Resident",191
+1969,"Poland","PL","Direct_NonResident",33
+1969,"Portugal","PT","Direct_NonResident",406
+1969,"Republic of Korea","KR","Direct_Resident",4509
+1969,"Republic of Korea","KR","Direct_NonResident",27
+1969,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Resident",347
+1969,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_NonResident",72
+1969,"Soviet Union","SU","Direct_Resident",1084
+1969,"Soviet Union","SU","Direct_NonResident",56
+1969,"Spain","ES","Direct_Resident",4243
+1969,"Spain","ES","Direct_NonResident",238
+1969,"Sri Lanka","LK","Direct_Resident",4
+1969,"Sri Lanka","LK","Direct_NonResident",3
+1969,"Sweden","SE","Direct_Resident",245
+1969,"Sweden","SE","Direct_NonResident",195
+1969,"Switzerland","CH","Direct_Resident",471
+1969,"Switzerland","CH","Direct_NonResident",185
+1969,"Syrian Arab Republic","SY","Direct_Resident",281
+1969,"Syrian Arab Republic","SY","Direct_NonResident",14
+1969,"Trinidad and Tobago","TT","Direct_Resident",4
+1969,"Trinidad and Tobago","TT","Direct_NonResident",6
+1969,"United Kingdom","GB","Direct_Resident",4596
+1969,"United Kingdom","GB","Direct_NonResident",2096
+1969,"United States of America","US","Direct_Resident",4692
+1969,"United States of America","US","Direct_NonResident",869
+1969,"Venezuela","VE","Direct_Resident",22
+1969,"Zimbabwe","ZW","Direct_Resident",23
+1969,"Zimbabwe","ZW","Direct_NonResident",19
+1970,"Algeria","DZ","Direct_Resident",39
+1970,"Algeria","DZ","Direct_NonResident",8
+1970,"Argentina","AR","Direct_Resident",2536
+1970,"Argentina","AR","Direct_NonResident",206
+1970,"Australia","AU","Direct_Resident",1404
+1970,"Australia","AU","Direct_NonResident",603
+1970,"Austria","AT","Direct_Resident",2150
+1970,"Austria","AT","Direct_NonResident",2076
+1970,"Bahamas","BS","Direct_Resident",1
+1970,"Bahrain","BH","Direct_NonResident",1
+1970,"Belgium","BE","Direct_Resident",1165
+1970,"Belgium","BE","Direct_NonResident",323
+1970,"Brazil","BR","Direct_Resident",66
+1970,"Brazil","BR","Direct_NonResident",3
+1970,"Canada","CA","Direct_Aggregate",1469
+1970,"Colombia","CO","Direct_Resident",57
+1970,"Colombia","CO","Direct_NonResident",31
+1970,"Czechoslovakia","CS","Direct_Resident",581
+1970,"Czechoslovakia","CS","Direct_NonResident",37
+1970,"Denmark","DK","Direct_Aggregate",650
+1970,"Egypt","EG","Direct_Resident",73
+1970,"Egypt","EG","Direct_NonResident",9
+1970,"France","FR","Direct_Resident",11676
+1970,"France","FR","Direct_NonResident",1083
+1970,"German Dem. Rep.","D2","Direct_Resident",631
+1970,"German Dem. Rep.","D2","Direct_NonResident",34
+1970,"Germany","DE","Direct_NonResident",2034
+1970,"Hungary","HU","Direct_Resident",598
+1970,"Hungary","HU","Direct_NonResident",16
+1970,"India","IN","Direct_Resident",1210
+1970,"India","IN","Direct_NonResident",85
+1970,"Iraq","IQ","Direct_Resident",12
+1970,"Ireland","IE","Direct_Resident",42
+1970,"Ireland","IE","Direct_NonResident",95
+1970,"Israel","IL","Direct_Resident",146
+1970,"Israel","IL","Direct_NonResident",39
+1970,"Italy","IT","Direct_Resident",3412
+1970,"Italy","IT","Direct_NonResident",750
+1970,"Japan","JP","Direct_Resident",45893
+1970,"Japan","JP","Direct_NonResident",967
+1970,"Lebanon","LB","Direct_Resident",36
+1970,"Lebanon","LB","Direct_NonResident",27
+1970,"Liechtenstein","LI","Direct_Resident",4
+1970,"Liechtenstein","LI","Direct_NonResident",2
+1970,"Malawi","MW","Direct_NonResident",2
+1970,"Malta","MT","Direct_Resident",1
+1970,"Malta","MT","Direct_NonResident",4
+1970,"Mexico","MX","Direct_Resident",300
+1970,"Mexico","MX","Direct_NonResident",234
+1970,"Monaco","MC","Direct_Resident",17
+1970,"Monaco","MC","Direct_NonResident",6
+1970,"Morocco","MA","Direct_Resident",82
+1970,"Morocco","MA","Direct_NonResident",3
+1970,"New Zealand","NZ","Direct_Resident",148
+1970,"New Zealand","NZ","Direct_NonResident",163
+1970,"Norway","NO","Direct_Resident",571
+1970,"Norway","NO","Direct_NonResident",287
+1970,"Philippines","PH","Direct_Resident",70
+1970,"Philippines","PH","Direct_NonResident",21
+1970,"Poland","PL","Direct_Resident",184
+1970,"Poland","PL","Direct_NonResident",37
+1970,"Portugal","PT","Direct_NonResident",538
+1970,"Republic of Korea","KR","Direct_Resident",4499
+1970,"Republic of Korea","KR","Direct_NonResident",23
+1970,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Resident",235
+1970,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_NonResident",93
+1970,"Sierra Leone","SL","Direct_Resident",6
+1970,"Soviet Union","SU","Direct_Resident",1175
+1970,"Soviet Union","SU","Direct_NonResident",34
+1970,"Spain","ES","Direct_Resident",3714
+1970,"Spain","ES","Direct_NonResident",204
+1970,"Sri Lanka","LK","Direct_Resident",1
+1970,"Sri Lanka","LK","Direct_NonResident",5
+1970,"Sweden","SE","Direct_Resident",135
+1970,"Sweden","SE","Direct_NonResident",133
+1970,"Switzerland","CH","Direct_Resident",393
+1970,"Switzerland","CH","Direct_NonResident",178
+1970,"Syrian Arab Republic","SY","Direct_Resident",69
+1970,"Syrian Arab Republic","SY","Direct_NonResident",4
+1970,"Trinidad and Tobago","TT","Direct_Resident",2
+1970,"Trinidad and Tobago","TT","Direct_NonResident",8
+1970,"Tunisia","TN","Direct_Resident",7
+1970,"Tunisia","TN","Direct_NonResident",10
+1970,"United Kingdom","GB","Direct_Resident",4122
+1970,"United Kingdom","GB","Direct_NonResident",2184
+1970,"United States of America","US","Direct_Resident",5286
+1970,"United States of America","US","Direct_NonResident",710
+1970,"Venezuela","VE","Direct_Resident",30
+1970,"Venezuela","VE","Direct_NonResident",334
+1970,"Zaire","ZR","Direct_Resident",14
+1970,"Zaire","ZR","Direct_NonResident",47
+1970,"Zimbabwe","ZW","Direct_Resident",26
+1970,"Zimbabwe","ZW","Direct_NonResident",19
+1971,"African Intellectual Property Organization","OA","Direct_Resident",124
+1971,"African Intellectual Property Organization","OA","Direct_NonResident",264
+1971,"Algeria","DZ","Direct_Resident",45
+1971,"Algeria","DZ","Direct_NonResident",11
+1971,"Argentina","AR","Direct_Resident",2662
+1971,"Argentina","AR","Direct_NonResident",179
+1971,"Australia","AU","Direct_Resident",1597
+1971,"Australia","AU","Direct_NonResident",380
+1971,"Austria","AT","Direct_Resident",4232
+1971,"Austria","AT","Direct_NonResident",2078
+1971,"Bahamas","BS","Direct_Resident",1
+1971,"Bahamas","BS","Direct_NonResident",2
+1971,"Belgium","BE","Direct_Resident",986
+1971,"Belgium","BE","Direct_NonResident",229
+1971,"Brazil","BR","Direct_Resident",85
+1971,"Brazil","BR","Direct_NonResident",2
+1971,"Bulgaria","BG","Direct_Resident",48
+1971,"Bulgaria","BG","Direct_NonResident",10
+1971,"Burundi","BI","Direct_Resident",1
+1971,"Canada","CA","Direct_Aggregate",1430
+1971,"Colombia","CO","Direct_NonResident",31
+1971,"Czechoslovakia","CS","Direct_Resident",650
+1971,"Czechoslovakia","CS","Direct_NonResident",19
+1971,"Denmark","DK","Direct_Resident",356
+1971,"Denmark","DK","Direct_NonResident",445
+1971,"Egypt","EG","Direct_Resident",121
+1971,"Egypt","EG","Direct_NonResident",1
+1971,"Finland","FI","Direct_Resident",313
+1971,"Finland","FI","Direct_NonResident",188
+1971,"France","FR","Direct_Resident",11365
+1971,"France","FR","Direct_NonResident",698
+1971,"German Dem. Rep.","D2","Direct_Resident",578
+1971,"German Dem. Rep.","D2","Direct_NonResident",33
+1971,"Germany","DE","Direct_NonResident",1774
+1971,"Hungary","HU","Direct_Resident",375
+1971,"Hungary","HU","Direct_NonResident",15
+1971,"India","IN","Direct_Resident",1069
+1971,"India","IN","Direct_NonResident",41
+1971,"Iraq","IQ","Direct_Resident",31
+1971,"Ireland","IE","Direct_Resident",26
+1971,"Ireland","IE","Direct_NonResident",79
+1971,"Israel","IL","Direct_Resident",167
+1971,"Israel","IL","Direct_NonResident",58
+1971,"Italy","IT","Direct_Resident",3479
+1971,"Italy","IT","Direct_NonResident",712
+1971,"Japan","JP","Direct_Resident",47548
+1971,"Japan","JP","Direct_NonResident",898
+1971,"Lebanon","LB","Direct_Resident",65
+1971,"Lebanon","LB","Direct_NonResident",58
+1971,"Liechtenstein","LI","Direct_Resident",4
+1971,"Malawi","MW","Direct_NonResident",5
+1971,"Malta","MT","Direct_Resident",7
+1971,"Malta","MT","Direct_NonResident",4
+1971,"Monaco","MC","Direct_Resident",28
+1971,"Monaco","MC","Direct_NonResident",6
+1971,"Morocco","MA","Direct_Resident",96
+1971,"New Zealand","NZ","Direct_Resident",263
+1971,"New Zealand","NZ","Direct_NonResident",149
+1971,"Nigeria","NG","Direct_Resident",717
+1971,"Nigeria","NG","Direct_NonResident",1586
+1971,"Norway","NO","Direct_Resident",367
+1971,"Norway","NO","Direct_NonResident",402
+1971,"Pakistan","PK","Direct_Resident",159
+1971,"Pakistan","PK","Direct_NonResident",10
+1971,"Philippines","PH","Direct_Resident",159
+1971,"Philippines","PH","Direct_NonResident",21
+1971,"Poland","PL","Direct_Resident",183
+1971,"Poland","PL","Direct_NonResident",19
+1971,"Portugal","PT","Direct_NonResident",289
+1971,"Republic of Korea","KR","Direct_Resident",5320
+1971,"Republic of Korea","KR","Direct_NonResident",28
+1971,"Sierra Leone","SL","Direct_NonResident",1
+1971,"Soviet Union","SU","Direct_Resident",1266
+1971,"Soviet Union","SU","Direct_NonResident",26
+1971,"Spain","ES","Direct_Resident",4387
+1971,"Spain","ES","Direct_NonResident",238
+1971,"Sri Lanka","LK","Direct_Resident",6
+1971,"Sweden","SE","Direct_Resident",1624
+1971,"Sweden","SE","Direct_NonResident",431
+1971,"Switzerland","CH","Direct_Resident",389
+1971,"Switzerland","CH","Direct_NonResident",217
+1971,"Syrian Arab Republic","SY","Direct_Resident",87
+1971,"Syrian Arab Republic","SY","Direct_NonResident",2
+1971,"Trinidad and Tobago","TT","Direct_Resident",4
+1971,"Trinidad and Tobago","TT","Direct_NonResident",3
+1971,"Tunisia","TN","Direct_Resident",5
+1971,"Tunisia","TN","Direct_NonResident",4
+1971,"United Kingdom","GB","Direct_Resident",4119
+1971,"United Kingdom","GB","Direct_NonResident",2669
+1971,"United States of America","US","Direct_Resident",5145
+1971,"United States of America","US","Direct_NonResident",1066
+1971,"Venezuela","VE","Direct_Resident",24
+1971,"Venezuela","VE","Direct_NonResident",314
+1971,"Zaire","ZR","Direct_Resident",29
+1971,"Zaire","ZR","Direct_NonResident",93
+1971,"Zimbabwe","ZW","Direct_Resident",18
+1971,"Zimbabwe","ZW","Direct_NonResident",27
+1972,"African Intellectual Property Organization","OA","Direct_Resident",52
+1972,"African Intellectual Property Organization","OA","Direct_NonResident",274
+1972,"Algeria","DZ","Direct_Resident",28
+1972,"Algeria","DZ","Direct_NonResident",13
+1972,"Argentina","AR","Direct_Resident",2666
+1972,"Argentina","AR","Direct_NonResident",207
+1972,"Australia","AU","Direct_Resident",1669
+1972,"Australia","AU","Direct_NonResident",559
+1972,"Austria","AT","Direct_Resident",2516
+1972,"Austria","AT","Direct_NonResident",2222
+1972,"Bahamas","BS","Direct_Resident",2
+1972,"Belgium","BE","Direct_Resident",1620
+1972,"Belgium","BE","Direct_NonResident",605
+1972,"Brazil","BR","Direct_Resident",97
+1972,"Brazil","BR","Direct_NonResident",9
+1972,"Bulgaria","BG","Direct_Resident",37
+1972,"Bulgaria","BG","Direct_NonResident",6
+1972,"Burundi","BI","Direct_NonResident",1
+1972,"Canada","CA","Direct_Aggregate",1523
+1972,"Colombia","CO","Direct_Resident",81
+1972,"Colombia","CO","Direct_NonResident",23
+1972,"Czechoslovakia","CS","Direct_Resident",499
+1972,"Czechoslovakia","CS","Direct_NonResident",41
+1972,"Denmark","DK","Direct_Resident",411
+1972,"Denmark","DK","Direct_NonResident",494
+1972,"Egypt","EG","Direct_Resident",88
+1972,"Egypt","EG","Direct_NonResident",3
+1972,"Finland","FI","Direct_Resident",414
+1972,"Finland","FI","Direct_NonResident",223
+1972,"France","FR","Direct_Resident",11523
+1972,"France","FR","Direct_NonResident",861
+1972,"German Dem. Rep.","D2","Direct_Resident",424
+1972,"German Dem. Rep.","D2","Direct_NonResident",19
+1972,"Germany","DE","Direct_NonResident",1696
+1972,"Hungary","HU","Direct_Resident",323
+1972,"Hungary","HU","Direct_NonResident",30
+1972,"India","IN","Direct_Resident",1073
+1972,"India","IN","Direct_NonResident",49
+1972,"Iraq","IQ","Direct_Resident",22
+1972,"Ireland","IE","Direct_Resident",27
+1972,"Ireland","IE","Direct_NonResident",143
+1972,"Israel","IL","Direct_Resident",261
+1972,"Israel","IL","Direct_NonResident",89
+1972,"Italy","IT","Direct_Resident",3545
+1972,"Italy","IT","Direct_NonResident",921
+1972,"Japan","JP","Direct_Resident",53958
+1972,"Japan","JP","Direct_NonResident",1026
+1972,"Lebanon","LB","Direct_Resident",58
+1972,"Lebanon","LB","Direct_NonResident",25
+1972,"Liechtenstein","LI","Direct_Resident",3
+1972,"Malawi","MW","Direct_NonResident",2
+1972,"Malta","MT","Direct_Resident",3
+1972,"Malta","MT","Direct_NonResident",4
+1972,"Monaco","MC","Direct_Resident",57
+1972,"Monaco","MC","Direct_NonResident",1
+1972,"Morocco","MA","Direct_Resident",64
+1972,"Morocco","MA","Direct_NonResident",7
+1972,"New Zealand","NZ","Direct_Resident",160
+1972,"New Zealand","NZ","Direct_NonResident",217
+1972,"Norway","NO","Direct_Resident",353
+1972,"Norway","NO","Direct_NonResident",402
+1972,"Pakistan","PK","Direct_Resident",142
+1972,"Pakistan","PK","Direct_NonResident",11
+1972,"Peru","PE","Direct_Resident",80
+1972,"Peru","PE","Direct_NonResident",17
+1972,"Philippines","PH","Direct_Resident",132
+1972,"Philippines","PH","Direct_NonResident",59
+1972,"Poland","PL","Direct_Resident",206
+1972,"Poland","PL","Direct_NonResident",22
+1972,"Portugal","PT","Direct_NonResident",490
+1972,"Republic of Korea","KR","Direct_Resident",5980
+1972,"Republic of Korea","KR","Direct_NonResident",11
+1972,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Resident",320
+1972,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_NonResident",52
+1972,"Sierra Leone","SL","Direct_NonResident",1
+1972,"Soviet Union","SU","Direct_Resident",1618
+1972,"Soviet Union","SU","Direct_NonResident",29
+1972,"Spain","ES","Direct_Resident",4402
+1972,"Spain","ES","Direct_NonResident",330
+1972,"Sri Lanka","LK","Direct_Resident",8
+1972,"Sri Lanka","LK","Direct_NonResident",2
+1972,"Sweden","SE","Direct_Resident",1707
+1972,"Sweden","SE","Direct_NonResident",490
+1972,"Switzerland","CH","Direct_Resident",405
+1972,"Switzerland","CH","Direct_NonResident",262
+1972,"Trinidad and Tobago","TT","Direct_Resident",4
+1972,"Trinidad and Tobago","TT","Direct_NonResident",9
+1972,"Tunisia","TN","Direct_Resident",8
+1972,"United Kingdom","GB","Direct_Resident",3563
+1972,"United Kingdom","GB","Direct_NonResident",2242
+1972,"United States of America","US","Direct_Resident",4982
+1972,"United States of America","US","Direct_NonResident",885
+1972,"Venezuela","VE","Direct_Resident",45
+1972,"Venezuela","VE","Direct_NonResident",299
+1972,"Zaire","ZR","Direct_Resident",1
+1972,"Zaire","ZR","Direct_NonResident",122
+1972,"Zimbabwe","ZW","Direct_Resident",18
+1972,"Zimbabwe","ZW","Direct_NonResident",25
+1973,"African Intellectual Property Organization","OA","Direct_Resident",51
+1973,"African Intellectual Property Organization","OA","Direct_NonResident",352
+1973,"Algeria","DZ","Direct_Resident",13
+1973,"Algeria","DZ","Direct_NonResident",12
+1973,"Argentina","AR","Direct_Resident",2432
+1973,"Argentina","AR","Direct_NonResident",172
+1973,"Australia","AU","Direct_Resident",1545
+1973,"Australia","AU","Direct_NonResident",570
+1973,"Austria","AT","Direct_Resident",2298
+1973,"Austria","AT","Direct_NonResident",1863
+1973,"Bahamas","BS","Direct_Resident",1
+1973,"Bahamas","BS","Direct_NonResident",6
+1973,"Belgium","BE","Direct_Resident",1341
+1973,"Belgium","BE","Direct_NonResident",366
+1973,"Brazil","BR","Direct_Resident",106
+1973,"Brazil","BR","Direct_NonResident",8
+1973,"Bulgaria","BG","Direct_Resident",43
+1973,"Bulgaria","BG","Direct_NonResident",20
+1973,"Canada","CA","Direct_Aggregate",1746
+1973,"Colombia","CO","Direct_Resident",47
+1973,"Colombia","CO","Direct_NonResident",22
+1973,"Czechoslovakia","CS","Direct_Resident",479
+1973,"Czechoslovakia","CS","Direct_NonResident",29
+1973,"Denmark","DK","Direct_Resident",417
+1973,"Denmark","DK","Direct_NonResident",539
+1973,"Egypt","EG","Direct_Resident",95
+1973,"Egypt","EG","Direct_NonResident",5
+1973,"Finland","FI","Direct_Resident",386
+1973,"Finland","FI","Direct_NonResident",347
+1973,"France","FR","Direct_Resident",11903
+1973,"France","FR","Direct_NonResident",1047
+1973,"German Dem. Rep.","D2","Direct_Resident",286
+1973,"German Dem. Rep.","D2","Direct_NonResident",8
+1973,"Germany","DE","Direct_NonResident",1817
+1973,"Hungary","HU","Direct_Resident",362
+1973,"Hungary","HU","Direct_NonResident",42
+1973,"India","IN","Direct_Resident",968
+1973,"India","IN","Direct_NonResident",50
+1973,"Iraq","IQ","Direct_Resident",18
+1973,"Ireland","IE","Direct_Resident",33
+1973,"Ireland","IE","Direct_NonResident",163
+1973,"Israel","IL","Direct_Resident",260
+1973,"Israel","IL","Direct_NonResident",58
+1973,"Italy","IT","Direct_Resident",2337
+1973,"Italy","IT","Direct_NonResident",861
+1973,"Jamaica","JM","Direct_Resident",5
+1973,"Jamaica","JM","Direct_NonResident",8
+1973,"Japan","JP","Direct_Resident",46793
+1973,"Japan","JP","Direct_NonResident",1005
+1973,"Lebanon","LB","Direct_Resident",75
+1973,"Lebanon","LB","Direct_NonResident",20
+1973,"Liechtenstein","LI","Direct_Resident",3
+1973,"Malawi","MW","Direct_NonResident",4
+1973,"Malta","MT","Direct_Resident",1
+1973,"Malta","MT","Direct_NonResident",4
+1973,"Mexico","MX","Direct_Aggregate",594
+1973,"Monaco","MC","Direct_Resident",18
+1973,"Monaco","MC","Direct_NonResident",9
+1973,"Morocco","MA","Direct_Resident",62
+1973,"Morocco","MA","Direct_NonResident",8
+1973,"New Zealand","NZ","Direct_Resident",159
+1973,"New Zealand","NZ","Direct_NonResident",225
+1973,"Norway","NO","Direct_Resident",380
+1973,"Norway","NO","Direct_NonResident",404
+1973,"Pakistan","PK","Direct_Resident",69
+1973,"Pakistan","PK","Direct_NonResident",32
+1973,"Peru","PE","Direct_Resident",53
+1973,"Peru","PE","Direct_NonResident",2
+1973,"Philippines","PH","Direct_Resident",199
+1973,"Philippines","PH","Direct_NonResident",37
+1973,"Poland","PL","Direct_Resident",195
+1973,"Poland","PL","Direct_NonResident",45
+1973,"Portugal","PT","Direct_NonResident",464
+1973,"Republic of Korea","KR","Direct_Resident",6313
+1973,"Republic of Korea","KR","Direct_NonResident",20
+1973,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Resident",265
+1973,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_NonResident",58
+1973,"Soviet Union","SU","Direct_Resident",1794
+1973,"Soviet Union","SU","Direct_NonResident",49
+1973,"Spain","ES","Direct_Resident",4117
+1973,"Spain","ES","Direct_NonResident",302
+1973,"Sri Lanka","LK","Direct_Resident",12
+1973,"Sri Lanka","LK","Direct_NonResident",1
+1973,"Swaziland","SZ","Direct_Resident",3
+1973,"Swaziland","SZ","Direct_NonResident",3
+1973,"Sweden","SE","Direct_Resident",1917
+1973,"Sweden","SE","Direct_NonResident",498
+1973,"Switzerland","CH","Direct_Resident",321
+1973,"Switzerland","CH","Direct_NonResident",279
+1973,"Syrian Arab Republic","SY","Direct_Resident",41
+1973,"Syrian Arab Republic","SY","Direct_NonResident",8
+1973,"Trinidad and Tobago","TT","Direct_Resident",6
+1973,"Trinidad and Tobago","TT","Direct_NonResident",6
+1973,"Tunisia","TN","Direct_Resident",25
+1973,"Tunisia","TN","Direct_NonResident",3
+1973,"United Kingdom","GB","Direct_Resident",2688
+1973,"United Kingdom","GB","Direct_NonResident",1853
+1973,"United States of America","US","Direct_Resident",4559
+1973,"United States of America","US","Direct_NonResident",866
+1973,"Venezuela","VE","Direct_Resident",30
+1973,"Venezuela","VE","Direct_NonResident",76
+1973,"Zaire","ZR","Direct_Resident",4
+1973,"Zaire","ZR","Direct_NonResident",2
+1973,"Zimbabwe","ZW","Direct_Resident",32
+1973,"Zimbabwe","ZW","Direct_NonResident",15
+1974,"African Intellectual Property Organization","OA","Direct_Resident",36
+1974,"African Intellectual Property Organization","OA","Direct_NonResident",133
+1974,"Algeria","DZ","Direct_Resident",45
+1974,"Algeria","DZ","Direct_NonResident",12
+1974,"Argentina","AR","Direct_Resident",2261
+1974,"Argentina","AR","Direct_NonResident",142
+1974,"Australia","AU","Direct_Resident",1431
+1974,"Australia","AU","Direct_NonResident",560
+1974,"Austria","AT","Direct_Resident",2967
+1974,"Austria","AT","Direct_NonResident",2078
+1974,"Bahamas","BS","Direct_Resident",1
+1974,"Bahamas","BS","Direct_NonResident",1
+1974,"Bangladesh","BD","Direct_Resident",11
+1974,"Bangladesh","BD","Direct_NonResident",3
+1974,"Belgium","BE","Direct_Resident",2349
+1974,"Belgium","BE","Direct_NonResident",323
+1974,"Bulgaria","BG","Direct_Resident",68
+1974,"Bulgaria","BG","Direct_NonResident",9
+1974,"Canada","CA","Direct_Aggregate",1563
+1974,"Colombia","CO","Direct_Resident",38
+1974,"Colombia","CO","Direct_NonResident",19
+1974,"Czechoslovakia","CS","Direct_Resident",1190
+1974,"Czechoslovakia","CS","Direct_NonResident",35
+1974,"Denmark","DK","Direct_Resident",470
+1974,"Denmark","DK","Direct_NonResident",537
+1974,"Egypt","EG","Direct_Resident",82
+1974,"Egypt","EG","Direct_NonResident",2
+1974,"Finland","FI","Direct_Resident",337
+1974,"Finland","FI","Direct_NonResident",337
+1974,"France","FR","Direct_Resident",10941
+1974,"France","FR","Direct_NonResident",1027
+1974,"Germany","DE","Direct_NonResident",1917
+1974,"Hungary","HU","Direct_Resident",242
+1974,"Hungary","HU","Direct_NonResident",42
+1974,"India","IN","Direct_Resident",1007
+1974,"India","IN","Direct_NonResident",43
+1974,"Iraq","IQ","Direct_Resident",67
+1974,"Ireland","IE","Direct_Resident",22
+1974,"Ireland","IE","Direct_NonResident",137
+1974,"Israel","IL","Direct_Resident",124
+1974,"Israel","IL","Direct_NonResident",73
+1974,"Italy","IT","Direct_Resident",2234
+1974,"Italy","IT","Direct_NonResident",773
+1974,"Jamaica","JM","Direct_Resident",33
+1974,"Jamaica","JM","Direct_NonResident",1
+1974,"Japan","JP","Direct_Resident",44485
+1974,"Japan","JP","Direct_NonResident",902
+1974,"Lebanon","LB","Direct_Resident",30
+1974,"Lebanon","LB","Direct_NonResident",17
+1974,"Liechtenstein","LI","Direct_Resident",3
+1974,"Malawi","MW","Direct_NonResident",2
+1974,"Malta","MT","Direct_Resident",2
+1974,"Malta","MT","Direct_NonResident",3
+1974,"Mexico","MX","Direct_Aggregate",452
+1974,"Monaco","MC","Direct_Resident",36
+1974,"Morocco","MA","Direct_Resident",40
+1974,"Morocco","MA","Direct_NonResident",12
+1974,"New Zealand","NZ","Direct_Resident",185
+1974,"New Zealand","NZ","Direct_NonResident",159
+1974,"Nigeria","NG","Direct_Resident",150
+1974,"Nigeria","NG","Direct_NonResident",81
+1974,"Norway","NO","Direct_Resident",343
+1974,"Norway","NO","Direct_NonResident",421
+1974,"Pakistan","PK","Direct_Resident",134
+1974,"Pakistan","PK","Direct_NonResident",20
+1974,"Philippines","PH","Direct_Resident",342
+1974,"Philippines","PH","Direct_NonResident",31
+1974,"Poland","PL","Direct_Resident",173
+1974,"Poland","PL","Direct_NonResident",27
+1974,"Portugal","PT","Direct_NonResident",243
+1974,"Republic of Korea","KR","Direct_Resident",6193
+1974,"Republic of Korea","KR","Direct_NonResident",27
+1974,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Resident",179
+1974,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_NonResident",60
+1974,"Soviet Union","SU","Direct_Resident",1962
+1974,"Soviet Union","SU","Direct_NonResident",26
+1974,"Spain","ES","Direct_Resident",3844
+1974,"Spain","ES","Direct_NonResident",269
+1974,"Sri Lanka","LK","Direct_Resident",11
+1974,"Sweden","SE","Direct_Resident",1719
+1974,"Sweden","SE","Direct_NonResident",437
+1974,"Switzerland","CH","Direct_Resident",315
+1974,"Switzerland","CH","Direct_NonResident",231
+1974,"Syrian Arab Republic","SY","Direct_Resident",88
+1974,"Syrian Arab Republic","SY","Direct_NonResident",13
+1974,"Trinidad and Tobago","TT","Direct_Resident",4
+1974,"Trinidad and Tobago","TT","Direct_NonResident",4
+1974,"Tunisia","TN","Direct_Resident",18
+1974,"Tunisia","TN","Direct_NonResident",4
+1974,"United Kingdom","GB","Direct_Resident",2282
+1974,"United Kingdom","GB","Direct_NonResident",1901
+1974,"United States of America","US","Direct_Resident",4279
+1974,"United States of America","US","Direct_NonResident",1039
+1974,"Venezuela","VE","Direct_Resident",196
+1974,"Venezuela","VE","Direct_NonResident",105
+1974,"Zaire","ZR","Direct_Resident",1
+1974,"Zaire","ZR","Direct_NonResident",11
+1974,"Zambia","ZM","Direct_NonResident",8
+1974,"Zimbabwe","ZW","Direct_Resident",13
+1974,"Zimbabwe","ZW","Direct_NonResident",9
+1975,"African Intellectual Property Organization","OA","Direct_Resident",26
+1975,"African Intellectual Property Organization","OA","Direct_NonResident",57
+1975,"Algeria","DZ","Direct_Resident",52
+1975,"Algeria","DZ","Direct_NonResident",31
+1975,"Argentina","AR","Direct_Resident",2394
+1975,"Argentina","AR","Direct_NonResident",160
+1975,"Australia","AU","Direct_Resident",1564
+1975,"Australia","AU","Direct_NonResident",541
+1975,"Austria","AT","Direct_Resident",3987
+1975,"Austria","AT","Direct_NonResident",1517
+1975,"Benelux","BX","Direct_Resident",1738
+1975,"Benelux","BX","Direct_NonResident",1425
+1975,"Bulgaria","BG","Direct_Resident",24
+1975,"Bulgaria","BG","Direct_NonResident",8
+1975,"Canada","CA","Direct_Resident",594
+1975,"Canada","CA","Direct_NonResident",986
+1975,"Colombia","CO","Direct_Resident",51
+1975,"Colombia","CO","Direct_NonResident",29
+1975,"Czechoslovakia","CS","Direct_Resident",1168
+1975,"Czechoslovakia","CS","Direct_NonResident",22
+1975,"Denmark","DK","Direct_Resident",472
+1975,"Denmark","DK","Direct_NonResident",529
+1975,"Egypt","EG","Direct_Resident",68
+1975,"Egypt","EG","Direct_NonResident",23
+1975,"Finland","FI","Direct_Resident",387
+1975,"Finland","FI","Direct_NonResident",325
+1975,"France","FR","Direct_Resident",3588
+1975,"France","FR","Direct_NonResident",569
+1975,"German Dem. Rep.","D2","Direct_Resident",163
+1975,"German Dem. Rep.","D2","Direct_NonResident",10
+1975,"Germany","DE","Direct_NonResident",2979
+1975,"Hungary","HU","Direct_Resident",169
+1975,"Hungary","HU","Direct_NonResident",11
+1975,"India","IN","Direct_Resident",1156
+1975,"India","IN","Direct_NonResident",29
+1975,"Iraq","IQ","Direct_Resident",30
+1975,"Iraq","IQ","Direct_NonResident",1
+1975,"Ireland","IE","Direct_Resident",48
+1975,"Ireland","IE","Direct_NonResident",182
+1975,"Israel","IL","Direct_Resident",197
+1975,"Israel","IL","Direct_NonResident",59
+1975,"Italy","IT","Direct_Resident",2253
+1975,"Italy","IT","Direct_NonResident",731
+1975,"Jamaica","JM","Direct_Resident",3
+1975,"Jamaica","JM","Direct_NonResident",5
+1975,"Japan","JP","Direct_Resident",51407
+1975,"Japan","JP","Direct_NonResident",843
+1975,"Liechtenstein","LI","Direct_Resident",6
+1975,"Malawi","MW","Direct_NonResident",1
+1975,"Malta","MT","Direct_Resident",2
+1975,"Malta","MT","Direct_NonResident",4
+1975,"Monaco","MC","Direct_Resident",10
+1975,"Morocco","MA","Direct_Resident",82
+1975,"Morocco","MA","Direct_NonResident",15
+1975,"New Zealand","NZ","Direct_Resident",250
+1975,"New Zealand","NZ","Direct_NonResident",163
+1975,"Nigeria","NG","Direct_Resident",73
+1975,"Nigeria","NG","Direct_NonResident",72
+1975,"Norway","NO","Direct_Resident",336
+1975,"Norway","NO","Direct_NonResident",463
+1975,"Pakistan","PK","Direct_Resident",115
+1975,"Pakistan","PK","Direct_NonResident",11
+1975,"Peru","PE","Direct_Resident",120
+1975,"Peru","PE","Direct_NonResident",14
+1975,"Philippines","PH","Direct_Resident",317
+1975,"Philippines","PH","Direct_NonResident",45
+1975,"Poland","PL","Direct_Resident",173
+1975,"Poland","PL","Direct_NonResident",55
+1975,"Portugal","PT","Direct_Resident",262
+1975,"Portugal","PT","Direct_NonResident",112
+1975,"Republic of Korea","KR","Direct_Resident",6674
+1975,"Republic of Korea","KR","Direct_NonResident",33
+1975,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Resident",272
+1975,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_NonResident",71
+1975,"Soviet Union","SU","Direct_Resident",2004
+1975,"Soviet Union","SU","Direct_NonResident",22
+1975,"Spain","ES","Direct_Resident",3703
+1975,"Spain","ES","Direct_NonResident",264
+1975,"Sri Lanka","LK","Direct_Resident",14
+1975,"Sri Lanka","LK","Direct_NonResident",2
+1975,"Sweden","SE","Direct_Resident",2087
+1975,"Sweden","SE","Direct_NonResident",491
+1975,"Switzerland","CH","Direct_Resident",476
+1975,"Switzerland","CH","Direct_NonResident",224
+1975,"Syrian Arab Republic","SY","Direct_Resident",99
+1975,"Syrian Arab Republic","SY","Direct_NonResident",22
+1975,"Trinidad and Tobago","TT","Direct_Resident",6
+1975,"Trinidad and Tobago","TT","Direct_NonResident",2
+1975,"United Kingdom","GB","Direct_Resident",2593
+1975,"United Kingdom","GB","Direct_NonResident",2137
+1975,"United States of America","US","Direct_Resident",5050
+1975,"United States of America","US","Direct_NonResident",1242
+1975,"Venezuela","VE","Direct_Resident",26
+1975,"Venezuela","VE","Direct_NonResident",8
+1975,"Zaire","ZR","Direct_NonResident",48
+1975,"Zambia","ZM","Direct_NonResident",5
+1976,"African Intellectual Property Organization","OA","Direct_Resident",24
+1976,"African Intellectual Property Organization","OA","Direct_NonResident",18
+1976,"Algeria","DZ","Direct_Resident",46
+1976,"Algeria","DZ","Direct_NonResident",6
+1976,"Argentina","AR","Direct_Resident",2585
+1976,"Argentina","AR","Direct_NonResident",149
+1976,"Australia","AU","Direct_Resident",1960
+1976,"Australia","AU","Direct_NonResident",611
+1976,"Austria","AT","Direct_Resident",3659
+1976,"Austria","AT","Direct_NonResident",1913
+1976,"Bahamas","BS","Direct_Resident",2
+1976,"Bahamas","BS","Direct_NonResident",3
+1976,"Bangladesh","BD","Direct_Resident",33
+1976,"Bangladesh","BD","Direct_NonResident",1
+1976,"Benelux","BX","Direct_Resident",1418
+1976,"Benelux","BX","Direct_NonResident",1492
+1976,"Bulgaria","BG","Direct_Resident",68
+1976,"Bulgaria","BG","Direct_NonResident",6
+1976,"Canada","CA","Direct_Resident",599
+1976,"Canada","CA","Direct_NonResident",1071
+1976,"Colombia","CO","Direct_Resident",36
+1976,"Colombia","CO","Direct_NonResident",37
+1976,"Czechoslovakia","CS","Direct_Resident",1229
+1976,"Czechoslovakia","CS","Direct_NonResident",34
+1976,"Denmark","DK","Direct_Resident",433
+1976,"Denmark","DK","Direct_NonResident",573
+1976,"Egypt","EG","Direct_Resident",51
+1976,"Egypt","EG","Direct_NonResident",14
+1976,"Finland","FI","Direct_Resident",373
+1976,"Finland","FI","Direct_NonResident",354
+1976,"France","FR","Direct_Resident",3537
+1976,"France","FR","Direct_NonResident",608
+1976,"German Dem. Rep.","D2","Direct_Resident",319
+1976,"German Dem. Rep.","D2","Direct_NonResident",22
+1976,"Germany","DE","Direct_NonResident",5452
+1976,"Hungary","HU","Direct_Resident",298
+1976,"Hungary","HU","Direct_NonResident",21
+1976,"India","IN","Direct_Resident",1236
+1976,"India","IN","Direct_NonResident",55
+1976,"Iraq","IQ","Direct_Resident",7
+1976,"Iraq","IQ","Direct_NonResident",6
+1976,"Ireland","IE","Direct_Resident",30
+1976,"Ireland","IE","Direct_NonResident",170
+1976,"Israel","IL","Direct_Resident",228
+1976,"Israel","IL","Direct_NonResident",71
+1976,"Japan","JP","Direct_Resident",50970
+1976,"Japan","JP","Direct_NonResident",934
+1976,"Liechtenstein","LI","Direct_Resident",2
+1976,"Malawi","MW","Direct_NonResident",1
+1976,"Malta","MT","Direct_Resident",5
+1976,"Malta","MT","Direct_NonResident",3
+1976,"Mexico","MX","Direct_Aggregate",492
+1976,"Monaco","MC","Direct_Resident",52
+1976,"Monaco","MC","Direct_NonResident",23
+1976,"Morocco","MA","Direct_Resident",91
+1976,"Morocco","MA","Direct_NonResident",6
+1976,"New Zealand","NZ","Direct_Resident",269
+1976,"New Zealand","NZ","Direct_NonResident",239
+1976,"Nigeria","NG","Direct_Resident",44
+1976,"Nigeria","NG","Direct_NonResident",47
+1976,"Norway","NO","Direct_Resident",355
+1976,"Norway","NO","Direct_NonResident",487
+1976,"Pakistan","PK","Direct_Resident",159
+1976,"Pakistan","PK","Direct_NonResident",16
+1976,"Peru","PE","Direct_Aggregate",302
+1976,"Philippines","PH","Direct_Resident",257
+1976,"Philippines","PH","Direct_NonResident",65
+1976,"Poland","PL","Direct_Resident",169
+1976,"Poland","PL","Direct_NonResident",45
+1976,"Portugal","PT","Direct_Resident",145
+1976,"Portugal","PT","Direct_NonResident",94
+1976,"Republic of Korea","KR","Direct_Resident",5995
+1976,"Republic of Korea","KR","Direct_NonResident",23
+1976,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Resident",287
+1976,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_NonResident",62
+1976,"Soviet Union","SU","Direct_Resident",2068
+1976,"Soviet Union","SU","Direct_NonResident",30
+1976,"Spain","ES","Direct_Resident",2924
+1976,"Spain","ES","Direct_NonResident",331
+1976,"Sri Lanka","LK","Direct_NonResident",20
+1976,"Sweden","SE","Direct_Resident",2006
+1976,"Sweden","SE","Direct_NonResident",593
+1976,"Switzerland","CH","Direct_Resident",470
+1976,"Switzerland","CH","Direct_NonResident",339
+1976,"Trinidad and Tobago","TT","Direct_Resident",12
+1976,"Trinidad and Tobago","TT","Direct_NonResident",3
+1976,"United Kingdom","GB","Direct_Resident",2405
+1976,"United Kingdom","GB","Direct_NonResident",2218
+1976,"United States of America","US","Direct_Resident",5712
+1976,"United States of America","US","Direct_NonResident",1349
+1976,"Venezuela","VE","Direct_Resident",213
+1976,"Venezuela","VE","Direct_NonResident",124
+1976,"Zaire","ZR","Direct_Resident",6
+1976,"Zaire","ZR","Direct_NonResident",2
+1976,"Zambia","ZM","Direct_NonResident",5
+1977,"African Intellectual Property Organization","OA","Direct_Resident",25
+1977,"African Intellectual Property Organization","OA","Direct_NonResident",126
+1977,"Algeria","DZ","Direct_Resident",38
+1977,"Algeria","DZ","Direct_NonResident",13
+1977,"Argentina","AR","Direct_Resident",2506
+1977,"Argentina","AR","Direct_NonResident",129
+1977,"Australia","AU","Direct_Resident",1967
+1977,"Australia","AU","Direct_NonResident",728
+1977,"Austria","AT","Direct_Resident",4232
+1977,"Austria","AT","Direct_NonResident",1790
+1977,"Bahamas","BS","Direct_NonResident",1
+1977,"Bangladesh","BD","Direct_Resident",17
+1977,"Benelux","BX","Direct_Resident",1591
+1977,"Benelux","BX","Direct_NonResident",1268
+1977,"Brazil","BR","Direct_Resident",58
+1977,"Brazil","BR","Direct_NonResident",11
+1977,"Bulgaria","BG","Direct_Resident",53
+1977,"Bulgaria","BG","Direct_NonResident",6
+1977,"Canada","CA","Direct_Resident",645
+1977,"Canada","CA","Direct_NonResident",1076
+1977,"Colombia","CO","Direct_Resident",50
+1977,"Colombia","CO","Direct_NonResident",41
+1977,"Czechoslovakia","CS","Direct_Resident",1273
+1977,"Czechoslovakia","CS","Direct_NonResident",25
+1977,"Denmark","DK","Direct_Resident",418
+1977,"Denmark","DK","Direct_NonResident",587
+1977,"Egypt","EG","Direct_Resident",90
+1977,"Egypt","EG","Direct_NonResident",15
+1977,"Finland","FI","Direct_Resident",437
+1977,"Finland","FI","Direct_NonResident",351
+1977,"France","FR","Direct_Resident",3493
+1977,"France","FR","Direct_NonResident",524
+1977,"German Dem. Rep.","D2","Direct_Resident",321
+1977,"German Dem. Rep.","D2","Direct_NonResident",16
+1977,"Germany","DE","Direct_NonResident",4167
+1977,"Hungary","HU","Direct_Resident",241
+1977,"Hungary","HU","Direct_NonResident",17
+1977,"India","IN","Direct_Resident",1358
+1977,"India","IN","Direct_NonResident",45
+1977,"Iraq","IQ","Direct_Resident",59
+1977,"Ireland","IE","Direct_Resident",73
+1977,"Ireland","IE","Direct_NonResident",174
+1977,"Israel","IL","Direct_Resident",212
+1977,"Israel","IL","Direct_NonResident",77
+1977,"Jamaica","JM","Direct_Resident",2
+1977,"Jamaica","JM","Direct_NonResident",7
+1977,"Japan","JP","Direct_Resident",52186
+1977,"Japan","JP","Direct_NonResident",957
+1977,"Liechtenstein","LI","Direct_Resident",3
+1977,"Malawi","MW","Direct_Resident",1
+1977,"Malta","MT","Direct_Resident",7
+1977,"Malta","MT","Direct_NonResident",1
+1977,"Mexico","MX","Direct_Aggregate",494
+1977,"Monaco","MC","Direct_Resident",36
+1977,"Morocco","MA","Direct_Resident",79
+1977,"Morocco","MA","Direct_NonResident",15
+1977,"New Zealand","NZ","Direct_Resident",210
+1977,"New Zealand","NZ","Direct_NonResident",222
+1977,"Norway","NO","Direct_Resident",329
+1977,"Norway","NO","Direct_NonResident",504
+1977,"Pakistan","PK","Direct_Resident",91
+1977,"Pakistan","PK","Direct_NonResident",12
+1977,"Peru","PE","Direct_Resident",196
+1977,"Peru","PE","Direct_NonResident",16
+1977,"Philippines","PH","Direct_Resident",366
+1977,"Philippines","PH","Direct_NonResident",54
+1977,"Poland","PL","Direct_Resident",169
+1977,"Poland","PL","Direct_NonResident",33
+1977,"Portugal","PT","Direct_Resident",218
+1977,"Portugal","PT","Direct_NonResident",107
+1977,"Republic of Korea","KR","Direct_Resident",5404
+1977,"Republic of Korea","KR","Direct_NonResident",116
+1977,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Resident",317
+1977,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_NonResident",96
+1977,"Soviet Union","SU","Direct_Resident",2082
+1977,"Soviet Union","SU","Direct_NonResident",29
+1977,"Spain","ES","Direct_Resident",2770
+1977,"Spain","ES","Direct_NonResident",238
+1977,"Sri Lanka","LK","Direct_Resident",1
+1977,"Sri Lanka","LK","Direct_NonResident",2
+1977,"Swaziland","SZ","Direct_NonResident",2
+1977,"Sweden","SE","Direct_Resident",2077
+1977,"Sweden","SE","Direct_NonResident",629
+1977,"Switzerland","CH","Direct_Resident",354
+1977,"Switzerland","CH","Direct_NonResident",342
+1977,"Trinidad and Tobago","TT","Direct_NonResident",7
+1977,"United Kingdom","GB","Direct_Resident",2269
+1977,"United Kingdom","GB","Direct_NonResident",2223
+1977,"United States of America","US","Direct_Resident",5827
+1977,"United States of America","US","Direct_NonResident",1431
+1977,"Venezuela","VE","Direct_Resident",430
+1977,"Venezuela","VE","Direct_NonResident",2040
+1977,"Zambia","ZM","Direct_Resident",12
+1977,"Zambia","ZM","Direct_NonResident",5
+1978,"African Intellectual Property Organization","OA","Direct_Resident",20
+1978,"African Intellectual Property Organization","OA","Direct_NonResident",10
+1978,"Algeria","DZ","Direct_Resident",35
+1978,"Algeria","DZ","Direct_NonResident",12
+1978,"Argentina","AR","Direct_Resident",2011
+1978,"Argentina","AR","Direct_NonResident",172
+1978,"Australia","AU","Direct_Resident",2452
+1978,"Australia","AU","Direct_NonResident",718
+1978,"Austria","AT","Direct_Resident",3369
+1978,"Austria","AT","Direct_NonResident",1881
+1978,"Bahamas","BS","Direct_NonResident",2
+1978,"Bahrain","BH","Direct_NonResident",8
+1978,"Bangladesh","BD","Direct_Resident",31
+1978,"Bangladesh","BD","Direct_NonResident",2
+1978,"Benelux","BX","Direct_Resident",2107
+1978,"Benelux","BX","Direct_NonResident",1563
+1978,"Brazil","BR","Direct_Aggregate",1200
+1978,"Bulgaria","BG","Direct_Resident",80
+1978,"Bulgaria","BG","Direct_NonResident",2
+1978,"Canada","CA","Direct_Resident",633
+1978,"Canada","CA","Direct_NonResident",1362
+1978,"Colombia","CO","Direct_Resident",26
+1978,"Colombia","CO","Direct_NonResident",31
+1978,"Czechoslovakia","CS","Direct_Resident",1286
+1978,"Czechoslovakia","CS","Direct_NonResident",34
+1978,"Denmark","DK","Direct_Resident",425
+1978,"Denmark","DK","Direct_NonResident",622
+1978,"Ecuador","EC","Direct_Resident",7
+1978,"Ecuador","EC","Direct_NonResident",6
+1978,"Egypt","EG","Direct_Resident",113
+1978,"Egypt","EG","Direct_NonResident",19
+1978,"Finland","FI","Direct_Resident",464
+1978,"Finland","FI","Direct_NonResident",369
+1978,"France","FR","Direct_Resident",3648
+1978,"France","FR","Direct_NonResident",534
+1978,"German Dem. Rep.","D2","Direct_Resident",322
+1978,"German Dem. Rep.","D2","Direct_NonResident",14
+1978,"Germany","DE","Direct_Resident",5
+1978,"Germany","DE","Direct_NonResident",4262
+1978,"Hungary","HU","Direct_Resident",209
+1978,"Hungary","HU","Direct_NonResident",42
+1978,"India","IN","Direct_Resident",1313
+1978,"India","IN","Direct_NonResident",84
+1978,"Iraq","IQ","Direct_Resident",81
+1978,"Iraq","IQ","Direct_NonResident",1
+1978,"Ireland","IE","Direct_Resident",34
+1978,"Ireland","IE","Direct_NonResident",222
+1978,"Israel","IL","Direct_Resident",384
+1978,"Israel","IL","Direct_NonResident",86
+1978,"Italy","IT","Direct_Aggregate",9464
+1978,"Jamaica","JM","Direct_Resident",11
+1978,"Japan","JP","Direct_Resident",55194
+1978,"Japan","JP","Direct_NonResident",966
+1978,"Liechtenstein","LI","Direct_Resident",5
+1978,"Malawi","MW","Direct_NonResident",5
+1978,"Malta","MT","Direct_Resident",5
+1978,"Malta","MT","Direct_NonResident",1
+1978,"Mexico","MX","Direct_Resident",304
+1978,"Mexico","MX","Direct_NonResident",111
+1978,"Monaco","MC","Direct_Resident",25
+1978,"Monaco","MC","Direct_NonResident",1
+1978,"Morocco","MA","Direct_Resident",104
+1978,"Morocco","MA","Direct_NonResident",25
+1978,"New Zealand","NZ","Direct_Resident",225
+1978,"New Zealand","NZ","Direct_NonResident",319
+1978,"Nigeria","NG","Direct_Resident",19
+1978,"Nigeria","NG","Direct_NonResident",38
+1978,"Norway","NO","Direct_Resident",376
+1978,"Norway","NO","Direct_NonResident",572
+1978,"Pakistan","PK","Direct_Resident",74
+1978,"Pakistan","PK","Direct_NonResident",28
+1978,"Peru","PE","Direct_Resident",115
+1978,"Peru","PE","Direct_NonResident",19
+1978,"Philippines","PH","Direct_Resident",295
+1978,"Philippines","PH","Direct_NonResident",72
+1978,"Poland","PL","Direct_Resident",181
+1978,"Poland","PL","Direct_NonResident",35
+1978,"Portugal","PT","Direct_Resident",273
+1978,"Portugal","PT","Direct_NonResident",127
+1978,"Republic of Korea","KR","Direct_Resident",6148
+1978,"Republic of Korea","KR","Direct_NonResident",117
+1978,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Resident",325
+1978,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_NonResident",74
+1978,"Sierra Leone","SL","Direct_NonResident",1
+1978,"South Africa","ZA","Direct_Resident",1155
+1978,"South Africa","ZA","Direct_NonResident",341
+1978,"Soviet Union","SU","Direct_Resident",2094
+1978,"Soviet Union","SU","Direct_NonResident",36
+1978,"Spain","ES","Direct_Resident",2504
+1978,"Spain","ES","Direct_NonResident",315
+1978,"Sri Lanka","LK","Direct_Resident",1
+1978,"Swaziland","SZ","Direct_NonResident",9
+1978,"Sweden","SE","Direct_Resident",2409
+1978,"Sweden","SE","Direct_NonResident",631
+1978,"Switzerland","CH","Direct_Resident",306
+1978,"Switzerland","CH","Direct_NonResident",321
+1978,"Syrian Arab Republic","SY","Direct_Resident",149
+1978,"Syrian Arab Republic","SY","Direct_NonResident",14
+1978,"Trinidad and Tobago","TT","Direct_Resident",4
+1978,"Trinidad and Tobago","TT","Direct_NonResident",10
+1978,"United Kingdom","GB","Direct_Resident",2377
+1978,"United Kingdom","GB","Direct_NonResident",2770
+1978,"United States of America","US","Direct_Resident",5789
+1978,"United States of America","US","Direct_NonResident",1749
+1978,"Venezuela","VE","Direct_Resident",99
+1978,"Venezuela","VE","Direct_NonResident",71
+1978,"Zaire","ZR","Direct_NonResident",31
+1978,"Zambia","ZM","Direct_NonResident",5
+1979,"African Intellectual Property Organization","OA","Direct_Resident",27
+1979,"African Intellectual Property Organization","OA","Direct_NonResident",10
+1979,"Algeria","DZ","Direct_Resident",23
+1979,"Algeria","DZ","Direct_NonResident",11
+1979,"Argentina","AR","Direct_Resident",1572
+1979,"Argentina","AR","Direct_NonResident",266
+1979,"Australia","AU","Direct_Resident",2383
+1979,"Australia","AU","Direct_NonResident",744
+1979,"Austria","AT","Direct_Resident",4024
+1979,"Austria","AT","Direct_NonResident",2016
+1979,"Bahamas","BS","Direct_Resident",2
+1979,"Bahamas","BS","Direct_NonResident",6
+1979,"Bahrain","BH","Direct_NonResident",5
+1979,"Bangladesh","BD","Direct_Resident",38
+1979,"Benelux","BX","Direct_Resident",2135
+1979,"Benelux","BX","Direct_NonResident",1608
+1979,"Brazil","BR","Direct_Resident",886
+1979,"Brazil","BR","Direct_NonResident",238
+1979,"Bulgaria","BG","Direct_Resident",53
+1979,"Bulgaria","BG","Direct_NonResident",6
+1979,"Canada","CA","Direct_Resident",517
+1979,"Canada","CA","Direct_NonResident",1266
+1979,"Chile","CL","Direct_Resident",69
+1979,"Chile","CL","Direct_NonResident",35
+1979,"Colombia","CO","Direct_Resident",12
+1979,"Colombia","CO","Direct_NonResident",25
+1979,"Czechoslovakia","CS","Direct_Resident",1280
+1979,"Czechoslovakia","CS","Direct_NonResident",76
+1979,"Denmark","DK","Direct_Resident",414
+1979,"Denmark","DK","Direct_NonResident",637
+1979,"Egypt","EG","Direct_Resident",171
+1979,"Egypt","EG","Direct_NonResident",12
+1979,"Finland","FI","Direct_Resident",451
+1979,"Finland","FI","Direct_NonResident",339
+1979,"France","FR","Direct_Resident",3667
+1979,"France","FR","Direct_NonResident",536
+1979,"German Dem. Rep.","D2","Direct_Resident",355
+1979,"German Dem. Rep.","D2","Direct_NonResident",17
+1979,"Germany","DE","Direct_Resident",21
+1979,"Germany","DE","Direct_NonResident",5266
+1979,"Hungary","HU","Direct_Resident",214
+1979,"Hungary","HU","Direct_NonResident",35
+1979,"India","IN","Direct_Resident",1146
+1979,"India","IN","Direct_NonResident",80
+1979,"Iraq","IQ","Direct_Resident",50
+1979,"Iraq","IQ","Direct_NonResident",2
+1979,"Ireland","IE","Direct_Resident",40
+1979,"Ireland","IE","Direct_NonResident",259
+1979,"Israel","IL","Direct_Resident",344
+1979,"Israel","IL","Direct_NonResident",55
+1979,"Italy","IT","Direct_Aggregate",8172
+1979,"Jamaica","JM","Direct_Resident",2
+1979,"Japan","JP","Direct_Resident",55277
+1979,"Japan","JP","Direct_NonResident",986
+1979,"Liechtenstein","LI","Direct_Resident",5
+1979,"Malta","MT","Direct_Resident",25
+1979,"Malta","MT","Direct_NonResident",4
+1979,"Mexico","MX","Direct_Resident",299
+1979,"Mexico","MX","Direct_NonResident",263
+1979,"Monaco","MC","Direct_Resident",14
+1979,"Monaco","MC","Direct_NonResident",6
+1979,"Morocco","MA","Direct_Resident",121
+1979,"Morocco","MA","Direct_NonResident",22
+1979,"New Zealand","NZ","Direct_Resident",301
+1979,"New Zealand","NZ","Direct_NonResident",234
+1979,"Norway","NO","Direct_Resident",371
+1979,"Norway","NO","Direct_NonResident",558
+1979,"Pakistan","PK","Direct_Resident",127
+1979,"Pakistan","PK","Direct_NonResident",16
+1979,"Peru","PE","Direct_Resident",113
+1979,"Peru","PE","Direct_NonResident",17
+1979,"Philippines","PH","Direct_Resident",298
+1979,"Philippines","PH","Direct_NonResident",57
+1979,"Poland","PL","Direct_Resident",193
+1979,"Poland","PL","Direct_NonResident",30
+1979,"Portugal","PT","Direct_Resident",297
+1979,"Portugal","PT","Direct_NonResident",141
+1979,"Republic of Korea","KR","Direct_Resident",8132
+1979,"Republic of Korea","KR","Direct_NonResident",239
+1979,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_Resident",331
+1979,"Serbia and Montenegro (formerly Yugoslavia)","YU","Direct_NonResident",70
+1979,"South Africa","ZA","Direct_Resident",751
+1979,"South Africa","ZA","Direct_NonResident",235
+1979,"Soviet Union","SU","Direct_Resident",2070
+1979,"Soviet Union","SU","Direct_NonResident",26
+1979,"Spain","ES","Direct_Resident",2425
+1979,"Spain","ES","Direct_NonResident",366
+1979,"Sri Lanka","LK","Direct_NonResident",7
+1979,"Swaziland","SZ","Direct_NonResident",27
+1979,"Sweden","SE","Direct_Resident",2170
+1979,"Sweden","SE","Direct_NonResident",662
+1979,"Switzerland","CH","Direct_Resident",341
+1979,"Switzerland","CH","Direct_NonResident",349
+1979,"Syrian Arab Republic","SY","Direct_Resident",7
+1979,"Syrian Arab Republic","SY","Direct_NonResident",115
+1979,"Trinidad and Tobago","TT","Direct_Resident",12
+1979,"Trinidad and Tobago","TT","Direct_NonResident",14
+1979,"United Kingdom","GB","Direct_Resident",2350
+1979,"United Kingdom","GB","Direct_NonResident",2761
+1979,"United States of America","US","Direct_Resident",5623
+1979,"United States of America","US","Direct_NonResident",1896
+1979,"Venezuela","VE","Direct_Resident",118
+1979,"Venezuela","VE","Direct_NonResident",87
+1979,"Zaire","ZR","Direct_Resident",2
+1979,"Zambia","ZM","Direct_Resident",1
+1979,"Zambia","ZM","Direct_NonResident",2
+1979,"Zimbabwe","ZW","Direct_Resident",8
+1979,"Zimbabwe","ZW","Direct_NonResident",2
+

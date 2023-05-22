@@ -1,0 +1,89 @@
+Utility model grants by patent office and country of origin (1883-1979),,,,,,,,,
+"Source: WIPO Statistics Database, October 2015",,,,,,,,,
+Note: Counts are based on the grant date.,,,,,,,,,
+,,,,,,,,,
+Modèles d'utilités délivrés par office de brevets et origine (1883-1979),,,,,,,,,
+"Source: base de données statistique de l'OMPI, octobre 2015",,,,,,,,,
+Note: le comptage se fait en utilisant la date de délivrance.  ,,,,,,,,,
+,,,,,,,,,
+"Modelos de utilidad concedidas, por oficina de patentes y origen (1883-1979)",,,,,,,,,
+"Fuente: Base de datos de estadísticas de la OMPI, octubre 2015",,,,,,,,,
+Nota: Los totales se calculan en base al ano calendario. ,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+grant_year,office_code,office_name,office_nom,office_monbre,origin_code,origin_name,origine_nom,origen_nombre,grants
+1948,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,2
+1949,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,10
+1950,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,6
+1951,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,1
+1952,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,14
+1953,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,20
+1954,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,31
+1955,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,73
+1956,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,135
+1957,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,123
+1958,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,177
+1959,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,303
+1960,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,285
+1961,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,245
+1962,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,233
+1963,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,493
+1964,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,480
+1965,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,556
+1966,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,600
+1967,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,819
+1968,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,828
+1969,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,918
+1970,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,864
+1971,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,1141
+1972,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,1145
+1973,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,999
+1974,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,1174
+1975,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,1046
+1976,KR,Republic of Korea,République de Corée,República de Corea,ZZ,Total,Total,Total,1115
+1977,BR,Brazil,Brésil,Brasil,BR,Brazil,Brésil,Brasil,45
+1977,BR,Brazil,Brésil,Brasil,XX,Unknown,Inconnu,Desconocido,7
+1977,DE,Germany,Allemagne,Alemania,DE,Germany,Allemagne,Alemania,12719
+1977,DE,Germany,Allemagne,Alemania,XX,Unknown,Inconnu,Desconocido,2222
+1977,ES,Spain,Espagne,España,ES,Spain,Espagne,España,8890
+1977,ES,Spain,Espagne,España,XX,Unknown,Inconnu,Desconocido,1705
+1977,JP,Japan,Japon,Japón,JP,Japan,Japon,Japón,53992
+1977,JP,Japan,Japon,Japón,XX,Unknown,Inconnu,Desconocido,812
+1977,KR,Republic of Korea,République de Corée,República de Corea,KR,Republic of Korea,République de Corée,República de Corea,577
+1977,LI,Liechtenstein,Liechtenstein,Liechtenstein,LI,Liechtenstein,Liechtenstein,Liechtenstein,3
+1977,PH,Philippines,Philippines,Filipinas,PH,Philippines,Philippines,Filipinas,460
+1977,PH,Philippines,Philippines,Filipinas,XX,Unknown,Inconnu,Desconocido,6
+1977,PL,Poland,Pologne,Polonia,PL,Poland,Pologne,Polonia,1383
+1977,PL,Poland,Pologne,Polonia,XX,Unknown,Inconnu,Desconocido,17
+1977,PT,Portugal,Portugal,Portugal,PT,Portugal,Portugal,Portugal,74
+1977,PT,Portugal,Portugal,Portugal,XX,Unknown,Inconnu,Desconocido,7
+1978,DE,Germany,Allemagne,Alemania,DE,Germany,Allemagne,Alemania,11725
+1978,DE,Germany,Allemagne,Alemania,XX,Unknown,Inconnu,Desconocido,2020
+1978,ES,Spain,Espagne,España,ES,Spain,Espagne,España,5058
+1978,ES,Spain,Espagne,España,XX,Unknown,Inconnu,Desconocido,1084
+1978,JP,Japan,Japon,Japón,JP,Japan,Japon,Japón,56958
+1978,JP,Japan,Japon,Japón,XX,Unknown,Inconnu,Desconocido,744
+1978,KR,Republic of Korea,République de Corée,República de Corea,KR,Republic of Korea,République de Corée,República de Corea,992
+1978,KR,Republic of Korea,République de Corée,República de Corea,XX,Unknown,Inconnu,Desconocido,7
+1978,PH,Philippines,Philippines,Filipinas,PH,Philippines,Philippines,Filipinas,498
+1978,PH,Philippines,Philippines,Filipinas,XX,Unknown,Inconnu,Desconocido,6
+1978,PL,Poland,Pologne,Polonia,PL,Poland,Pologne,Polonia,1385
+1978,PL,Poland,Pologne,Polonia,XX,Unknown,Inconnu,Desconocido,15
+1978,PT,Portugal,Portugal,Portugal,PT,Portugal,Portugal,Portugal,97
+1978,PT,Portugal,Portugal,Portugal,XX,Unknown,Inconnu,Desconocido,12
+1979,BR,Brazil,Brésil,Brasil,BR,Brazil,Brésil,Brasil,65
+1979,BR,Brazil,Brésil,Brasil,XX,Unknown,Inconnu,Desconocido,12
+1979,DE,Germany,Allemagne,Alemania,DE,Germany,Allemagne,Alemania,11643
+1979,DE,Germany,Allemagne,Alemania,XX,Unknown,Inconnu,Desconocido,2011
+1979,ES,Spain,Espagne,España,ES,Spain,Espagne,España,4428
+1979,ES,Spain,Espagne,España,XX,Unknown,Inconnu,Desconocido,927
+1979,JP,Japan,Japon,Japón,JP,Japan,Japon,Japón,43834
+1979,JP,Japan,Japon,Japón,XX,Unknown,Inconnu,Desconocido,766
+1979,KR,Republic of Korea,République de Corée,República de Corea,KR,Republic of Korea,République de Corée,República de Corea,1556
+1979,KR,Republic of Korea,République de Corée,República de Corea,XX,Unknown,Inconnu,Desconocido,225
+1979,PH,Philippines,Philippines,Filipinas,PH,Philippines,Philippines,Filipinas,465
+1979,PH,Philippines,Philippines,Filipinas,XX,Unknown,Inconnu,Desconocido,3
+1979,PL,Poland,Pologne,Polonia,PL,Poland,Pologne,Polonia,1420
+1979,PL,Poland,Pologne,Polonia,XX,Unknown,Inconnu,Desconocido,10
+1979,PT,Portugal,Portugal,Portugal,PT,Portugal,Portugal,Portugal,53
+1979,PT,Portugal,Portugal,Portugal,XX,Unknown,Inconnu,Desconocido,12
